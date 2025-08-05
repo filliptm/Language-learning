@@ -8,6 +8,7 @@ import LanguageHeader from "@/components/shared/LanguageHeader";
 import TranslationSection from "@/components/shared/TranslationSection";
 import FlashcardSystem from "@/components/shared/FlashcardSystem";
 import PhrasesList from "@/components/shared/PhrasesList";
+import { loadSpanishData } from "@/data/languageLoader";
 
 interface SpanishLearningProps {
   onBackToLanguageSelection?: () => void;
@@ -16,78 +17,16 @@ interface SpanishLearningProps {
 export default function SpanishLearning({ onBackToLanguageSelection }: SpanishLearningProps) {
   const [activeSection, setActiveSection] = useState<'translate' | 'phrases' | 'flashcards' | 'grammar'>('translate');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  
+  const languageData = loadSpanishData();
 
-  const flashcardData = [
-    // Basic vocabulary
-    { front: "Hello", back: "Hola", pronunciation: "OH-lah", type: "vocabulary" },
-    { front: "Thank you", back: "Gracias", pronunciation: "GRAH-see-ahs", type: "vocabulary" },
-    { front: "Yes", back: "Sí", pronunciation: "see", type: "vocabulary" },
-    { front: "No", back: "No", pronunciation: "noh", type: "vocabulary" },
-    { front: "Water", back: "Agua", pronunciation: "AH-gwah", type: "vocabulary" },
-    { front: "Food", back: "Comida", pronunciation: "koh-MEE-dah", type: "vocabulary" },
-    { front: "Friend", back: "Amigo", pronunciation: "ah-MEE-goh", type: "vocabulary" },
-    { front: "School", back: "Escuela", pronunciation: "ehs-KWAY-lah", type: "vocabulary" },
-    { front: "House", back: "Casa", pronunciation: "KAH-sah", type: "vocabulary" },
-    { front: "Car", back: "Carro", pronunciation: "KAH-rroh", type: "vocabulary" },
-    { front: "Book", back: "Libro", pronunciation: "LEE-broh", type: "vocabulary" },
-    { front: "Cat", back: "Gato", pronunciation: "GAH-toh", type: "vocabulary" },
-    { front: "Dog", back: "Perro", pronunciation: "PEH-rroh", type: "vocabulary" },
-    { front: "Beautiful", back: "Hermoso", pronunciation: "ehr-MOH-soh", type: "vocabulary" },
-    { front: "Big", back: "Grande", pronunciation: "GRAHN-deh", type: "vocabulary" },
-    { front: "Small", back: "Pequeño", pronunciation: "peh-KEH-nyoh", type: "vocabulary" },
-    // Mexican phrases
-    { front: "Good morning", back: "Buenos días", pronunciation: "BWAY-nohs DEE-ahs", type: "phrase" },
-    { front: "Good night", back: "Buenas noches", pronunciation: "BWAY-nahs NOH-chehs", type: "phrase" },
-    { front: "How are you?", back: "¿Cómo estás?", pronunciation: "KOH-moh ehs-TAHS", type: "phrase" },
-    { front: "What's up?", back: "¿Qué tal?", pronunciation: "keh tahl", type: "phrase" },
-    { front: "Cool! (Mexican)", back: "¡Qué padre!", pronunciation: "keh PAH-dreh", type: "phrase" },
-    { front: "Excuse me", back: "Disculpe", pronunciation: "dees-KOOL-peh", type: "phrase" },
-    { front: "I don't understand", back: "No entiendo", pronunciation: "noh ehn-tee-EHN-doh", type: "phrase" },
-    { front: "See you later", back: "Nos vemos", pronunciation: "nohs VEH-mohs", type: "phrase" }
-  ];
-
-  const commonPhrases = [
-    { english: "Hello", spanish: "Hola", pronunciation: "OH-lah" },
-    { english: "Thank you", spanish: "Gracias", pronunciation: "GRAH-see-ahs" },
-    { english: "How are you?", spanish: "¿Cómo estás?", pronunciation: "KOH-moh ehs-TAHS" },
-    { english: "What's up?", spanish: "¿Qué tal?", pronunciation: "keh tahl" },
-    { english: "Good morning", spanish: "Buenos días", pronunciation: "BWAY-nohs DEE-ahs" },
-    { english: "Good night", spanish: "Buenas noches", pronunciation: "BWAY-nahs NOH-chehs" },
-    { english: "Please", spanish: "Por favor", pronunciation: "por fah-VOR" },
-    { english: "Excuse me", spanish: "Disculpe", pronunciation: "dees-KOOL-peh" },
-    { english: "Cool!", spanish: "¡Qué padre!", pronunciation: "keh PAH-dreh" },
-    { english: "I don't understand", spanish: "No entiendo", pronunciation: "noh ehn-tee-EHN-doh" },
-    { english: "It's okay", spanish: "Está bien", pronunciation: "ehs-TAH bee-ehn" },
-    { english: "See you later", spanish: "Nos vemos", pronunciation: "nohs VEH-mohs" },
-  ];
-
-  const grammarTips = [
-    {
-      title: "Noun Gender",
-      content: "Spanish nouns are either masculine (el) or feminine (la). Most nouns ending in -a are feminine, most ending in -o are masculine.",
-      examples: ["la casa (the house)", "el libro (the book)", "la mesa (the table)", "el carro (the car)"]
-    },
-    {
-      title: "Verb Conjugation",
-      content: "Spanish verbs change form based on who is doing the action. The ending tells you who is performing the verb.",
-      examples: ["yo hablo (I speak)", "tú hablas (you speak)", "él/ella habla (he/she speaks)", "nosotros hablamos (we speak)"]
-    },
-    {
-      title: "Articles",
-      content: "Spanish has definite articles (the) and indefinite articles (a/an) that must agree with the gender and number of the noun.",
-      examples: ["el gato (the cat - masculine)", "la gata (the cat - feminine)", "un gato (a cat - masculine)", "una gata (a cat - feminine)"]
-    },
-    {
-      title: "Accent Marks",
-      content: "Spanish uses accent marks (tildes) to show stress and sometimes to distinguish between different words.",
-      examples: ["sí (yes) vs si (if)", "más (more) vs mas (but)", "qué (what) vs que (that)"]
-    },
-    {
-      title: "Question Formation",
-      content: "Spanish questions use inverted question marks at the beginning and regular ones at the end.",
-      examples: ["¿Cómo estás? (How are you?)", "¿Qué tal? (What's up?)", "¿Dónde vives? (Where do you live?)"]
-    }
-  ];
+  if (!languageData) {
+    return (
+      <div className="min-h-screen bg-gradient-to-b from-background to-muted p-4 sm:p-6 md:p-8 flex items-center justify-center">
+        <div className="text-lg text-red-500">Failed to load Spanish language data</div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-background to-muted p-4 sm:p-6 md:p-8">
@@ -173,17 +112,17 @@ export default function SpanishLearning({ onBackToLanguageSelection }: SpanishLe
         )}
 
         {activeSection === 'phrases' && (
-          <PhrasesList 
+          <PhrasesList
             title="Common Spanish Phrases"
-            phrases={commonPhrases}
+            phrases={languageData.phrases}
             language="spanish"
           />
         )}
 
         {activeSection === 'flashcards' && (
-          <FlashcardSystem 
+          <FlashcardSystem
             title="Spanish Flashcards"
-            data={flashcardData}
+            data={languageData.flashcards}
             language="spanish"
           />
         )}
@@ -192,7 +131,7 @@ export default function SpanishLearning({ onBackToLanguageSelection }: SpanishLe
           <div className="space-y-4">
             <h3 className="text-xl font-semibold">Spanish Grammar Tips</h3>
             <div className="grid gap-4">
-              {grammarTips.map((tip, index) => (
+              {languageData.grammar?.map((tip, index) => (
                 <Card key={index} className="hover:shadow-md transition-shadow">
                   <CardHeader>
                     <CardTitle className="text-lg">{tip.title}</CardTitle>
