@@ -25,30 +25,154 @@
     { "english": "See you tomorrow", "japanese": "また明日", "romaji": "mata ashita" }
   ],
   "flashcards": [
-    { "front": "Hello", "back": "こんにちは", "romaji": "konnichiwa", "type": "vocabulary" },
-    { "front": "Thank you", "back": "ありがとう", "romaji": "arigatou", "type": "vocabulary" },
-    { "front": "Yes", "back": "はい", "romaji": "hai", "type": "vocabulary" },
-    { "front": "No", "back": "いいえ", "romaji": "iie", "type": "vocabulary" },
-    { "front": "Water", "back": "水", "romaji": "mizu", "type": "vocabulary" },
-    { "front": "Food", "back": "食べ物", "romaji": "tabemono", "type": "vocabulary" },
-    { "front": "Friend", "back": "友達", "romaji": "tomodachi", "type": "vocabulary" },
-    { "front": "School", "back": "学校", "romaji": "gakkou", "type": "vocabulary" },
-    { "front": "House", "back": "家", "romaji": "ie", "type": "vocabulary" },
-    { "front": "Car", "back": "車", "romaji": "kuruma", "type": "vocabulary" },
-    { "front": "Book", "back": "本", "romaji": "hon", "type": "vocabulary" },
-    { "front": "Cat", "back": "猫", "romaji": "neko", "type": "vocabulary" },
-    { "front": "Dog", "back": "犬", "romaji": "inu", "type": "vocabulary" },
-    { "front": "Beautiful", "back": "美しい", "romaji": "utsukushii", "type": "vocabulary" },
-    { "front": "Big", "back": "大きい", "romaji": "ookii", "type": "vocabulary" },
-    { "front": "Small", "back": "小さい", "romaji": "chiisai", "type": "vocabulary" },
-    { "front": "Good morning", "back": "おはようございます", "romaji": "ohayou gozaimasu", "type": "phrase" },
-    { "front": "Good evening", "back": "こんばんは", "romaji": "konbanwa", "type": "phrase" },
-    { "front": "Excuse me", "back": "すみません", "romaji": "sumimasen", "type": "phrase" },
-    { "front": "I'm sorry", "back": "ごめんなさい", "romaji": "gomen nasai", "type": "phrase" },
-    { "front": "Please", "back": "お願いします", "romaji": "onegai shimasu", "type": "phrase" },
-    { "front": "Nice to meet you", "back": "はじめまして", "romaji": "hajimemashite", "type": "phrase" },
-    { "front": "How are you?", "back": "元気ですか？", "romaji": "genki desu ka?", "type": "phrase" },
-    { "front": "I don't understand", "back": "わかりません", "romaji": "wakarimasen", "type": "phrase" }
+    { "front": "Hello", "back": "こんにちは", "romaji": "konnichiwa", "type": "vocabulary", "category": "basics" },
+    { "front": "Thank you", "back": "ありがとう", "romaji": "arigatou", "type": "vocabulary", "category": "basics" },
+    { "front": "Yes", "back": "はい", "romaji": "hai", "type": "vocabulary", "category": "basics" },
+    { "front": "No", "back": "いいえ", "romaji": "iie", "type": "vocabulary", "category": "basics" },
+    { "front": "Water", "back": "水", "romaji": "mizu", "type": "vocabulary", "category": "nouns" },
+    { "front": "Food", "back": "食べ物", "romaji": "tabemono", "type": "vocabulary", "category": "nouns" },
+    { "front": "Friend", "back": "友達", "romaji": "tomodachi", "type": "vocabulary", "category": "nouns" },
+    { "front": "School", "back": "学校", "romaji": "gakkou", "type": "vocabulary", "category": "nouns" },
+    { "front": "House", "back": "家", "romaji": "ie", "type": "vocabulary", "category": "nouns" },
+    { "front": "Car", "back": "車", "romaji": "kuruma", "type": "vocabulary", "category": "nouns" },
+    { "front": "Book", "back": "本", "romaji": "hon", "type": "vocabulary", "category": "nouns" },
+    { "front": "Cat", "back": "猫", "romaji": "neko", "type": "vocabulary", "category": "nouns" },
+    { "front": "Dog", "back": "犬", "romaji": "inu", "type": "vocabulary", "category": "nouns" },
+    { "front": "Beautiful", "back": "美しい", "romaji": "utsukushii", "type": "vocabulary", "category": "adjectives" },
+    { "front": "Big", "back": "大きい", "romaji": "ookii", "type": "vocabulary", "category": "adjectives" },
+    { "front": "Small", "back": "小さい", "romaji": "chiisai", "type": "vocabulary", "category": "adjectives" },
+    { "front": "Good morning", "back": "おはようございます", "romaji": "ohayou gozaimasu", "type": "phrase", "category": "phrases" },
+    { "front": "Good evening", "back": "こんばんは", "romaji": "konbanwa", "type": "phrase", "category": "phrases" },
+    { "front": "Excuse me", "back": "すみません", "romaji": "sumimasen", "type": "phrase", "category": "phrases" },
+    { "front": "I'm sorry", "back": "ごめんなさい", "romaji": "gomen nasai", "type": "phrase", "category": "phrases" },
+    { "front": "Please", "back": "お願いします", "romaji": "onegai shimasu", "type": "phrase", "category": "phrases" },
+    { "front": "Nice to meet you", "back": "はじめまして", "romaji": "hajimemashite", "type": "phrase", "category": "phrases" },
+    { "front": "How are you?", "back": "元気ですか？", "romaji": "genki desu ka?", "type": "phrase", "category": "phrases" },
+    { "front": "I don't understand", "back": "わかりません", "romaji": "wakarimasen", "type": "phrase", "category": "phrases" }
+  ],
+  "flashcardCategories": [
+    {
+      "id": "basics",
+      "name": "Basics",
+      "description": "Essential words for beginners",
+      "icon": "🌟",
+      "cards": [
+        { "front": "Hello", "back": "こんにちは", "romaji": "konnichiwa", "type": "vocabulary", "category": "basics" },
+        { "front": "Thank you", "back": "ありがとう", "romaji": "arigatou", "type": "vocabulary", "category": "basics" },
+        { "front": "Yes", "back": "はい", "romaji": "hai", "type": "vocabulary", "category": "basics" },
+        { "front": "No", "back": "いいえ", "romaji": "iie", "type": "vocabulary", "category": "basics" },
+        { "front": "Please", "back": "お願いします", "romaji": "onegai shimasu", "type": "vocabulary", "category": "basics" },
+        { "front": "Excuse me", "back": "すみません", "romaji": "sumimasen", "type": "vocabulary", "category": "basics" }
+      ]
+    },
+    {
+      "id": "nouns",
+      "name": "Nouns",
+      "description": "People, places, and things",
+      "icon": "📦",
+      "cards": [
+        { "front": "Water", "back": "水", "romaji": "mizu", "type": "vocabulary", "category": "nouns" },
+        { "front": "Food", "back": "食べ物", "romaji": "tabemono", "type": "vocabulary", "category": "nouns" },
+        { "front": "Friend", "back": "友達", "romaji": "tomodachi", "type": "vocabulary", "category": "nouns" },
+        { "front": "School", "back": "学校", "romaji": "gakkou", "type": "vocabulary", "category": "nouns" },
+        { "front": "House", "back": "家", "romaji": "ie", "type": "vocabulary", "category": "nouns" },
+        { "front": "Car", "back": "車", "romaji": "kuruma", "type": "vocabulary", "category": "nouns" },
+        { "front": "Book", "back": "本", "romaji": "hon", "type": "vocabulary", "category": "nouns" },
+        { "front": "Cat", "back": "猫", "romaji": "neko", "type": "vocabulary", "category": "nouns" },
+        { "front": "Dog", "back": "犬", "romaji": "inu", "type": "vocabulary", "category": "nouns" },
+        { "front": "Mother", "back": "お母さん", "romaji": "okaasan", "type": "vocabulary", "category": "nouns" },
+        { "front": "Father", "back": "お父さん", "romaji": "otousan", "type": "vocabulary", "category": "nouns" },
+        { "front": "Teacher", "back": "先生", "romaji": "sensei", "type": "vocabulary", "category": "nouns" }
+      ]
+    },
+    {
+      "id": "verbs",
+      "name": "Verbs",
+      "description": "Action words",
+      "icon": "⚡",
+      "cards": [
+        { "front": "To eat", "back": "食べる", "romaji": "taberu", "type": "vocabulary", "category": "verbs" },
+        { "front": "To drink", "back": "飲む", "romaji": "nomu", "type": "vocabulary", "category": "verbs" },
+        { "front": "To go", "back": "行く", "romaji": "iku", "type": "vocabulary", "category": "verbs" },
+        { "front": "To come", "back": "来る", "romaji": "kuru", "type": "vocabulary", "category": "verbs" },
+        { "front": "To see", "back": "見る", "romaji": "miru", "type": "vocabulary", "category": "verbs" },
+        { "front": "To read", "back": "読む", "romaji": "yomu", "type": "vocabulary", "category": "verbs" },
+        { "front": "To write", "back": "書く", "romaji": "kaku", "type": "vocabulary", "category": "verbs" },
+        { "front": "To speak", "back": "話す", "romaji": "hanasu", "type": "vocabulary", "category": "verbs" },
+        { "front": "To sleep", "back": "寝る", "romaji": "neru", "type": "vocabulary", "category": "verbs" },
+        { "front": "To wake up", "back": "起きる", "romaji": "okiru", "type": "vocabulary", "category": "verbs" }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "name": "Adjectives",
+      "description": "Descriptive words",
+      "icon": "🎨",
+      "cards": [
+        { "front": "Beautiful", "back": "美しい", "romaji": "utsukushii", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Big", "back": "大きい", "romaji": "ookii", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Small", "back": "小さい", "romaji": "chiisai", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Good", "back": "良い", "romaji": "yoi", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Bad", "back": "悪い", "romaji": "warui", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Hot", "back": "熱い", "romaji": "atsui", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Cold", "back": "冷たい", "romaji": "tsumetai", "type": "vocabulary", "category": "adjectives" },
+        { "front": "New", "back": "新しい", "romaji": "atarashii", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Old", "back": "古い", "romaji": "furui", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Fast", "back": "速い", "romaji": "hayai", "type": "vocabulary", "category": "adjectives" }
+      ]
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "description": "Counting and quantities",
+      "icon": "🔢",
+      "cards": [
+        { "front": "One", "back": "一", "romaji": "ichi", "type": "vocabulary", "category": "numbers" },
+        { "front": "Two", "back": "二", "romaji": "ni", "type": "vocabulary", "category": "numbers" },
+        { "front": "Three", "back": "三", "romaji": "san", "type": "vocabulary", "category": "numbers" },
+        { "front": "Four", "back": "四", "romaji": "shi/yon", "type": "vocabulary", "category": "numbers" },
+        { "front": "Five", "back": "五", "romaji": "go", "type": "vocabulary", "category": "numbers" },
+        { "front": "Six", "back": "六", "romaji": "roku", "type": "vocabulary", "category": "numbers" },
+        { "front": "Seven", "back": "七", "romaji": "shichi/nana", "type": "vocabulary", "category": "numbers" },
+        { "front": "Eight", "back": "八", "romaji": "hachi", "type": "vocabulary", "category": "numbers" },
+        { "front": "Nine", "back": "九", "romaji": "kyuu", "type": "vocabulary", "category": "numbers" },
+        { "front": "Ten", "back": "十", "romaji": "juu", "type": "vocabulary", "category": "numbers" }
+      ]
+    },
+    {
+      "id": "colors",
+      "name": "Colors",
+      "description": "Color vocabulary",
+      "icon": "🌈",
+      "cards": [
+        { "front": "Red", "back": "赤", "romaji": "aka", "type": "vocabulary", "category": "colors" },
+        { "front": "Blue", "back": "青", "romaji": "ao", "type": "vocabulary", "category": "colors" },
+        { "front": "Green", "back": "緑", "romaji": "midori", "type": "vocabulary", "category": "colors" },
+        { "front": "Yellow", "back": "黄色", "romaji": "kiiro", "type": "vocabulary", "category": "colors" },
+        { "front": "Black", "back": "黒", "romaji": "kuro", "type": "vocabulary", "category": "colors" },
+        { "front": "White", "back": "白", "romaji": "shiro", "type": "vocabulary", "category": "colors" },
+        { "front": "Pink", "back": "ピンク", "romaji": "pinku", "type": "vocabulary", "category": "colors" },
+        { "front": "Purple", "back": "紫", "romaji": "murasaki", "type": "vocabulary", "category": "colors" },
+        { "front": "Orange", "back": "オレンジ", "romaji": "orenji", "type": "vocabulary", "category": "colors" },
+        { "front": "Brown", "back": "茶色", "romaji": "chairo", "type": "vocabulary", "category": "colors" }
+      ]
+    },
+    {
+      "id": "phrases",
+      "name": "Phrases",
+      "description": "Common expressions",
+      "icon": "💬",
+      "cards": [
+        { "front": "Good morning", "back": "おはようございます", "romaji": "ohayou gozaimasu", "type": "phrase", "category": "phrases" },
+        { "front": "Good evening", "back": "こんばんは", "romaji": "konbanwa", "type": "phrase", "category": "phrases" },
+        { "front": "Nice to meet you", "back": "はじめまして", "romaji": "hajimemashite", "type": "phrase", "category": "phrases" },
+        { "front": "How are you?", "back": "元気ですか？", "romaji": "genki desu ka?", "type": "phrase", "category": "phrases" },
+        { "front": "I don't understand", "back": "わかりません", "romaji": "wakarimasen", "type": "phrase", "category": "phrases" },
+        { "front": "I'm sorry", "back": "ごめんなさい", "romaji": "gomen nasai", "type": "phrase", "category": "phrases" },
+        { "front": "See you later", "back": "また後で", "romaji": "mata ato de", "type": "phrase", "category": "phrases" },
+        { "front": "Goodbye", "back": "さようなら", "romaji": "sayounara", "type": "phrase", "category": "phrases" }
+      ]
+    }
   ],
   "characters": {
     "katakana": [

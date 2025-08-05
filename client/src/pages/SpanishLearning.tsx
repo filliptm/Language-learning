@@ -122,7 +122,7 @@ export default function SpanishLearning({ onBackToLanguageSelection }: SpanishLe
         {activeSection === 'flashcards' && (
           <FlashcardSystem
             title="Spanish Flashcards"
-            data={languageData.flashcards}
+            categories={languageData.flashcardCategories}
             language="spanish"
           />
         )}

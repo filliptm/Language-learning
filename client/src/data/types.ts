@@ -20,6 +20,15 @@ export interface Flashcard {
   romaji?: string;
   pronunciation?: string;
   type: 'vocabulary' | 'phrase';
+  category: 'nouns' | 'verbs' | 'adjectives' | 'adverbs' | 'prepositions' | 'phrases' | 'numbers' | 'colors' | 'basics';
+}
+
+export interface FlashcardCategory {
+  id: string;
+  name: string;
+  description: string;
+  icon: string;
+  cards: Flashcard[];
 }
 
 export interface Character {
@@ -37,6 +46,7 @@ export interface LanguageData {
   language: LanguageInfo;
   phrases: Phrase[];
   flashcards: Flashcard[];
+  flashcardCategories: FlashcardCategory[];
   grammar?: GrammarTip[];
   characters?: {
     katakana?: Character[];

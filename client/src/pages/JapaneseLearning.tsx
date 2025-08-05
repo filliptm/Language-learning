@@ -119,9 +119,9 @@ export default function JapaneseLearning({ onBackToLanguageSelection }: Japanese
         )}
 
         {activeSection === 'flashcards' && (
-          <FlashcardSystem 
+          <FlashcardSystem
             title="Japanese Flashcards"
-            data={languageData.flashcards}
+            categories={languageData.flashcardCategories}
             language="japanese"
           />
         )}

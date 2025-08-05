@@ -19,30 +19,154 @@
     { "english": "See you later", "spanish": "Nos vemos", "pronunciation": "nohs VEH-mohs" }
   ],
   "flashcards": [
-    { "front": "Hello", "back": "Hola", "pronunciation": "OH-lah", "type": "vocabulary" },
-    { "front": "Thank you", "back": "Gracias", "pronunciation": "GRAH-see-ahs", "type": "vocabulary" },
-    { "front": "Yes", "back": "Sí", "pronunciation": "see", "type": "vocabulary" },
-    { "front": "No", "back": "No", "pronunciation": "noh", "type": "vocabulary" },
-    { "front": "Water", "back": "Agua", "pronunciation": "AH-gwah", "type": "vocabulary" },
-    { "front": "Food", "back": "Comida", "pronunciation": "koh-MEE-dah", "type": "vocabulary" },
-    { "front": "Friend", "back": "Amigo", "pronunciation": "ah-MEE-goh", "type": "vocabulary" },
-    { "front": "School", "back": "Escuela", "pronunciation": "ehs-KWAY-lah", "type": "vocabulary" },
-    { "front": "House", "back": "Casa", "pronunciation": "KAH-sah", "type": "vocabulary" },
-    { "front": "Car", "back": "Carro", "pronunciation": "KAH-rroh", "type": "vocabulary" },
-    { "front": "Book", "back": "Libro", "pronunciation": "LEE-broh", "type": "vocabulary" },
-    { "front": "Cat", "back": "Gato", "pronunciation": "GAH-toh", "type": "vocabulary" },
-    { "front": "Dog", "back": "Perro", "pronunciation": "PEH-rroh", "type": "vocabulary" },
-    { "front": "Beautiful", "back": "Hermoso", "pronunciation": "ehr-MOH-soh", "type": "vocabulary" },
-    { "front": "Big", "back": "Grande", "pronunciation": "GRAHN-deh", "type": "vocabulary" },
-    { "front": "Small", "back": "Pequeño", "pronunciation": "peh-KEH-nyoh", "type": "vocabulary" },
-    { "front": "Good morning", "back": "Buenos días", "pronunciation": "BWAY-nohs DEE-ahs", "type": "phrase" },
-    { "front": "Good night", "back": "Buenas noches", "pronunciation": "BWAY-nahs NOH-chehs", "type": "phrase" },
-    { "front": "How are you?", "back": "¿Cómo estás?", "pronunciation": "KOH-moh ehs-TAHS", "type": "phrase" },
-    { "front": "What's up?", "back": "¿Qué tal?", "pronunciation": "keh tahl", "type": "phrase" },
-    { "front": "Cool! (Mexican)", "back": "¡Qué padre!", "pronunciation": "keh PAH-dreh", "type": "phrase" },
-    { "front": "Excuse me", "back": "Disculpe", "pronunciation": "dees-KOOL-peh", "type": "phrase" },
-    { "front": "I don't understand", "back": "No entiendo", "pronunciation": "noh ehn-tee-EHN-doh", "type": "phrase" },
-    { "front": "See you later", "back": "Nos vemos", "pronunciation": "nohs VEH-mohs", "type": "phrase" }
+    { "front": "Hello", "back": "Hola", "pronunciation": "OH-lah", "type": "vocabulary", "category": "basics" },
+    { "front": "Thank you", "back": "Gracias", "pronunciation": "GRAH-see-ahs", "type": "vocabulary", "category": "basics" },
+    { "front": "Yes", "back": "Sí", "pronunciation": "see", "type": "vocabulary", "category": "basics" },
+    { "front": "No", "back": "No", "pronunciation": "noh", "type": "vocabulary", "category": "basics" },
+    { "front": "Water", "back": "Agua", "pronunciation": "AH-gwah", "type": "vocabulary", "category": "nouns" },
+    { "front": "Food", "back": "Comida", "pronunciation": "koh-MEE-dah", "type": "vocabulary", "category": "nouns" },
+    { "front": "Friend", "back": "Amigo", "pronunciation": "ah-MEE-goh", "type": "vocabulary", "category": "nouns" },
+    { "front": "School", "back": "Escuela", "pronunciation": "ehs-KWAY-lah", "type": "vocabulary", "category": "nouns" },
+    { "front": "House", "back": "Casa", "pronunciation": "KAH-sah", "type": "vocabulary", "category": "nouns" },
+    { "front": "Car", "back": "Carro", "pronunciation": "KAH-rroh", "type": "vocabulary", "category": "nouns" },
+    { "front": "Book", "back": "Libro", "pronunciation": "LEE-broh", "type": "vocabulary", "category": "nouns" },
+    { "front": "Cat", "back": "Gato", "pronunciation": "GAH-toh", "type": "vocabulary", "category": "nouns" },
+    { "front": "Dog", "back": "Perro", "pronunciation": "PEH-rroh", "type": "vocabulary", "category": "nouns" },
+    { "front": "Beautiful", "back": "Hermoso", "pronunciation": "ehr-MOH-soh", "type": "vocabulary", "category": "adjectives" },
+    { "front": "Big", "back": "Grande", "pronunciation": "GRAHN-deh", "type": "vocabulary", "category": "adjectives" },
+    { "front": "Small", "back": "Pequeño", "pronunciation": "peh-KEH-nyoh", "type": "vocabulary", "category": "adjectives" },
+    { "front": "Good morning", "back": "Buenos días", "pronunciation": "BWAY-nohs DEE-ahs", "type": "phrase", "category": "phrases" },
+    { "front": "Good night", "back": "Buenas noches", "pronunciation": "BWAY-nahs NOH-chehs", "type": "phrase", "category": "phrases" },
+    { "front": "How are you?", "back": "¿Cómo estás?", "pronunciation": "KOH-moh ehs-TAHS", "type": "phrase", "category": "phrases" },
+    { "front": "What's up?", "back": "¿Qué tal?", "pronunciation": "keh tahl", "type": "phrase", "category": "phrases" },
+    { "front": "Cool! (Mexican)", "back": "¡Qué padre!", "pronunciation": "keh PAH-dreh", "type": "phrase", "category": "phrases" },
+    { "front": "Excuse me", "back": "Disculpe", "pronunciation": "dees-KOOL-peh", "type": "phrase", "category": "phrases" },
+    { "front": "I don't understand", "back": "No entiendo", "pronunciation": "noh ehn-tee-EHN-doh", "type": "phrase", "category": "phrases" },
+    { "front": "See you later", "back": "Nos vemos", "pronunciation": "nohs VEH-mohs", "type": "phrase", "category": "phrases" }
+  ],
+  "flashcardCategories": [
+    {
+      "id": "basics",
+      "name": "Basics",
+      "description": "Essential words for beginners",
+      "icon": "🌟",
+      "cards": [
+        { "front": "Hello", "back": "Hola", "pronunciation": "OH-lah", "type": "vocabulary", "category": "basics" },
+        { "front": "Thank you", "back": "Gracias", "pronunciation": "GRAH-see-ahs", "type": "vocabulary", "category": "basics" },
+        { "front": "Yes", "back": "Sí", "pronunciation": "see", "type": "vocabulary", "category": "basics" },
+        { "front": "No", "back": "No", "pronunciation": "noh", "type": "vocabulary", "category": "basics" },
+        { "front": "Please", "back": "Por favor", "pronunciation": "por fah-VOR", "type": "vocabulary", "category": "basics" },
+        { "front": "Excuse me", "back": "Disculpe", "pronunciation": "dees-KOOL-peh", "type": "vocabulary", "category": "basics" }
+      ]
+    },
+    {
+      "id": "nouns",
+      "name": "Nouns",
+      "description": "People, places, and things",
+      "icon": "📦",
+      "cards": [
+        { "front": "Water", "back": "Agua", "pronunciation": "AH-gwah", "type": "vocabulary", "category": "nouns" },
+        { "front": "Food", "back": "Comida", "pronunciation": "koh-MEE-dah", "type": "vocabulary", "category": "nouns" },
+        { "front": "Friend", "back": "Amigo", "pronunciation": "ah-MEE-goh", "type": "vocabulary", "category": "nouns" },
+        { "front": "School", "back": "Escuela", "pronunciation": "ehs-KWAY-lah", "type": "vocabulary", "category": "nouns" },
+        { "front": "House", "back": "Casa", "pronunciation": "KAH-sah", "type": "vocabulary", "category": "nouns" },
+        { "front": "Car", "back": "Carro", "pronunciation": "KAH-rroh", "type": "vocabulary", "category": "nouns" },
+        { "front": "Book", "back": "Libro", "pronunciation": "LEE-broh", "type": "vocabulary", "category": "nouns" },
+        { "front": "Cat", "back": "Gato", "pronunciation": "GAH-toh", "type": "vocabulary", "category": "nouns" },
+        { "front": "Dog", "back": "Perro", "pronunciation": "PEH-rroh", "type": "vocabulary", "category": "nouns" },
+        { "front": "Mother", "back": "Madre", "pronunciation": "MAH-dreh", "type": "vocabulary", "category": "nouns" },
+        { "front": "Father", "back": "Padre", "pronunciation": "PAH-dreh", "type": "vocabulary", "category": "nouns" },
+        { "front": "Teacher", "back": "Maestro", "pronunciation": "mah-EHS-troh", "type": "vocabulary", "category": "nouns" }
+      ]
+    },
+    {
+      "id": "verbs",
+      "name": "Verbs",
+      "description": "Action words",
+      "icon": "⚡",
+      "cards": [
+        { "front": "To eat", "back": "Comer", "pronunciation": "koh-MEHR", "type": "vocabulary", "category": "verbs" },
+        { "front": "To drink", "back": "Beber", "pronunciation": "beh-BEHR", "type": "vocabulary", "category": "verbs" },
+        { "front": "To go", "back": "Ir", "pronunciation": "eer", "type": "vocabulary", "category": "verbs" },
+        { "front": "To come", "back": "Venir", "pronunciation": "veh-NEER", "type": "vocabulary", "category": "verbs" },
+        { "front": "To see", "back": "Ver", "pronunciation": "vehr", "type": "vocabulary", "category": "verbs" },
+        { "front": "To read", "back": "Leer", "pronunciation": "leh-EHR", "type": "vocabulary", "category": "verbs" },
+        { "front": "To write", "back": "Escribir", "pronunciation": "ehs-kree-BEER", "type": "vocabulary", "category": "verbs" },
+        { "front": "To speak", "back": "Hablar", "pronunciation": "ah-BLAHR", "type": "vocabulary", "category": "verbs" },
+        { "front": "To sleep", "back": "Dormir", "pronunciation": "dor-MEER", "type": "vocabulary", "category": "verbs" },
+        { "front": "To wake up", "back": "Despertar", "pronunciation": "dehs-pehr-TAHR", "type": "vocabulary", "category": "verbs" }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "name": "Adjectives",
+      "description": "Descriptive words",
+      "icon": "🎨",
+      "cards": [
+        { "front": "Beautiful", "back": "Hermoso", "pronunciation": "ehr-MOH-soh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Big", "back": "Grande", "pronunciation": "GRAHN-deh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Small", "back": "Pequeño", "pronunciation": "peh-KEH-nyoh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Good", "back": "Bueno", "pronunciation": "BWAY-noh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Bad", "back": "Malo", "pronunciation": "MAH-loh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Hot", "back": "Caliente", "pronunciation": "kah-lee-EHN-teh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Cold", "back": "Frío", "pronunciation": "FREE-oh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "New", "back": "Nuevo", "pronunciation": "NWAY-voh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Old", "back": "Viejo", "pronunciation": "vee-EH-hoh", "type": "vocabulary", "category": "adjectives" },
+        { "front": "Fast", "back": "Rápido", "pronunciation": "RAH-pee-doh", "type": "vocabulary", "category": "adjectives" }
+      ]
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "description": "Counting and quantities",
+      "icon": "🔢",
+      "cards": [
+        { "front": "One", "back": "Uno", "pronunciation": "OO-noh", "type": "vocabulary", "category": "numbers" },
+        { "front": "Two", "back": "Dos", "pronunciation": "dohs", "type": "vocabulary", "category": "numbers" },
+        { "front": "Three", "back": "Tres", "pronunciation": "trehs", "type": "vocabulary", "category": "numbers" },
+        { "front": "Four", "back": "Cuatro", "pronunciation": "KWAH-troh", "type": "vocabulary", "category": "numbers" },
+        { "front": "Five", "back": "Cinco", "pronunciation": "SEEN-koh", "type": "vocabulary", "category": "numbers" },
+        { "front": "Six", "back": "Seis", "pronunciation": "says", "type": "vocabulary", "category": "numbers" },
+        { "front": "Seven", "back": "Siete", "pronunciation": "see-EH-teh", "type": "vocabulary", "category": "numbers" },
+        { "front": "Eight", "back": "Ocho", "pronunciation": "OH-choh", "type": "vocabulary", "category": "numbers" },
+        { "front": "Nine", "back": "Nueve", "pronunciation": "NWAY-veh", "type": "vocabulary", "category": "numbers" },
+        { "front": "Ten", "back": "Diez", "pronunciation": "dee-EHS", "type": "vocabulary", "category": "numbers" }
+      ]
+    },
+    {
+      "id": "colors",
+      "name": "Colors",
+      "description": "Color vocabulary",
+      "icon": "🌈",
+      "cards": [
+        { "front": "Red", "back": "Rojo", "pronunciation": "ROH-hoh", "type": "vocabulary", "category": "colors" },
+        { "front": "Blue", "back": "Azul", "pronunciation": "ah-SOOL", "type": "vocabulary", "category": "colors" },
+        { "front": "Green", "back": "Verde", "pronunciation": "VEHR-deh", "type": "vocabulary", "category": "colors" },
+        { "front": "Yellow", "back": "Amarillo", "pronunciation": "ah-mah-REE-yoh", "type": "vocabulary", "category": "colors" },
+        { "front": "Black", "back": "Negro", "pronunciation": "NEH-groh", "type": "vocabulary", "category": "colors" },
+        { "front": "White", "back": "Blanco", "pronunciation": "BLAHN-koh", "type": "vocabulary", "category": "colors" },
+        { "front": "Pink", "back": "Rosa", "pronunciation": "ROH-sah", "type": "vocabulary", "category": "colors" },
+        { "front": "Purple", "back": "Morado", "pronunciation": "moh-RAH-doh", "type": "vocabulary", "category": "colors" },
+        { "front": "Orange", "back": "Naranja", "pronunciation": "nah-RAHN-hah", "type": "vocabulary", "category": "colors" },
+        { "front": "Brown", "back": "Café", "pronunciation": "kah-FEH", "type": "vocabulary", "category": "colors" }
+      ]
+    },
+    {
+      "id": "phrases",
+      "name": "Phrases",
+      "description": "Common expressions",
+      "icon": "💬",
+      "cards": [
+        { "front": "Good morning", "back": "Buenos días", "pronunciation": "BWAY-nohs DEE-ahs", "type": "phrase", "category": "phrases" },
+        { "front": "Good night", "back": "Buenas noches", "pronunciation": "BWAY-nahs NOH-chehs", "type": "phrase", "category": "phrases" },
+        { "front": "How are you?", "back": "¿Cómo estás?", "pronunciation": "KOH-moh ehs-TAHS", "type": "phrase", "category": "phrases" },
+        { "front": "What's up?", "back": "¿Qué tal?", "pronunciation": "keh tahl", "type": "phrase", "category": "phrases" },
+        { "front": "Cool! (Mexican)", "back": "¡Qué padre!", "pronunciation": "keh PAH-dreh", "type": "phrase", "category": "phrases" },
+        { "front": "I don't understand", "back": "No entiendo", "pronunciation": "noh ehn-tee-EHN-doh", "type": "phrase", "category": "phrases" },
+        { "front": "See you later", "back": "Nos vemos", "pronunciation": "nohs VEH-mohs", "type": "phrase", "category": "phrases" },
+        { "front": "It's okay", "back": "Está bien", "pronunciation": "ehs-TAH bee-ehn", "type": "phrase", "category": "phrases" }
+      ]
+    }
   ],
   "grammar": [
     {
