@@ -1,8 +1,8 @@
-# Japanese Translation App
+# Language Learning Translation App
 
 ## Overview
 
-This is a full-stack web application that provides English-to-Japanese translation services using Claude AI (Anthropic's API). The app features both a translation interface and a Japanese character flashcard system for learning. It's built with a modern React frontend, Express backend, and uses PostgreSQL for data storage.
+This is a full-stack web application that provides English-to-Japanese and English-to-Spanish translation services using Claude AI (Anthropic's API). The app features translation interfaces and character/vocabulary flashcard systems for learning. It's built with a modern React frontend and Express backend, operating entirely stateless without a database.
 
 ## System Architecture
 
@@ -17,14 +17,8 @@ This is a full-stack web application that provides English-to-Japanese translati
 ### Backend Architecture
 - **Framework**: Express.js with TypeScript
 - **Runtime**: Node.js 20
-- **Database ORM**: Drizzle ORM with Zod schema validation
 - **API Integration**: Anthropic SDK for Claude AI translation services
 - **Development**: TSX for TypeScript execution in development
-
-### Database Architecture
-- **Database**: PostgreSQL 16
-- **Schema Management**: Drizzle Kit for migrations and schema management
-- **Connection**: Neon serverless driver for PostgreSQL connections
 
 ## Key Components
 
@@ -71,7 +65,6 @@ This is a full-stack web application that provides English-to-Japanese translati
 
 ### Core Dependencies
 - **@anthropic-ai/sdk**: Claude AI integration for translations
-- **drizzle-orm**: Type-safe database operations
 - **@tanstack/react-query**: Server state management
 - **wouter**: Lightweight routing solution
 
@@ -94,7 +87,6 @@ This is a full-stack web application that provides English-to-Japanese translati
 - **Build Process**: Two-stage build (frontend via Vite, backend via esbuild)
 
 ### Environment Requirements
-- `DATABASE_URL`: PostgreSQL connection string
 - `ANTHROPIC_API_KEY`: Claude AI API authentication
 
 ### Build Commands
@@ -102,10 +94,6 @@ This is a full-stack web application that provides English-to-Japanese translati
 - **Production Build**: `npm run build` (builds both frontend and backend)
 - **Production Start**: `npm run start` (runs compiled Node.js server)
 
-### Database Management
-- Schema migrations managed through Drizzle Kit
-- `npm run db:push` for schema synchronization
-- Auto-migration setup in production environment
 
 ## Project Structure
 

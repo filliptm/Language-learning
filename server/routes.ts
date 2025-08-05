@@ -1,6 +1,10 @@
+import { config } from "dotenv";
 import type { Express } from "express";
 import { createServer, type Server } from "http";
 import Anthropic from '@anthropic-ai/sdk';
+
+// Load environment variables from .env file
+config();
 
 // the newest Anthropic model is "claude-3-5-sonnet-20241022" which was released October 22, 2024
 const MODEL = "claude-3-5-sonnet-20241022";
