@@ -1,0 +1,673 @@
+{
+  "id": "weather",
+  "name": "Weather",
+  "description": "Weather conditions and climate",
+  "icon": "🌤️",
+  "cards": [
+    {
+      "front": "Weather",
+      "back": "天気",
+      "romaji": "tenki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sun",
+      "back": "太陽",
+      "romaji": "taiyou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Moon",
+      "back": "月",
+      "romaji": "tsuki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Star",
+      "back": "星",
+      "romaji": "hoshi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cloud",
+      "back": "雲",
+      "romaji": "kumo",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Rain",
+      "back": "雨",
+      "romaji": "ame",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Snow",
+      "back": "雪",
+      "romaji": "yuki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Wind",
+      "back": "風",
+      "romaji": "kaze",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Storm",
+      "back": "嵐",
+      "romaji": "arashi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Thunder",
+      "back": "雷",
+      "romaji": "kaminari",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Lightning",
+      "back": "稲妻",
+      "romaji": "inazuma",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Rainbow",
+      "back": "虹",
+      "romaji": "niji",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hot",
+      "back": "暑い",
+      "romaji": "atsui",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cold",
+      "back": "寒い",
+      "romaji": "samui",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Warm",
+      "back": "暖かい",
+      "romaji": "atatakai",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cool",
+      "back": "涼しい",
+      "romaji": "suzushii",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Humid",
+      "back": "湿気",
+      "romaji": "shikke",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Dry",
+      "back": "乾燥",
+      "romaji": "kansou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Clear",
+      "back": "晴れ",
+      "romaji": "hare",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cloudy",
+      "back": "曇り",
+      "romaji": "kumori",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Rainy",
+      "back": "雨降り",
+      "romaji": "amefuri",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Snowy",
+      "back": "雪降り",
+      "romaji": "yukifuri",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Windy",
+      "back": "風が強い",
+      "romaji": "kaze ga tsuyoi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Foggy",
+      "back": "霧",
+      "romaji": "kiri",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Misty",
+      "back": "霞",
+      "romaji": "kasumi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunny",
+      "back": "晴れた",
+      "romaji": "hareta",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Overcast",
+      "back": "どんより",
+      "romaji": "don'yori",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Drizzle",
+      "back": "小雨",
+      "romaji": "kosame",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Shower",
+      "back": "にわか雨",
+      "romaji": "niwaka ame",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Downpour",
+      "back": "大雨",
+      "romaji": "ooame",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hail",
+      "back": "雹",
+      "romaji": "hyou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sleet",
+      "back": "みぞれ",
+      "romaji": "mizore",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Frost",
+      "back": "霜",
+      "romaji": "shimo",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Ice",
+      "back": "氷",
+      "romaji": "koori",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Dew",
+      "back": "露",
+      "romaji": "tsuyu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Breeze",
+      "back": "そよ風",
+      "romaji": "soyokaze",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Gale",
+      "back": "強風",
+      "romaji": "kyoufuu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hurricane",
+      "back": "ハリケーン",
+      "romaji": "harikeën",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Tornado",
+      "back": "竜巻",
+      "romaji": "tatsumaki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Typhoon",
+      "back": "台風",
+      "romaji": "taifuu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Temperature",
+      "back": "温度",
+      "romaji": "ondo",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Degree",
+      "back": "度",
+      "romaji": "do",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Celsius",
+      "back": "摂氏",
+      "romaji": "sesshi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Fahrenheit",
+      "back": "華氏",
+      "romaji": "kashi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Thermometer",
+      "back": "温度計",
+      "romaji": "ondokei",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Barometer",
+      "back": "気圧計",
+      "romaji": "kiatsukei",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Humidity",
+      "back": "湿度",
+      "romaji": "shitsudo",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Pressure",
+      "back": "気圧",
+      "romaji": "kiatsu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "High pressure",
+      "back": "高気圧",
+      "romaji": "koukiatsu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Low pressure",
+      "back": "低気圧",
+      "romaji": "teikiatsu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Front",
+      "back": "前線",
+      "romaji": "zensen",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Forecast",
+      "back": "天気予報",
+      "romaji": "tenki yohou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Climate",
+      "back": "気候",
+      "romaji": "kikou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Atmosphere",
+      "back": "大気",
+      "romaji": "taiki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Precipitation",
+      "back": "降水",
+      "romaji": "kousui",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Visibility",
+      "back": "視界",
+      "romaji": "shikai",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "UV index",
+      "back": "紫外線指数",
+      "romaji": "shigaisen shisuu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunrise",
+      "back": "日の出",
+      "romaji": "hi no de",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunset",
+      "back": "日の入り",
+      "romaji": "hi no iri",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Dawn",
+      "back": "夜明け",
+      "romaji": "yoake",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Twilight",
+      "back": "黄昏",
+      "romaji": "tasogare",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Daylight",
+      "back": "日光",
+      "romaji": "nikkou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Moonlight",
+      "back": "月光",
+      "romaji": "gekkou",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Starlight",
+      "back": "星明かり",
+      "romaji": "hoshiakari",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Shadow",
+      "back": "影",
+      "romaji": "kage",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Shade",
+      "back": "日陰",
+      "romaji": "hikage",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Bright",
+      "back": "明るい",
+      "romaji": "akarui",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Dark",
+      "back": "暗い",
+      "romaji": "kurai",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Umbrella",
+      "back": "傘",
+      "romaji": "kasa",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Raincoat",
+      "back": "レインコート",
+      "romaji": "reinkōto",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Boots",
+      "back": "ブーツ",
+      "romaji": "būtsu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunglasses",
+      "back": "サングラス",
+      "romaji": "sangurasu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hat",
+      "back": "帽子",
+      "romaji": "boushi",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Scarf",
+      "back": "スカーフ",
+      "romaji": "sukāfu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Gloves",
+      "back": "手袋",
+      "romaji": "tebukuro",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Jacket",
+      "back": "ジャケット",
+      "romaji": "jaketto",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Coat",
+      "back": "コート",
+      "romaji": "kōto",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sweater",
+      "back": "セーター",
+      "romaji": "sētā",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Shorts",
+      "back": "ショーツ",
+      "romaji": "shōtsu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "T-shirt",
+      "back": "Tシャツ",
+      "romaji": "tī shatsu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sandals",
+      "back": "サンダル",
+      "romaji": "sandaru",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Fan",
+      "back": "扇風機",
+      "romaji": "senpūki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Air conditioner",
+      "back": "エアコン",
+      "romaji": "eakon",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Heater",
+      "back": "ヒーター",
+      "romaji": "hītā",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Fireplace",
+      "back": "暖炉",
+      "romaji": "danro",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Window",
+      "back": "窓",
+      "romaji": "mado",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Door",
+      "back": "ドア",
+      "romaji": "doa",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Roof",
+      "back": "屋根",
+      "romaji": "yane",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Shelter",
+      "back": "避難所",
+      "romaji": "hinanjo",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Indoor",
+      "back": "屋内",
+      "romaji": "okunai",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Outdoor",
+      "back": "屋外",
+      "romaji": "okugai",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Fresh air",
+      "back": "新鮮な空気",
+      "romaji": "shinsen na kuuki",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Pollution",
+      "back": "汚染",
+      "romaji": "osen",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Smog",
+      "back": "スモッグ",
+      "romaji": "sumoggu",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Ozone",
+      "back": "オゾン",
+      "romaji": "ozon",
+      "type": "vocabulary",
+      "category": "weather"
+    }
+  ]
+}

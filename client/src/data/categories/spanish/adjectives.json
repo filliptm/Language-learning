@@ -1,0 +1,785 @@
+{
+  "id": "adjectives",
+  "name": "Adjectives",
+  "description": "Descriptive words",
+  "icon": "🎨",
+  "cards": [
+    {
+      "front": "Beautiful",
+      "back": "Hermoso",
+      "pronunciation": "ehr-MOH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Big",
+      "back": "Grande",
+      "pronunciation": "GRAHN-deh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Small",
+      "back": "Pequeño",
+      "pronunciation": "peh-KEH-nyoh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Good",
+      "back": "Bueno",
+      "pronunciation": "BWAY-noh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Bad",
+      "back": "Malo",
+      "pronunciation": "MAH-loh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Hot",
+      "back": "Caliente",
+      "pronunciation": "kah-lee-EHN-teh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Cold",
+      "back": "Frío",
+      "pronunciation": "FREE-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "New",
+      "back": "Nuevo",
+      "pronunciation": "NWAY-voh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Old",
+      "back": "Viejo",
+      "pronunciation": "vee-EH-hoh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Fast",
+      "back": "Rápido",
+      "pronunciation": "RAH-pee-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Slow",
+      "back": "Lento",
+      "pronunciation": "LEHN-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Long",
+      "back": "Largo",
+      "pronunciation": "LAHR-goh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Short",
+      "back": "Corto",
+      "pronunciation": "KOHR-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "High",
+      "back": "Alto",
+      "pronunciation": "AHL-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Low",
+      "back": "Bajo",
+      "pronunciation": "BAH-hoh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Wide",
+      "back": "Ancho",
+      "pronunciation": "AHN-choh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Narrow",
+      "back": "Estrecho",
+      "pronunciation": "ehs-TREH-choh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Thick",
+      "back": "Grueso",
+      "pronunciation": "groo-EH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Thin",
+      "back": "Delgado",
+      "pronunciation": "dehl-GAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Heavy",
+      "back": "Pesado",
+      "pronunciation": "peh-SAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Light",
+      "back": "Ligero",
+      "pronunciation": "lee-HEH-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Strong",
+      "back": "Fuerte",
+      "pronunciation": "FWEHR-teh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Weak",
+      "back": "Débil",
+      "pronunciation": "DEH-beel",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Hard",
+      "back": "Duro",
+      "pronunciation": "DOO-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Soft",
+      "back": "Suave",
+      "pronunciation": "SWAH-veh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Rough",
+      "back": "Áspero",
+      "pronunciation": "AHS-peh-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Smooth",
+      "back": "Liso",
+      "pronunciation": "LEE-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sharp",
+      "back": "Afilado",
+      "pronunciation": "ah-fee-LAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dull",
+      "back": "Desafilado",
+      "pronunciation": "dehs-ah-fee-LAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Clean",
+      "back": "Limpio",
+      "pronunciation": "LEEM-pee-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dirty",
+      "back": "Sucio",
+      "pronunciation": "SOO-see-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Full",
+      "back": "Lleno",
+      "pronunciation": "YEH-noh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Empty",
+      "back": "Vacío",
+      "pronunciation": "vah-SEE-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Open",
+      "back": "Abierto",
+      "pronunciation": "ah-bee-EHR-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Closed",
+      "back": "Cerrado",
+      "pronunciation": "seh-RRAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Ugly",
+      "back": "Feo",
+      "pronunciation": "FEH-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Pretty",
+      "back": "Bonito",
+      "pronunciation": "boh-NEE-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Nice",
+      "back": "Agradable",
+      "pronunciation": "ah-grah-DAH-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Pleasant",
+      "back": "Placentero",
+      "pronunciation": "plah-sehn-TEH-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Unpleasant",
+      "back": "Desagradable",
+      "pronunciation": "dehs-ah-grah-DAH-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Happy",
+      "back": "Feliz",
+      "pronunciation": "feh-LEES",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sad",
+      "back": "Triste",
+      "pronunciation": "TREES-teh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Angry",
+      "back": "Enojado",
+      "pronunciation": "eh-noh-HAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Calm",
+      "back": "Tranquilo",
+      "pronunciation": "trahn-KEE-loh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Excited",
+      "back": "Emocionado",
+      "pronunciation": "eh-moh-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Tired",
+      "back": "Cansado",
+      "pronunciation": "kahn-SAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sick",
+      "back": "Enfermo",
+      "pronunciation": "ehn-FEHR-moh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Healthy",
+      "back": "Saludable",
+      "pronunciation": "sah-loo-DAH-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Rich",
+      "back": "Rico",
+      "pronunciation": "REE-koh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Poor",
+      "back": "Pobre",
+      "pronunciation": "POH-breh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Expensive",
+      "back": "Caro",
+      "pronunciation": "KAH-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Cheap",
+      "back": "Barato",
+      "pronunciation": "bah-RAH-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Free",
+      "back": "Gratis",
+      "pronunciation": "GRAH-tees",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Busy",
+      "back": "Ocupado",
+      "pronunciation": "oh-koo-PAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Free (available)",
+      "back": "Libre",
+      "pronunciation": "LEE-breh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Easy",
+      "back": "Fácil",
+      "pronunciation": "FAH-seel",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Difficult",
+      "back": "Difícil",
+      "pronunciation": "dee-FEE-seel",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Simple",
+      "back": "Simple",
+      "pronunciation": "SEEM-pleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Complicated",
+      "back": "Complicado",
+      "pronunciation": "kohm-plee-KAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Important",
+      "back": "Importante",
+      "pronunciation": "eem-por-TAHN-teh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Unimportant",
+      "back": "Sin importancia",
+      "pronunciation": "seen eem-por-TAHN-see-ah",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Necessary",
+      "back": "Necesario",
+      "pronunciation": "neh-seh-SAH-ree-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Unnecessary",
+      "back": "Innecesario",
+      "pronunciation": "een-neh-seh-SAH-ree-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Possible",
+      "back": "Posible",
+      "pronunciation": "poh-SEE-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Impossible",
+      "back": "Imposible",
+      "pronunciation": "eem-poh-SEE-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Right",
+      "back": "Correcto",
+      "pronunciation": "koh-RREHK-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Wrong",
+      "back": "Incorrecto",
+      "pronunciation": "een-koh-RREHK-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "True",
+      "back": "Verdadero",
+      "pronunciation": "vehr-dah-DEH-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "False",
+      "back": "Falso",
+      "pronunciation": "FAHL-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Real",
+      "back": "Real",
+      "pronunciation": "reh-AHL",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Fake",
+      "back": "Falso",
+      "pronunciation": "FAHL-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Safe",
+      "back": "Seguro",
+      "pronunciation": "seh-GOO-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dangerous",
+      "back": "Peligroso",
+      "pronunciation": "peh-lee-GROH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Famous",
+      "back": "Famoso",
+      "pronunciation": "fah-MOH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Unknown",
+      "back": "Desconocido",
+      "pronunciation": "dehs-koh-noh-SEE-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Popular",
+      "back": "Popular",
+      "pronunciation": "poh-poo-LAHR",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Unpopular",
+      "back": "Impopular",
+      "pronunciation": "eem-poh-poo-LAHR",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Smart",
+      "back": "Inteligente",
+      "pronunciation": "een-teh-lee-HEHN-teh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Stupid",
+      "back": "Estúpido",
+      "pronunciation": "ehs-TOO-pee-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Funny",
+      "back": "Gracioso",
+      "pronunciation": "grah-see-OH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Serious",
+      "back": "Serio",
+      "pronunciation": "SEH-ree-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Friendly",
+      "back": "Amigable",
+      "pronunciation": "ah-mee-GAH-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Unfriendly",
+      "back": "Poco amigable",
+      "pronunciation": "POH-koh ah-mee-GAH-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Kind",
+      "back": "Amable",
+      "pronunciation": "ah-MAH-bleh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Mean",
+      "back": "Malo",
+      "pronunciation": "MAH-loh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Generous",
+      "back": "Generoso",
+      "pronunciation": "heh-neh-ROH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Selfish",
+      "back": "Egoísta",
+      "pronunciation": "eh-goh-EES-tah",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Honest",
+      "back": "Honesto",
+      "pronunciation": "oh-NEHS-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dishonest",
+      "back": "Deshonesto",
+      "pronunciation": "dehs-oh-NEHS-toh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Polite",
+      "back": "Educado",
+      "pronunciation": "eh-doo-KAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Rude",
+      "back": "Grosero",
+      "pronunciation": "groh-SEH-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Loud",
+      "back": "Ruidoso",
+      "pronunciation": "roo-ee-DOH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Quiet",
+      "back": "Silencioso",
+      "pronunciation": "see-lehn-see-OH-soh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Bright",
+      "back": "Brillante",
+      "pronunciation": "bree-YAHN-teh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dark",
+      "back": "Oscuro",
+      "pronunciation": "oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sweet",
+      "back": "Dulce",
+      "pronunciation": "DOOL-seh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sour",
+      "back": "Agrio",
+      "pronunciation": "AH-gree-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Bitter",
+      "back": "Amargo",
+      "pronunciation": "ah-MAHR-goh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Salty",
+      "back": "Salado",
+      "pronunciation": "sah-LAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Fresh",
+      "back": "Fresco",
+      "pronunciation": "FREHS-koh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Stale",
+      "back": "Pasado",
+      "pronunciation": "pah-SAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Wet",
+      "back": "Mojado",
+      "pronunciation": "moh-HAH-doh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dry",
+      "back": "Seco",
+      "pronunciation": "SEH-koh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Warm",
+      "back": "Tibio",
+      "pronunciation": "TEE-bee-oh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Cool",
+      "back": "Fresco",
+      "pronunciation": "FREHS-koh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Young",
+      "back": "Joven",
+      "pronunciation": "HOH-vehn",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Ancient",
+      "back": "Antiguo",
+      "pronunciation": "ahn-TEE-gwoh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Modern",
+      "back": "Moderno",
+      "pronunciation": "moh-DEHR-noh",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Traditional",
+      "back": "Tradicional",
+      "pronunciation": "trah-dee-see-oh-NAHL",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Strange",
+      "back": "Extraño",
+      "pronunciation": "eh-stra-NYOH",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Normal",
+      "back": "Normal",
+      "pronunciation": "nor-MAHL",
+      "type": "vocabulary",
+      "category": "adjectives"
+    }
+  ]
+}

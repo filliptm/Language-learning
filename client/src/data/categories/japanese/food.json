@@ -1,0 +1,750 @@
+{
+  "id": "food",
+  "name": "Food & Drinks",
+  "description": "Food, beverages, and dining vocabulary",
+  "icon": "🍽️",
+  "cards": [
+    {
+      "front": "Rice",
+      "back": "米",
+      "romaji": "kome",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Water",
+      "back": "水",
+      "romaji": "mizu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tea",
+      "back": "茶",
+      "romaji": "cha",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Coffee",
+      "back": "コーヒー",
+      "romaji": "koohii",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Milk",
+      "back": "牛乳",
+      "romaji": "gyuunyuu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bread",
+      "back": "パン",
+      "romaji": "pan",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Meat",
+      "back": "肉",
+      "romaji": "niku",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Fish",
+      "back": "魚",
+      "romaji": "sakana",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chicken",
+      "back": "鶏肉",
+      "romaji": "toriniku",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Beef",
+      "back": "牛肉",
+      "romaji": "gyuuniku",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pork",
+      "back": "豚肉",
+      "romaji": "butaniku",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Vegetables",
+      "back": "野菜",
+      "romaji": "yasai",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Fruit",
+      "back": "果物",
+      "romaji": "kudamono",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Apple",
+      "back": "りんご",
+      "romaji": "ringo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Banana",
+      "back": "バナナ",
+      "romaji": "banana",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Orange",
+      "back": "オレンジ",
+      "romaji": "orenji",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Egg",
+      "back": "卵",
+      "romaji": "tamago",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cheese",
+      "back": "チーズ",
+      "romaji": "chiizu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Butter",
+      "back": "バター",
+      "romaji": "bataa",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sugar",
+      "back": "砂糖",
+      "romaji": "satou",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Salt",
+      "back": "塩",
+      "romaji": "shio",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pepper",
+      "back": "胡椒",
+      "romaji": "koshou",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Oil",
+      "back": "油",
+      "romaji": "abura",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Vinegar",
+      "back": "酢",
+      "romaji": "su",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Soy sauce",
+      "back": "醤油",
+      "romaji": "shouyu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Miso",
+      "back": "味噌",
+      "romaji": "miso",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sake",
+      "back": "酒",
+      "romaji": "sake",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Beer",
+      "back": "ビール",
+      "romaji": "biiru",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Wine",
+      "back": "ワイン",
+      "romaji": "wain",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Juice",
+      "back": "ジュース",
+      "romaji": "juusu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Soda",
+      "back": "ソーダ",
+      "romaji": "sooda",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Ice cream",
+      "back": "アイスクリーム",
+      "romaji": "aisukuriimu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cake",
+      "back": "ケーキ",
+      "romaji": "keeki",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cookie",
+      "back": "クッキー",
+      "romaji": "kukkii",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chocolate",
+      "back": "チョコレート",
+      "romaji": "chokoreeto",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Candy",
+      "back": "飴",
+      "romaji": "ame",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Noodles",
+      "back": "麺",
+      "romaji": "men",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Ramen",
+      "back": "ラーメン",
+      "romaji": "raamen",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Udon",
+      "back": "うどん",
+      "romaji": "udon",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Soba",
+      "back": "そば",
+      "romaji": "soba",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sushi",
+      "back": "寿司",
+      "romaji": "sushi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sashimi",
+      "back": "刺身",
+      "romaji": "sashimi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tempura",
+      "back": "天ぷら",
+      "romaji": "tenpura",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Curry",
+      "back": "カレー",
+      "romaji": "karee",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Soup",
+      "back": "スープ",
+      "romaji": "suupu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Salad",
+      "back": "サラダ",
+      "romaji": "sarada",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sandwich",
+      "back": "サンドウィッチ",
+      "romaji": "sandouicchi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pizza",
+      "back": "ピザ",
+      "romaji": "piza",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Hamburger",
+      "back": "ハンバーガー",
+      "romaji": "hanbaagaa",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "French fries",
+      "back": "フライドポテト",
+      "romaji": "furaido poteto",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Potato",
+      "back": "じゃがいも",
+      "romaji": "jagaimo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tomato",
+      "back": "トマト",
+      "romaji": "tomato",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Onion",
+      "back": "玉ねぎ",
+      "romaji": "tamanegi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Carrot",
+      "back": "人参",
+      "romaji": "ninjin",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cabbage",
+      "back": "キャベツ",
+      "romaji": "kyabetsu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Lettuce",
+      "back": "レタス",
+      "romaji": "retasu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cucumber",
+      "back": "きゅうり",
+      "romaji": "kyuuri",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Mushroom",
+      "back": "きのこ",
+      "romaji": "kinoko",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Corn",
+      "back": "とうもろこし",
+      "romaji": "toumorokoshi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bean",
+      "back": "豆",
+      "romaji": "mame",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Spinach",
+      "back": "ほうれん草",
+      "romaji": "hourensou",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Broccoli",
+      "back": "ブロッコリー",
+      "romaji": "burokkorii",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Lemon",
+      "back": "レモン",
+      "romaji": "remon",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Grape",
+      "back": "ぶどう",
+      "romaji": "budou",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Strawberry",
+      "back": "いちご",
+      "romaji": "ichigo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Peach",
+      "back": "桃",
+      "romaji": "momo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pear",
+      "back": "梨",
+      "romaji": "nashi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cherry",
+      "back": "さくらんぼ",
+      "romaji": "sakuranbo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pineapple",
+      "back": "パイナップル",
+      "romaji": "painappuru",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Watermelon",
+      "back": "すいか",
+      "romaji": "suika",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Melon",
+      "back": "メロン",
+      "romaji": "meron",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Kiwi",
+      "back": "キウイ",
+      "romaji": "kiui",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Mango",
+      "back": "マンゴー",
+      "romaji": "mangoo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Coconut",
+      "back": "ココナッツ",
+      "romaji": "kokonattsu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Nuts",
+      "back": "ナッツ",
+      "romaji": "nattsu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Walnut",
+      "back": "くるみ",
+      "romaji": "kurumi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Almond",
+      "back": "アーモンド",
+      "romaji": "aamondo",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Peanut",
+      "back": "ピーナッツ",
+      "romaji": "piinattsu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Honey",
+      "back": "蜂蜜",
+      "romaji": "hachimitsu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Jam",
+      "back": "ジャム",
+      "romaji": "jamu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Yogurt",
+      "back": "ヨーグルト",
+      "romaji": "yooguruto",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cereal",
+      "back": "シリアル",
+      "romaji": "shiriaru",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Oatmeal",
+      "back": "オートミール",
+      "romaji": "ootomiiru",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pasta",
+      "back": "パスタ",
+      "romaji": "pasuta",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sauce",
+      "back": "ソース",
+      "romaji": "soosu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Ketchup",
+      "back": "ケチャップ",
+      "romaji": "kechappu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Mayonnaise",
+      "back": "マヨネーズ",
+      "romaji": "mayoneezu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Mustard",
+      "back": "マスタード",
+      "romaji": "masutaado",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Spice",
+      "back": "香辛料",
+      "romaji": "koushinryou",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Herbs",
+      "back": "ハーブ",
+      "romaji": "haabu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Garlic",
+      "back": "にんにく",
+      "romaji": "ninniku",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Ginger",
+      "back": "生姜",
+      "romaji": "shougas",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Flour",
+      "back": "小麦粉",
+      "romaji": "komugiko",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Baking powder",
+      "back": "ベーキングパウダー",
+      "romaji": "beekingu paudaa",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Vanilla",
+      "back": "バニラ",
+      "romaji": "banira",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cinnamon",
+      "back": "シナモン",
+      "romaji": "shinamon",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Hot sauce",
+      "back": "ホットソース",
+      "romaji": "hotto soosu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tofu",
+      "back": "豆腐",
+      "romaji": "toufu",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Seaweed",
+      "back": "海苔",
+      "romaji": "nori",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Wasabi",
+      "back": "わさび",
+      "romaji": "wasabi",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pickles",
+      "back": "漬物",
+      "romaji": "tsukemono",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bento",
+      "back": "弁当",
+      "romaji": "bentou",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Onigiri",
+      "back": "おにぎり",
+      "romaji": "onigiri",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Dumplings",
+      "back": "餃子",
+      "romaji": "gyouza",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Green tea",
+      "back": "緑茶",
+      "romaji": "ryokucha",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Black tea",
+      "back": "紅茶",
+      "romaji": "koucha",
+      "type": "vocabulary",
+      "category": "food"
+    }
+  ]
+}

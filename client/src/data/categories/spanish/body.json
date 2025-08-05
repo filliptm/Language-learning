@@ -1,0 +1,771 @@
+{
+  "id": "body",
+  "name": "Body Parts",
+  "description": "Parts of the human body",
+  "icon": "👤",
+  "cards": [
+    {
+      "front": "Body",
+      "back": "Cuerpo",
+      "pronunciation": "KWEHR-poh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Head",
+      "back": "Cabeza",
+      "pronunciation": "kah-BEH-sah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Face",
+      "back": "Cara",
+      "pronunciation": "KAH-rah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hair",
+      "back": "Cabello",
+      "pronunciation": "kah-BEH-yoh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Forehead",
+      "back": "Frente",
+      "pronunciation": "FREHN-teh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eye",
+      "back": "Ojo",
+      "pronunciation": "OH-hoh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eyes",
+      "back": "Ojos",
+      "pronunciation": "OH-hohs",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eyebrow",
+      "back": "Ceja",
+      "pronunciation": "SEH-hah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eyelash",
+      "back": "Pestaña",
+      "pronunciation": "pehs-TAH-nyah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ear",
+      "back": "Oreja",
+      "pronunciation": "oh-REH-hah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nose",
+      "back": "Nariz",
+      "pronunciation": "nah-REES",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Mouth",
+      "back": "Boca",
+      "pronunciation": "BOH-kah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Lip",
+      "back": "Labio",
+      "pronunciation": "LAH-bee-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Lips",
+      "back": "Labios",
+      "pronunciation": "LAH-bee-ohs",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tooth",
+      "back": "Diente",
+      "pronunciation": "dee-EHN-teh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Teeth",
+      "back": "Dientes",
+      "pronunciation": "dee-EHN-tehs",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tongue",
+      "back": "Lengua",
+      "pronunciation": "LEHN-gwah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Chin",
+      "back": "Barbilla",
+      "pronunciation": "bahr-BEE-yah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Cheek",
+      "back": "Mejilla",
+      "pronunciation": "meh-HEE-yah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Neck",
+      "back": "Cuello",
+      "pronunciation": "KWAY-yoh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Throat",
+      "back": "Garganta",
+      "pronunciation": "gahr-GAHN-tah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Shoulder",
+      "back": "Hombro",
+      "pronunciation": "OHM-broh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Arm",
+      "back": "Brazo",
+      "pronunciation": "BRAH-soh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Elbow",
+      "back": "Codo",
+      "pronunciation": "KOH-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Wrist",
+      "back": "Muñeca",
+      "pronunciation": "moo-NYEH-kah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hand",
+      "back": "Mano",
+      "pronunciation": "MAH-noh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Finger",
+      "back": "Dedo",
+      "pronunciation": "DEH-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Thumb",
+      "back": "Pulgar",
+      "pronunciation": "pool-GAHR",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Index finger",
+      "back": "Dedo índice",
+      "pronunciation": "DEH-doh EEN-dee-seh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Middle finger",
+      "back": "Dedo medio",
+      "pronunciation": "DEH-doh MEH-dee-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ring finger",
+      "back": "Dedo anular",
+      "pronunciation": "DEH-doh ah-noo-LAHR",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Pinky",
+      "back": "Meñique",
+      "pronunciation": "meh-NYEE-keh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nail",
+      "back": "Uña",
+      "pronunciation": "OO-nyah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Chest",
+      "back": "Pecho",
+      "pronunciation": "PEH-choh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Breast",
+      "back": "Seno",
+      "pronunciation": "SEH-noh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Back",
+      "back": "Espalda",
+      "pronunciation": "ehs-PAHL-dah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Stomach",
+      "back": "Estómago",
+      "pronunciation": "ehs-TOH-mah-goh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Belly",
+      "back": "Barriga",
+      "pronunciation": "bah-RREE-gah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Waist",
+      "back": "Cintura",
+      "pronunciation": "seen-TOO-rah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hip",
+      "back": "Cadera",
+      "pronunciation": "kah-DEH-rah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Leg",
+      "back": "Pierna",
+      "pronunciation": "pee-EHR-nah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Thigh",
+      "back": "Muslo",
+      "pronunciation": "MOOS-loh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Knee",
+      "back": "Rodilla",
+      "pronunciation": "roh-DEE-yah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Calf",
+      "back": "Pantorrilla",
+      "pronunciation": "pahn-toh-RREE-yah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Shin",
+      "back": "Espinilla",
+      "pronunciation": "ehs-pee-NEE-yah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ankle",
+      "back": "Tobillo",
+      "pronunciation": "toh-BEE-yoh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Foot",
+      "back": "Pie",
+      "pronunciation": "pee-EH",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Heel",
+      "back": "Talón",
+      "pronunciation": "tah-LOHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Toe",
+      "back": "Dedo del pie",
+      "pronunciation": "DEH-doh dehl pee-EH",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Big toe",
+      "back": "Dedo gordo",
+      "pronunciation": "DEH-doh GOHR-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Heart",
+      "back": "Corazón",
+      "pronunciation": "koh-rah-SOHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Lung",
+      "back": "Pulmón",
+      "pronunciation": "pool-MOHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Liver",
+      "back": "Hígado",
+      "pronunciation": "EE-gah-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Kidney",
+      "back": "Riñón",
+      "pronunciation": "ree-NYOHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Brain",
+      "back": "Cerebro",
+      "pronunciation": "seh-REH-broh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Bone",
+      "back": "Hueso",
+      "pronunciation": "HWAY-soh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Muscle",
+      "back": "Músculo",
+      "pronunciation": "MOOS-koo-loh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Skin",
+      "back": "Piel",
+      "pronunciation": "pee-EHL",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Blood",
+      "back": "Sangre",
+      "pronunciation": "SAHN-greh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Vein",
+      "back": "Vena",
+      "pronunciation": "VEH-nah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Artery",
+      "back": "Arteria",
+      "pronunciation": "ahr-TEH-ree-ah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nerve",
+      "back": "Nervio",
+      "pronunciation": "NEHR-vee-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Rib",
+      "back": "Costilla",
+      "pronunciation": "kohs-TEE-yah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Spine",
+      "back": "Columna",
+      "pronunciation": "koh-LOOM-nah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Skull",
+      "back": "Cráneo",
+      "pronunciation": "KRAH-neh-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Joint",
+      "back": "Articulación",
+      "pronunciation": "ahr-tee-koo-lah-see-OHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tendon",
+      "back": "Tendón",
+      "pronunciation": "tehn-DOHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ligament",
+      "back": "Ligamento",
+      "pronunciation": "lee-gah-MEHN-toh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Cartilage",
+      "back": "Cartílago",
+      "pronunciation": "kahr-TEE-lah-goh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Fat",
+      "back": "Grasa",
+      "pronunciation": "GRAH-sah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tissue",
+      "back": "Tejido",
+      "pronunciation": "teh-HEE-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Cell",
+      "back": "Célula",
+      "pronunciation": "SEH-loo-lah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Organ",
+      "back": "Órgano",
+      "pronunciation": "OHR-gah-noh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Gland",
+      "back": "Glándula",
+      "pronunciation": "GLAHN-doo-lah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hormone",
+      "back": "Hormona",
+      "pronunciation": "ohr-MOH-nah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Saliva",
+      "back": "Saliva",
+      "pronunciation": "sah-LEE-vah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Sweat",
+      "back": "Sudor",
+      "pronunciation": "soo-DOHR",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tear",
+      "back": "Lágrima",
+      "pronunciation": "LAH-gree-mah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Urine",
+      "back": "Orina",
+      "pronunciation": "oh-REE-nah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Pulse",
+      "back": "Pulso",
+      "pronunciation": "POOL-soh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Heartbeat",
+      "back": "Latido",
+      "pronunciation": "lah-TEE-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Breath",
+      "back": "Respiración",
+      "pronunciation": "rrehs-pee-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Voice",
+      "back": "Voz",
+      "pronunciation": "vohs",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Sight",
+      "back": "Vista",
+      "pronunciation": "VEES-tah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hearing",
+      "back": "Oído",
+      "pronunciation": "oh-EE-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Smell",
+      "back": "Olfato",
+      "pronunciation": "ohl-FAH-toh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Taste",
+      "back": "Gusto",
+      "pronunciation": "GOOS-toh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Touch",
+      "back": "Tacto",
+      "pronunciation": "TAHK-toh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Balance",
+      "back": "Equilibrio",
+      "pronunciation": "eh-kee-LEE-bree-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Reflex",
+      "back": "Reflejo",
+      "pronunciation": "reh-FLEH-hoh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Immune system",
+      "back": "Sistema inmune",
+      "pronunciation": "sees-TEH-mah een-MOO-neh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Digestive system",
+      "back": "Sistema digestivo",
+      "pronunciation": "sees-TEH-mah dee-hehs-TEE-voh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Respiratory system",
+      "back": "Sistema respiratorio",
+      "pronunciation": "sees-TEH-mah rrehs-pee-rah-TOH-ree-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Circulatory system",
+      "back": "Sistema circulatorio",
+      "pronunciation": "sees-TEH-mah seer-koo-lah-TOH-ree-oh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nervous system",
+      "back": "Sistema nervioso",
+      "pronunciation": "sees-TEH-mah nehr-vee-OH-soh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Skeletal system",
+      "back": "Sistema esquelético",
+      "pronunciation": "sees-TEH-mah ehs-keh-LEH-tee-koh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Muscular system",
+      "back": "Sistema muscular",
+      "pronunciation": "sees-TEH-mah moos-koo-LAHR",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Reproductive system",
+      "back": "Sistema reproductivo",
+      "pronunciation": "sees-TEH-mah reh-proh-dook-TEE-voh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Endocrine system",
+      "back": "Sistema endocrino",
+      "pronunciation": "sees-TEH-mah ehn-doh-KREE-noh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Left",
+      "back": "Izquierdo",
+      "pronunciation": "ees-kee-EHR-doh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Right",
+      "back": "Derecho",
+      "pronunciation": "deh-REH-choh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Upper",
+      "back": "Superior",
+      "pronunciation": "soo-peh-ree-OHR",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Lower",
+      "back": "Inferior",
+      "pronunciation": "een-feh-ree-OHR",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Front",
+      "back": "Delantero",
+      "pronunciation": "deh-lahn-TEH-roh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Back",
+      "back": "Trasero",
+      "pronunciation": "trah-SEH-roh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Inside",
+      "back": "Adentro",
+      "pronunciation": "ah-DEHN-troh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Outside",
+      "back": "Afuera",
+      "pronunciation": "ah-FWAY-rah",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Internal",
+      "back": "Interno",
+      "pronunciation": "een-TEHR-noh",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "External",
+      "back": "Externo",
+      "pronunciation": "eks-TEHR-noh",
+      "type": "vocabulary",
+      "category": "body"
+    }
+  ]
+}

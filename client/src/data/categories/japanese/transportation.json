@@ -1,0 +1,722 @@
+{
+  "id": "transportation",
+  "name": "Transportation",
+  "description": "Vehicles and travel methods",
+  "icon": "🚗",
+  "cards": [
+    {
+      "front": "Car",
+      "back": "車",
+      "romaji": "kuruma",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Bus",
+      "back": "バス",
+      "romaji": "basu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Train",
+      "back": "電車",
+      "romaji": "densha",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Airplane",
+      "back": "飛行機",
+      "romaji": "hikōki",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Bicycle",
+      "back": "自転車",
+      "romaji": "jitensha",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Motorcycle",
+      "back": "オートバイ",
+      "romaji": "ōtobai",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ship",
+      "back": "船",
+      "romaji": "fune",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Boat",
+      "back": "ボート",
+      "romaji": "bōto",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Subway",
+      "back": "地下鉄",
+      "romaji": "chikatetsu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Taxi",
+      "back": "タクシー",
+      "romaji": "takushī",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Truck",
+      "back": "トラック",
+      "romaji": "torakku",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Van",
+      "back": "バン",
+      "romaji": "ban",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Helicopter",
+      "back": "ヘリコプター",
+      "romaji": "herikoputā",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Scooter",
+      "back": "スクーター",
+      "romaji": "sukūtā",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Walking",
+      "back": "歩く",
+      "romaji": "aruku",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Running",
+      "back": "走る",
+      "romaji": "hashiru",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Driver",
+      "back": "運転手",
+      "romaji": "untenshu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Passenger",
+      "back": "乗客",
+      "romaji": "jōkyaku",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Station",
+      "back": "駅",
+      "romaji": "eki",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Airport",
+      "back": "空港",
+      "romaji": "kūkō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Port",
+      "back": "港",
+      "romaji": "minato",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Bridge",
+      "back": "橋",
+      "romaji": "hashi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Road",
+      "back": "道路",
+      "romaji": "dōro",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Street",
+      "back": "通り",
+      "romaji": "tōri",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Highway",
+      "back": "高速道路",
+      "romaji": "kōsoku dōro",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Traffic",
+      "back": "交通",
+      "romaji": "kōtsū",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Traffic light",
+      "back": "信号",
+      "romaji": "shingō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Stop sign",
+      "back": "停止標識",
+      "romaji": "teishi hyōshiki",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Parking",
+      "back": "駐車",
+      "romaji": "chūsha",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Gas station",
+      "back": "ガソリンスタンド",
+      "romaji": "gasorin sutando",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Fuel",
+      "back": "燃料",
+      "romaji": "nenryō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Engine",
+      "back": "エンジン",
+      "romaji": "enjin",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Wheel",
+      "back": "車輪",
+      "romaji": "sharin",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Tire",
+      "back": "タイヤ",
+      "romaji": "taiya",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Brake",
+      "back": "ブレーキ",
+      "romaji": "burēki",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Steering wheel",
+      "back": "ハンドル",
+      "romaji": "handoru",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Seat",
+      "back": "席",
+      "romaji": "seki",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Window",
+      "back": "窓",
+      "romaji": "mado",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Door",
+      "back": "ドア",
+      "romaji": "doa",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Mirror",
+      "back": "鏡",
+      "romaji": "kagami",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Horn",
+      "back": "クラクション",
+      "romaji": "kurakushon",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Seatbelt",
+      "back": "シートベルト",
+      "romaji": "shītoberuto",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "License",
+      "back": "免許",
+      "romaji": "menkyo",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ticket",
+      "back": "切符",
+      "romaji": "kippu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Schedule",
+      "back": "時刻表",
+      "romaji": "jikokuhyō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Platform",
+      "back": "プラットフォーム",
+      "romaji": "purattofōmu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Departure",
+      "back": "出発",
+      "romaji": "shuppatsu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Arrival",
+      "back": "到着",
+      "romaji": "tōchaku",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Delay",
+      "back": "遅れ",
+      "romaji": "okure",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Speed",
+      "back": "速度",
+      "romaji": "sokudo",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Fast",
+      "back": "速い",
+      "romaji": "hayai",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Slow",
+      "back": "遅い",
+      "romaji": "osoi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Direction",
+      "back": "方向",
+      "romaji": "hōkō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "North",
+      "back": "北",
+      "romaji": "kita",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "South",
+      "back": "南",
+      "romaji": "minami",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "East",
+      "back": "東",
+      "romaji": "higashi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "West",
+      "back": "西",
+      "romaji": "nishi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Left",
+      "back": "左",
+      "romaji": "hidari",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Right",
+      "back": "右",
+      "romaji": "migi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Straight",
+      "back": "まっすぐ",
+      "romaji": "massugu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Turn",
+      "back": "曲がる",
+      "romaji": "magaru",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Stop",
+      "back": "止まる",
+      "romaji": "tomaru",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Go",
+      "back": "行く",
+      "romaji": "iku",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Distance",
+      "back": "距離",
+      "romaji": "kyori",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Near",
+      "back": "近い",
+      "romaji": "chikai",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Far",
+      "back": "遠い",
+      "romaji": "tōi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Map",
+      "back": "地図",
+      "romaji": "chizu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "GPS",
+      "back": "GPS",
+      "romaji": "jīpīesu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Navigation",
+      "back": "ナビゲーション",
+      "romaji": "nabigēshon",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Route",
+      "back": "ルート",
+      "romaji": "rūto",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Journey",
+      "back": "旅",
+      "romaji": "tabi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Trip",
+      "back": "旅行",
+      "romaji": "ryokō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Travel",
+      "back": "旅する",
+      "romaji": "tabi suru",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Commute",
+      "back": "通勤",
+      "romaji": "tsūkin",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Rush hour",
+      "back": "ラッシュアワー",
+      "romaji": "rasshu awā",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Public transport",
+      "back": "公共交通",
+      "romaji": "kōkyō kōtsū",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Private transport",
+      "back": "私的交通",
+      "romaji": "shiteki kōtsū",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Emergency",
+      "back": "緊急事態",
+      "romaji": "kinkyū jitai",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Accident",
+      "back": "事故",
+      "romaji": "jiko",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Safety",
+      "back": "安全",
+      "romaji": "anzen",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Dangerous",
+      "back": "危険",
+      "romaji": "kiken",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Insurance",
+      "back": "保険",
+      "romaji": "hoken",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Maintenance",
+      "back": "メンテナンス",
+      "romaji": "mentenansu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Repair",
+      "back": "修理",
+      "romaji": "shūri",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Mechanic",
+      "back": "整備士",
+      "romaji": "seibi-shi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Traffic jam",
+      "back": "交通渋滞",
+      "romaji": "kōtsū jūtai",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Congestion",
+      "back": "混雑",
+      "romaji": "konzatsu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Rush",
+      "back": "急ぐ",
+      "romaji": "isogu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Late",
+      "back": "遅い",
+      "romaji": "osoi",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Early",
+      "back": "早い",
+      "romaji": "hayai",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "On time",
+      "back": "時間通り",
+      "romaji": "jikan dōri",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Transportation",
+      "back": "交通機関",
+      "romaji": "kōtsū kikan",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Vehicle",
+      "back": "乗り物",
+      "romaji": "norimono",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Electric vehicle",
+      "back": "電気自動車",
+      "romaji": "denki jidōsha",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Hybrid",
+      "back": "ハイブリッド",
+      "romaji": "haiburiddo",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Autonomous",
+      "back": "自動運転",
+      "romaji": "jidō unten",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Public transportation",
+      "back": "公共交通機関",
+      "romaji": "kōkyō kōtsū kikan",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ride sharing",
+      "back": "ライドシェア",
+      "romaji": "raido shea",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Cargo",
+      "back": "貨物",
+      "romaji": "kamotsu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Freight",
+      "back": "貨物輸送",
+      "romaji": "kamotsu yusō",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Delivery",
+      "back": "配達",
+      "romaji": "haitatsu",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Shipping",
+      "back": "輸送",
+      "romaji": "yusō",
+      "type": "vocabulary",
+      "category": "transportation"
+    }
+  ]
+}

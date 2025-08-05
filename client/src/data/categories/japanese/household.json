@@ -1,0 +1,729 @@
+{
+  "id": "household",
+  "name": "Household Items",
+  "description": "Items found in the home",
+  "icon": "🏠",
+  "cards": [
+    {
+      "front": "Table",
+      "back": "テーブル",
+      "romaji": "teeburu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Chair",
+      "back": "椅子",
+      "romaji": "isu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bed",
+      "back": "ベッド",
+      "romaji": "beddo",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Sofa",
+      "back": "ソファ",
+      "romaji": "sofa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Lamp",
+      "back": "ランプ",
+      "romaji": "ranpu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Mirror",
+      "back": "鏡",
+      "romaji": "kagami",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Curtain",
+      "back": "カーテン",
+      "romaji": "kaaten",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Pillow",
+      "back": "枕",
+      "romaji": "makura",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Blanket",
+      "back": "毛布",
+      "romaji": "moufu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Towel",
+      "back": "タオル",
+      "romaji": "taoru",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Refrigerator",
+      "back": "冷蔵庫",
+      "romaji": "reizouko",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Stove",
+      "back": "コンロ",
+      "romaji": "konro",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Oven",
+      "back": "オーブン",
+      "romaji": "oobun",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Microwave",
+      "back": "電子レンジ",
+      "romaji": "denshi renji",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dishwasher",
+      "back": "食器洗い機",
+      "romaji": "shokki arai ki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Washing machine",
+      "back": "洗濯機",
+      "romaji": "sentakuki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dryer",
+      "back": "乾燥機",
+      "romaji": "kansouki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Vacuum cleaner",
+      "back": "掃除機",
+      "romaji": "soujiki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Iron",
+      "back": "アイロン",
+      "romaji": "airon",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Ironing board",
+      "back": "アイロン台",
+      "romaji": "airon dai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Closet",
+      "back": "クローゼット",
+      "romaji": "kuroozetto",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Wardrobe",
+      "back": "洋服ダンス",
+      "romaji": "youfuku dansu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dresser",
+      "back": "化粧台",
+      "romaji": "keshoudai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Nightstand",
+      "back": "ナイトテーブル",
+      "romaji": "naito teeburu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bookshelf",
+      "back": "本棚",
+      "romaji": "hondana",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Desk",
+      "back": "机",
+      "romaji": "tsukue",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Office chair",
+      "back": "オフィスチェア",
+      "romaji": "ofisu chea",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Coffee table",
+      "back": "コーヒーテーブル",
+      "romaji": "koohii teeburu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dining table",
+      "back": "ダイニングテーブル",
+      "romaji": "dainingu teeburu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Kitchen counter",
+      "back": "キッチンカウンター",
+      "romaji": "kicchin kauntaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Cabinet",
+      "back": "キャビネット",
+      "romaji": "kyabinetto",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Drawer",
+      "back": "引き出し",
+      "romaji": "hikidashi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Shelf",
+      "back": "棚",
+      "romaji": "tana",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Coat hanger",
+      "back": "コートハンガー",
+      "romaji": "kooto hangaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Clothes hanger",
+      "back": "ハンガー",
+      "romaji": "hangaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Laundry basket",
+      "back": "洗濯かご",
+      "romaji": "sentaku kago",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Trash can",
+      "back": "ゴミ箱",
+      "romaji": "gomi bako",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Recycling bin",
+      "back": "リサイクルボックス",
+      "romaji": "risaikuru bokkusu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Broom",
+      "back": "ほうき",
+      "romaji": "houki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Mop",
+      "back": "モップ",
+      "romaji": "moppu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bucket",
+      "back": "バケツ",
+      "romaji": "baketsu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Sponge",
+      "back": "スポンジ",
+      "romaji": "suponji",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dish soap",
+      "back": "食器用洗剤",
+      "romaji": "shokki you senzai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Laundry detergent",
+      "back": "洗濯洗剤",
+      "romaji": "sentaku senzai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Fabric softener",
+      "back": "柔軟剤",
+      "romaji": "juunanzai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bleach",
+      "back": "漂白剤",
+      "romaji": "hyouhakuzai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Air freshener",
+      "back": "芳香剤",
+      "romaji": "houkouzai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Candle",
+      "back": "ろうそく",
+      "romaji": "rousoku",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Matches",
+      "back": "マッチ",
+      "romaji": "macchi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Lighter",
+      "back": "ライター",
+      "romaji": "raitaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Flashlight",
+      "back": "懐中電灯",
+      "romaji": "kaichuu dentou",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Battery",
+      "back": "電池",
+      "romaji": "denchi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Extension cord",
+      "back": "延長コード",
+      "romaji": "enchou koodo",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Power strip",
+      "back": "電源タップ",
+      "romaji": "dengen tappu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Light bulb",
+      "back": "電球",
+      "romaji": "denkyuu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Ceiling fan",
+      "back": "シーリングファン",
+      "romaji": "shiiringu fan",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Air conditioner",
+      "back": "エアコン",
+      "romaji": "eakon",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Heater",
+      "back": "ヒーター",
+      "romaji": "hiitaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Humidifier",
+      "back": "加湿器",
+      "romaji": "kashitsuki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dehumidifier",
+      "back": "除湿器",
+      "romaji": "joshitsuki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Thermostat",
+      "back": "サーモスタット",
+      "romaji": "saamosutatto",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Smoke detector",
+      "back": "煙感知器",
+      "romaji": "kemuri kanchiki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Fire extinguisher",
+      "back": "消火器",
+      "romaji": "shoukaki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "First aid kit",
+      "back": "救急箱",
+      "romaji": "kyuukyuu bako",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Tool box",
+      "back": "工具箱",
+      "romaji": "kougu bako",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Hammer",
+      "back": "ハンマー",
+      "romaji": "hanmaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Screwdriver",
+      "back": "ドライバー",
+      "romaji": "doraibaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Wrench",
+      "back": "レンチ",
+      "romaji": "renchi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Pliers",
+      "back": "ペンチ",
+      "romaji": "penchi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Drill",
+      "back": "ドリル",
+      "romaji": "doriru",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Saw",
+      "back": "のこぎり",
+      "romaji": "nokogiri",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Measuring tape",
+      "back": "メジャー",
+      "romaji": "mejaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Level",
+      "back": "水準器",
+      "romaji": "suijunki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Ladder",
+      "back": "はしご",
+      "romaji": "hashigo",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Step stool",
+      "back": "踏み台",
+      "romaji": "fumidai",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Garden hose",
+      "back": "ホース",
+      "romaji": "hoosu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Sprinkler",
+      "back": "スプリンクラー",
+      "romaji": "supurinkuraa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Watering can",
+      "back": "じょうろ",
+      "romaji": "jouro",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Flower pot",
+      "back": "植木鉢",
+      "romaji": "ueki bachi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Vase",
+      "back": "花瓶",
+      "romaji": "kabin",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Picture frame",
+      "back": "額縁",
+      "romaji": "gakubuchi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Clock",
+      "back": "時計",
+      "romaji": "tokei",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Alarm clock",
+      "back": "目覚まし時計",
+      "romaji": "mezamashi dokei",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Calendar",
+      "back": "カレンダー",
+      "romaji": "karendaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Telephone",
+      "back": "電話",
+      "romaji": "denwa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Television",
+      "back": "テレビ",
+      "romaji": "terebi",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Remote control",
+      "back": "リモコン",
+      "romaji": "rimokon",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "DVD player",
+      "back": "DVDプレーヤー",
+      "romaji": "diibuidii pureeyaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Stereo",
+      "back": "ステレオ",
+      "romaji": "sutereo",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Speaker",
+      "back": "スピーカー",
+      "romaji": "supiikaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Headphones",
+      "back": "ヘッドフォン",
+      "romaji": "heddofon",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Computer",
+      "back": "コンピューター",
+      "romaji": "konpyuutaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Laptop",
+      "back": "ノートパソコン",
+      "romaji": "nooto pasokon",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Tablet",
+      "back": "タブレット",
+      "romaji": "taburetto",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Keyboard",
+      "back": "キーボード",
+      "romaji": "kiiboodo",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Mouse",
+      "back": "マウス",
+      "romaji": "mausu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Monitor",
+      "back": "モニター",
+      "romaji": "monitaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Printer",
+      "back": "プリンター",
+      "romaji": "purintaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Scanner",
+      "back": "スキャナー",
+      "romaji": "sukyanaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Router",
+      "back": "ルーター",
+      "romaji": "ruutaa",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Cable",
+      "back": "ケーブル",
+      "romaji": "keeburu",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Charger",
+      "back": "充電器",
+      "romaji": "juudenki",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Adapter",
+      "back": "アダプター",
+      "romaji": "adaputaa",
+      "type": "vocabulary",
+      "category": "household"
+    }
+  ]
+}

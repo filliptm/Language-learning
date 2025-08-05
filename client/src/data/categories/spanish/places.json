@@ -1,0 +1,785 @@
+{
+  "id": "places",
+  "name": "Places",
+  "description": "Locations and places",
+  "icon": "📍",
+  "cards": [
+    {
+      "front": "Place",
+      "back": "Lugar",
+      "pronunciation": "loo-GAHR",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "City",
+      "back": "Ciudad",
+      "pronunciation": "see-oo-DAHD",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Town",
+      "back": "Pueblo",
+      "pronunciation": "PWEH-bloh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Village",
+      "back": "Aldea",
+      "pronunciation": "ahl-DEH-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Country",
+      "back": "País",
+      "pronunciation": "pah-EES",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "State",
+      "back": "Estado",
+      "pronunciation": "ehs-TAH-doh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Province",
+      "back": "Provincia",
+      "pronunciation": "proh-VEEN-see-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Region",
+      "back": "Región",
+      "pronunciation": "reh-hee-OHN",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Continent",
+      "back": "Continente",
+      "pronunciation": "kohn-tee-NEHN-teh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "World",
+      "back": "Mundo",
+      "pronunciation": "MOON-doh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Downtown",
+      "back": "Centro",
+      "pronunciation": "SEHN-troh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Neighborhood",
+      "back": "Barrio",
+      "pronunciation": "BAH-rree-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Street",
+      "back": "Calle",
+      "pronunciation": "KAH-yeh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Avenue",
+      "back": "Avenida",
+      "pronunciation": "ah-veh-NEE-dah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Boulevard",
+      "back": "Bulevar",
+      "pronunciation": "boo-leh-VAHR",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Square",
+      "back": "Plaza",
+      "pronunciation": "PLAH-sah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Park",
+      "back": "Parque",
+      "pronunciation": "PAHR-keh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bridge",
+      "back": "Puente",
+      "pronunciation": "PWEHN-teh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "River",
+      "back": "Río",
+      "pronunciation": "REE-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Lake",
+      "back": "Lago",
+      "pronunciation": "LAH-goh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Sea",
+      "back": "Mar",
+      "pronunciation": "mahr",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Ocean",
+      "back": "Océano",
+      "pronunciation": "oh-SEH-ah-noh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Beach",
+      "back": "Playa",
+      "pronunciation": "PLAH-yah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Coast",
+      "back": "Costa",
+      "pronunciation": "KOHS-tah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Island",
+      "back": "Isla",
+      "pronunciation": "EES-lah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Mountain",
+      "back": "Montaña",
+      "pronunciation": "mohn-TAH-nyah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hill",
+      "back": "Colina",
+      "pronunciation": "koh-LEE-nah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Valley",
+      "back": "Valle",
+      "pronunciation": "VAH-yeh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Desert",
+      "back": "Desierto",
+      "pronunciation": "deh-see-EHR-toh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Forest",
+      "back": "Bosque",
+      "pronunciation": "BOHS-keh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Jungle",
+      "back": "Selva",
+      "pronunciation": "SEHL-vah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Cave",
+      "back": "Cueva",
+      "pronunciation": "KWEH-vah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Waterfall",
+      "back": "Cascada",
+      "pronunciation": "kahs-KAH-dah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Airport",
+      "back": "Aeropuerto",
+      "pronunciation": "ah-eh-roh-PWEHR-toh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Train station",
+      "back": "Estación de tren",
+      "pronunciation": "ehs-tah-see-OHN deh trehn",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bus station",
+      "back": "Estación de autobús",
+      "pronunciation": "ehs-tah-see-OHN deh ah-oo-toh-BOOS",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Subway station",
+      "back": "Estación de metro",
+      "pronunciation": "ehs-tah-see-OHN deh MEH-troh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Port",
+      "back": "Puerto",
+      "pronunciation": "PWEHR-toh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Harbor",
+      "back": "Puerto",
+      "pronunciation": "PWEHR-toh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hospital",
+      "back": "Hospital",
+      "pronunciation": "ohs-pee-TAHL",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Clinic",
+      "back": "Clínica",
+      "pronunciation": "KLEE-nee-kah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Pharmacy",
+      "back": "Farmacia",
+      "pronunciation": "fahr-MAH-see-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "School",
+      "back": "Escuela",
+      "pronunciation": "ehs-KWEH-lah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "University",
+      "back": "Universidad",
+      "pronunciation": "oo-nee-vehr-see-DAHD",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "College",
+      "back": "Colegio",
+      "pronunciation": "koh-LEH-hee-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Library",
+      "back": "Biblioteca",
+      "pronunciation": "bee-blee-oh-TEH-kah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Museum",
+      "back": "Museo",
+      "pronunciation": "moo-SEH-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Theater",
+      "back": "Teatro",
+      "pronunciation": "teh-AH-troh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Cinema",
+      "back": "Cine",
+      "pronunciation": "SEE-neh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Concert hall",
+      "back": "Sala de conciertos",
+      "pronunciation": "SAH-lah deh kohn-see-EHR-tohs",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Stadium",
+      "back": "Estadio",
+      "pronunciation": "ehs-TAH-dee-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Gym",
+      "back": "Gimnasio",
+      "pronunciation": "heem-NAH-see-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Swimming pool",
+      "back": "Piscina",
+      "pronunciation": "pee-SEE-nah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Church",
+      "back": "Iglesia",
+      "pronunciation": "ee-GLEH-see-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Cathedral",
+      "back": "Catedral",
+      "pronunciation": "kah-teh-DRAHL",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Temple",
+      "back": "Templo",
+      "pronunciation": "TEHM-ploh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Mosque",
+      "back": "Mezquita",
+      "pronunciation": "mehs-KEE-tah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Synagogue",
+      "back": "Sinagoga",
+      "pronunciation": "see-nah-GOH-gah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Cemetery",
+      "back": "Cementerio",
+      "pronunciation": "seh-mehn-TEH-ree-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bank",
+      "back": "Banco",
+      "pronunciation": "BAHN-koh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "ATM",
+      "back": "Cajero automático",
+      "pronunciation": "kah-HEH-roh ah-oo-toh-MAH-tee-koh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Post office",
+      "back": "Oficina de correos",
+      "pronunciation": "oh-fee-SEE-nah deh koh-RREH-ohs",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Police station",
+      "back": "Comisaría",
+      "pronunciation": "koh-mee-sah-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fire station",
+      "back": "Estación de bomberos",
+      "pronunciation": "ehs-tah-see-OHN deh bohm-BEH-rohs",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "City hall",
+      "back": "Ayuntamiento",
+      "pronunciation": "ah-yoon-tah-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Embassy",
+      "back": "Embajada",
+      "pronunciation": "ehm-bah-HAH-dah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Consulate",
+      "back": "Consulado",
+      "pronunciation": "kohn-soo-LAH-doh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Restaurant",
+      "back": "Restaurante",
+      "pronunciation": "rehs-tah-RAHN-teh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Café",
+      "back": "Café",
+      "pronunciation": "kah-FEH",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bar",
+      "back": "Bar",
+      "pronunciation": "bahr",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Pub",
+      "back": "Pub",
+      "pronunciation": "poob",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Club",
+      "back": "Club",
+      "pronunciation": "kloob",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hotel",
+      "back": "Hotel",
+      "pronunciation": "oh-TEHL",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Motel",
+      "back": "Motel",
+      "pronunciation": "moh-TEHL",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hostel",
+      "back": "Albergue",
+      "pronunciation": "ahl-BEHR-geh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Store",
+      "back": "Tienda",
+      "pronunciation": "tee-EHN-dah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Shop",
+      "back": "Tienda",
+      "pronunciation": "tee-EHN-dah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Mall",
+      "back": "Centro comercial",
+      "pronunciation": "SEHN-troh koh-mehr-see-AHL",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Market",
+      "back": "Mercado",
+      "pronunciation": "mehr-KAH-doh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Supermarket",
+      "back": "Supermercado",
+      "pronunciation": "soo-pehr-mehr-KAH-doh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bakery",
+      "back": "Panadería",
+      "pronunciation": "pah-nah-deh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Butcher shop",
+      "back": "Carnicería",
+      "pronunciation": "kahr-nee-seh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fish market",
+      "back": "Pescadería",
+      "pronunciation": "pehs-kah-deh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fruit store",
+      "back": "Frutería",
+      "pronunciation": "froo-teh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bookstore",
+      "back": "Librería",
+      "pronunciation": "lee-breh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Gas station",
+      "back": "Gasolinera",
+      "pronunciation": "gah-soh-lee-NEH-rah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Garage",
+      "back": "Taller",
+      "pronunciation": "tah-YEHR",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Laundromat",
+      "back": "Lavandería",
+      "pronunciation": "lah-vahn-deh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Barber shop",
+      "back": "Barbería",
+      "pronunciation": "bahr-beh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hair salon",
+      "back": "Peluquería",
+      "pronunciation": "peh-loo-keh-REE-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Beauty salon",
+      "back": "Salón de belleza",
+      "pronunciation": "sah-LOHN deh beh-YEH-sah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Spa",
+      "back": "Spa",
+      "pronunciation": "spah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Office building",
+      "back": "Edificio de oficinas",
+      "pronunciation": "eh-dee-FEE-see-oh deh oh-fee-SEE-nahs",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Apartment building",
+      "back": "Edificio de apartamentos",
+      "pronunciation": "eh-dee-FEE-see-oh deh ah-pahr-tah-MEHN-tohs",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Skyscraper",
+      "back": "Rascacielos",
+      "pronunciation": "rahs-kah-see-EH-lohs",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Tower",
+      "back": "Torre",
+      "pronunciation": "TOH-rreh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Castle",
+      "back": "Castillo",
+      "pronunciation": "kahs-TEE-yoh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Palace",
+      "back": "Palacio",
+      "pronunciation": "pah-LAH-see-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Monument",
+      "back": "Monumento",
+      "pronunciation": "moh-noo-MEHN-toh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Statue",
+      "back": "Estatua",
+      "pronunciation": "ehs-TAH-too-ah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fountain",
+      "back": "Fuente",
+      "pronunciation": "FWEHN-teh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Garden",
+      "back": "Jardín",
+      "pronunciation": "hahr-DEEN",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Botanical garden",
+      "back": "Jardín botánico",
+      "pronunciation": "hahr-DEEN boh-TAH-nee-koh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Zoo",
+      "back": "Zoológico",
+      "pronunciation": "soh-oh-LOH-hee-koh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Aquarium",
+      "back": "Acuario",
+      "pronunciation": "ah-KWAH-ree-oh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Playground",
+      "back": "Parque infantil",
+      "pronunciation": "PAHR-keh een-fahn-TEEL",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Farm",
+      "back": "Granja",
+      "pronunciation": "GRAHN-hah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Ranch",
+      "back": "Rancho",
+      "pronunciation": "RAHN-choh",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Factory",
+      "back": "Fábrica",
+      "pronunciation": "FAH-bree-kah",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Warehouse",
+      "back": "Almacén",
+      "pronunciation": "ahl-mah-SEHN",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Construction site",
+      "back": "Obra en construcción",
+      "pronunciation": "OH-brah ehn kohn-strook-see-OHN",
+      "type": "vocabulary",
+      "category": "places"
+    }
+  ]
+}

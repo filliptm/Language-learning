@@ -1,0 +1,736 @@
+{
+  "id": "time",
+  "name": "Time",
+  "description": "Time-related vocabulary",
+  "icon": "🕐",
+  "cards": [
+    {
+      "front": "Time",
+      "back": "時間",
+      "romaji": "jikan",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Hour",
+      "back": "時",
+      "romaji": "ji",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Minute",
+      "back": "分",
+      "romaji": "fun",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Second",
+      "back": "秒",
+      "romaji": "byou",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Day",
+      "back": "日",
+      "romaji": "hi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Week",
+      "back": "週",
+      "romaji": "shuu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Month",
+      "back": "月",
+      "romaji": "tsuki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Year",
+      "back": "年",
+      "romaji": "nen",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Today",
+      "back": "今日",
+      "romaji": "kyou",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Tomorrow",
+      "back": "明日",
+      "romaji": "ashita",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Yesterday",
+      "back": "昨日",
+      "romaji": "kinou",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Now",
+      "back": "今",
+      "romaji": "ima",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Later",
+      "back": "後で",
+      "romaji": "ato de",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Before",
+      "back": "前に",
+      "romaji": "mae ni",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "After",
+      "back": "後に",
+      "romaji": "ato ni",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Morning",
+      "back": "朝",
+      "romaji": "asa",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Afternoon",
+      "back": "午後",
+      "romaji": "gogo",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Evening",
+      "back": "夕方",
+      "romaji": "yuugata",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Night",
+      "back": "夜",
+      "romaji": "yoru",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Midnight",
+      "back": "真夜中",
+      "romaji": "mayonaka",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Noon",
+      "back": "正午",
+      "romaji": "shougo",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Dawn",
+      "back": "夜明け",
+      "romaji": "yoake",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Dusk",
+      "back": "夕暮れ",
+      "romaji": "yuugure",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Clock",
+      "back": "時計",
+      "romaji": "tokei",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Watch",
+      "back": "腕時計",
+      "romaji": "udedokei",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Calendar",
+      "back": "カレンダー",
+      "romaji": "karendaa",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Schedule",
+      "back": "スケジュール",
+      "romaji": "sukejuuru",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Appointment",
+      "back": "約束",
+      "romaji": "yakusoku",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Meeting",
+      "back": "会議",
+      "romaji": "kaigi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Deadline",
+      "back": "締切",
+      "romaji": "shimekiri",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Early",
+      "back": "早い",
+      "romaji": "hayai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Late",
+      "back": "遅い",
+      "romaji": "osoi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "On time",
+      "back": "時間通り",
+      "romaji": "jikan doori",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Fast",
+      "back": "速い",
+      "romaji": "hayai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Slow",
+      "back": "遅い",
+      "romaji": "osoi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Quick",
+      "back": "早く",
+      "romaji": "hayaku",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Immediately",
+      "back": "すぐに",
+      "romaji": "sugu ni",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Soon",
+      "back": "もうすぐ",
+      "romaji": "mou sugu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Always",
+      "back": "いつも",
+      "romaji": "itsumo",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Never",
+      "back": "決して",
+      "romaji": "keshite",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sometimes",
+      "back": "時々",
+      "romaji": "tokidoki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Often",
+      "back": "よく",
+      "romaji": "yoku",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Rarely",
+      "back": "めったに",
+      "romaji": "metta ni",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Usually",
+      "back": "普通",
+      "romaji": "futsuu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Occasionally",
+      "back": "時たま",
+      "romaji": "tokitama",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Frequently",
+      "back": "頻繁に",
+      "romaji": "hinpan ni",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Daily",
+      "back": "毎日",
+      "romaji": "mainichi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Weekly",
+      "back": "毎週",
+      "romaji": "maishuu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Monthly",
+      "back": "毎月",
+      "romaji": "maitsuki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Yearly",
+      "back": "毎年",
+      "romaji": "maitoshi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Monday",
+      "back": "月曜日",
+      "romaji": "getsuyoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Tuesday",
+      "back": "火曜日",
+      "romaji": "kayoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Wednesday",
+      "back": "水曜日",
+      "romaji": "suiyoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Thursday",
+      "back": "木曜日",
+      "romaji": "mokuyoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Friday",
+      "back": "金曜日",
+      "romaji": "kinyoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Saturday",
+      "back": "土曜日",
+      "romaji": "doyoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sunday",
+      "back": "日曜日",
+      "romaji": "nichiyoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Weekend",
+      "back": "週末",
+      "romaji": "shuumatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Weekday",
+      "back": "平日",
+      "romaji": "heijitsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Holiday",
+      "back": "休日",
+      "romaji": "kyuujitsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Vacation",
+      "back": "休暇",
+      "romaji": "kyuuka",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Break",
+      "back": "休憩",
+      "romaji": "kyuukei",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "January",
+      "back": "一月",
+      "romaji": "ichigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "February",
+      "back": "二月",
+      "romaji": "nigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "March",
+      "back": "三月",
+      "romaji": "sangatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "April",
+      "back": "四月",
+      "romaji": "shigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "May",
+      "back": "五月",
+      "romaji": "gogatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "June",
+      "back": "六月",
+      "romaji": "rokugatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "July",
+      "back": "七月",
+      "romaji": "shichigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "August",
+      "back": "八月",
+      "romaji": "hachigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "September",
+      "back": "九月",
+      "romaji": "kugatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "October",
+      "back": "十月",
+      "romaji": "juugatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "November",
+      "back": "十一月",
+      "romaji": "juuichigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "December",
+      "back": "十二月",
+      "romaji": "juunigatsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Spring",
+      "back": "春",
+      "romaji": "haru",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Summer",
+      "back": "夏",
+      "romaji": "natsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Fall",
+      "back": "秋",
+      "romaji": "aki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Winter",
+      "back": "冬",
+      "romaji": "fuyu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Season",
+      "back": "季節",
+      "romaji": "kisetsu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Birthday",
+      "back": "誕生日",
+      "romaji": "tanjoubi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Anniversary",
+      "back": "記念日",
+      "romaji": "kinenbi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "New Year",
+      "back": "新年",
+      "romaji": "shinnen",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Christmas",
+      "back": "クリスマス",
+      "romaji": "kurisumasu",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Age",
+      "back": "年齢",
+      "romaji": "nenrei",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Old",
+      "back": "古い",
+      "romaji": "furui",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "New",
+      "back": "新しい",
+      "romaji": "atarashii",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Young",
+      "back": "若い",
+      "romaji": "wakai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Adult",
+      "back": "大人",
+      "romaji": "otona",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Child",
+      "back": "子供",
+      "romaji": "kodomo",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Past",
+      "back": "過去",
+      "romaji": "kako",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Present",
+      "back": "現在",
+      "romaji": "genzai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Future",
+      "back": "未来",
+      "romaji": "mirai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "History",
+      "back": "歴史",
+      "romaji": "rekishi",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Modern",
+      "back": "現代",
+      "romaji": "gendai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Ancient",
+      "back": "古代",
+      "romaji": "kodai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Century",
+      "back": "世紀",
+      "romaji": "seiki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Decade",
+      "back": "十年",
+      "romaji": "juunen",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Generation",
+      "back": "世代",
+      "romaji": "sedai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Era",
+      "back": "時代",
+      "romaji": "jidai",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Period",
+      "back": "期間",
+      "romaji": "kikan",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Duration",
+      "back": "持続時間",
+      "romaji": "jizoku jikan",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Temporary",
+      "back": "一時的",
+      "romaji": "ichijiteki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Permanent",
+      "back": "永続的",
+      "romaji": "eizokuteki",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Eternal",
+      "back": "永遠",
+      "romaji": "eien",
+      "type": "vocabulary",
+      "category": "time"
+    }
+  ]
+}

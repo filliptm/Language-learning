@@ -1,0 +1,743 @@
+{
+  "id": "emotions",
+  "name": "Emotions",
+  "description": "Feelings and emotional states",
+  "icon": "😊",
+  "cards": [
+    {
+      "front": "Emotion",
+      "back": "Emoción",
+      "pronunciation": "eh-moh-see-OHN",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Feeling",
+      "back": "Sentimiento",
+      "pronunciation": "sehn-tee-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Happy",
+      "back": "Feliz",
+      "pronunciation": "feh-LEES",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sad",
+      "back": "Triste",
+      "pronunciation": "TREES-teh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Angry",
+      "back": "Enojado",
+      "pronunciation": "eh-noh-HAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Excited",
+      "back": "Emocionado",
+      "pronunciation": "eh-moh-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Nervous",
+      "back": "Nervioso",
+      "pronunciation": "nehr-vee-OH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Calm",
+      "back": "Tranquilo",
+      "pronunciation": "trahn-KEE-loh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Worried",
+      "back": "Preocupado",
+      "pronunciation": "preh-oh-koo-PAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Relaxed",
+      "back": "Relajado",
+      "pronunciation": "reh-lah-HAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Tired",
+      "back": "Cansado",
+      "pronunciation": "kahn-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Energetic",
+      "back": "Enérgico",
+      "pronunciation": "eh-NEHR-hee-koh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Confused",
+      "back": "Confundido",
+      "pronunciation": "kohn-foon-DEE-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Clear",
+      "back": "Claro",
+      "pronunciation": "KLAH-roh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Surprised",
+      "back": "Sorprendido",
+      "pronunciation": "sohr-prehn-DEE-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Shocked",
+      "back": "Impactado",
+      "pronunciation": "eem-pahk-TAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Disappointed",
+      "back": "Decepcionado",
+      "pronunciation": "deh-sehp-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Satisfied",
+      "back": "Satisfecho",
+      "pronunciation": "sah-tees-FEH-choh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Frustrated",
+      "back": "Frustrado",
+      "pronunciation": "froos-TRAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Content",
+      "back": "Contento",
+      "pronunciation": "kohn-TEHN-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Jealous",
+      "back": "Celoso",
+      "pronunciation": "seh-LOH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Envious",
+      "back": "Envidioso",
+      "pronunciation": "ehn-vee-dee-OH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Grateful",
+      "back": "Agradecido",
+      "pronunciation": "ah-grah-deh-SEE-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Thankful",
+      "back": "Reconocido",
+      "pronunciation": "reh-koh-noh-SEE-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Proud",
+      "back": "Orgulloso",
+      "pronunciation": "ohr-goo-YOH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Ashamed",
+      "back": "Avergonzado",
+      "pronunciation": "ah-vehr-gohn-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Embarrassed",
+      "back": "Apenado",
+      "pronunciation": "ah-peh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Confident",
+      "back": "Confiado",
+      "pronunciation": "kohn-fee-AH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Insecure",
+      "back": "Inseguro",
+      "pronunciation": "een-seh-GOO-roh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Anxious",
+      "back": "Ansioso",
+      "pronunciation": "ahn-see-OH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Peaceful",
+      "back": "Pacífico",
+      "pronunciation": "pah-SEE-fee-koh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Stressed",
+      "back": "Estresado",
+      "pronunciation": "ehs-treh-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Overwhelmed",
+      "back": "Abrumado",
+      "pronunciation": "ah-broo-MAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Relieved",
+      "back": "Aliviado",
+      "pronunciation": "ah-lee-vee-AH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Hopeful",
+      "back": "Esperanzado",
+      "pronunciation": "ehs-peh-rahn-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Hopeless",
+      "back": "Desesperanzado",
+      "pronunciation": "deh-sehs-peh-rahn-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Optimistic",
+      "back": "Optimista",
+      "pronunciation": "ohp-tee-MEES-tah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Pessimistic",
+      "back": "Pesimista",
+      "pronunciation": "peh-see-MEES-tah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Motivated",
+      "back": "Motivado",
+      "pronunciation": "moh-tee-VAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Discouraged",
+      "back": "Desanimado",
+      "pronunciation": "dehs-ah-nee-MAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Determined",
+      "back": "Determinado",
+      "pronunciation": "deh-tehr-mee-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Lazy",
+      "back": "Perezoso",
+      "pronunciation": "peh-reh-SOH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Enthusiastic",
+      "back": "Entusiasta",
+      "pronunciation": "ehn-too-see-AHS-tah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Bored",
+      "back": "Aburrido",
+      "pronunciation": "ah-boo-REE-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Interested",
+      "back": "Interesado",
+      "pronunciation": "een-teh-reh-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Curious",
+      "back": "Curioso",
+      "pronunciation": "koo-ree-OH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Indifferent",
+      "back": "Indiferente",
+      "pronunciation": "een-dee-feh-REHN-teh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Passionate",
+      "back": "Apasionado",
+      "pronunciation": "ah-pah-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Romantic",
+      "back": "Romántico",
+      "pronunciation": "roh-MAHN-tee-koh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Lonely",
+      "back": "Solo",
+      "pronunciation": "SOH-loh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Loved",
+      "back": "Amado",
+      "pronunciation": "ah-MAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Heartbroken",
+      "back": "Con el corazón roto",
+      "pronunciation": "kohn ehl koh-rah-SOHN ROH-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "In love",
+      "back": "Enamorado",
+      "pronunciation": "eh-nah-moh-RAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Homesick",
+      "back": "Nostálgico",
+      "pronunciation": "nohs-TAHL-hee-koh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Nostalgic",
+      "back": "Melancólico",
+      "pronunciation": "meh-lahn-KOH-lee-koh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Cheerful",
+      "back": "Alegre",
+      "pronunciation": "ah-LEH-greh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Gloomy",
+      "back": "Sombrío",
+      "pronunciation": "sohm-BREE-oh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Moody",
+      "back": "De mal humor",
+      "pronunciation": "deh mahl oo-MOHR",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Irritated",
+      "back": "Irritado",
+      "pronunciation": "ee-ree-TAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Annoyed",
+      "back": "Molesto",
+      "pronunciation": "moh-LEHS-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Furious",
+      "back": "Furioso",
+      "pronunciation": "foo-ree-OH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Rage",
+      "back": "Rabia",
+      "pronunciation": "RAH-bee-ah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Hatred",
+      "back": "Odio",
+      "pronunciation": "OH-dee-oh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Love",
+      "back": "Amor",
+      "pronunciation": "ah-MOHR",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Affection",
+      "back": "Cariño",
+      "pronunciation": "kah-REE-nyoh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Compassion",
+      "back": "Compasión",
+      "pronunciation": "kohm-pah-see-OHN",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sympathy",
+      "back": "Simpatía",
+      "pronunciation": "seem-pah-TEE-ah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Empathy",
+      "back": "Empatía",
+      "pronunciation": "ehm-pah-TEE-ah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Fear",
+      "back": "Miedo",
+      "pronunciation": "mee-EH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Scared",
+      "back": "Asustado",
+      "pronunciation": "ah-soos-TAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Terrified",
+      "back": "Aterrorizado",
+      "pronunciation": "ah-teh-roh-ree-SAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Brave",
+      "back": "Valiente",
+      "pronunciation": "vah-lee-EHN-teh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Courageous",
+      "back": "Valeroso",
+      "pronunciation": "vah-leh-ROH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Coward",
+      "back": "Cobarde",
+      "pronunciation": "koh-BAHR-deh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Guilty",
+      "back": "Culpable",
+      "pronunciation": "kool-PAH-bleh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Innocent",
+      "back": "Inocente",
+      "pronunciation": "ee-noh-SEHN-teh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Regret",
+      "back": "Arrepentimiento",
+      "pronunciation": "ah-reh-pehn-tee-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Remorse",
+      "back": "Remordimiento",
+      "pronunciation": "reh-mohr-dee-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Joy",
+      "back": "Gozo",
+      "pronunciation": "GOH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Delight",
+      "back": "Deleite",
+      "pronunciation": "deh-LEY-teh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Pleasure",
+      "back": "Placer",
+      "pronunciation": "plah-SEHR",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Pain",
+      "back": "Dolor",
+      "pronunciation": "doh-LOHR",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Suffering",
+      "back": "Sufrimiento",
+      "pronunciation": "soo-free-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Agony",
+      "back": "Agonía",
+      "pronunciation": "ah-goh-NEE-ah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Comfort",
+      "back": "Consuelo",
+      "pronunciation": "kohn-SWEH-loh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Discomfort",
+      "back": "Incomodidad",
+      "pronunciation": "een-koh-moh-dee-DAHD",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Amazed",
+      "back": "Asombrado",
+      "pronunciation": "ah-sohm-BRAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Impressed",
+      "back": "Impresionado",
+      "pronunciation": "eem-preh-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Unimpressed",
+      "back": "No impresionado",
+      "pronunciation": "noh eem-preh-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Thrilled",
+      "back": "Emocionado",
+      "pronunciation": "eh-moh-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Ecstatic",
+      "back": "Extasiado",
+      "pronunciation": "ehks-tah-see-AH-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Depressed",
+      "back": "Deprimido",
+      "pronunciation": "deh-pree-MEE-doh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Melancholy",
+      "back": "Melancolía",
+      "pronunciation": "meh-lahn-koh-LEE-ah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Despair",
+      "back": "Desesperación",
+      "pronunciation": "deh-sehs-peh-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Hope",
+      "back": "Esperanza",
+      "pronunciation": "ehs-peh-RAHN-sah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Faith",
+      "back": "Fe",
+      "pronunciation": "feh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Doubt",
+      "back": "Duda",
+      "pronunciation": "DOO-dah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Trust",
+      "back": "Confianza",
+      "pronunciation": "kohn-fee-AHN-sah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Distrust",
+      "back": "Desconfianza",
+      "pronunciation": "dehs-kohn-fee-AHN-sah",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Suspicious",
+      "back": "Sospechoso",
+      "pronunciation": "sohs-peh-CHOH-soh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Admiration",
+      "back": "Admiración",
+      "pronunciation": "ahd-mee-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Respect",
+      "back": "Respeto",
+      "pronunciation": "rehs-PEH-toh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Contempt",
+      "back": "Desprecio",
+      "pronunciation": "dehs-PREH-see-oh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Disgust",
+      "back": "Asco",
+      "pronunciation": "AHS-koh",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Revulsion",
+      "back": "Repulsión",
+      "pronunciation": "reh-pool-see-OHN",
+      "type": "vocabulary",
+      "category": "emotions"
+    }
+  ]
+}

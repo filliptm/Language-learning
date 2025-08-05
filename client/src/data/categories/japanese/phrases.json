@@ -1,0 +1,750 @@
+{
+  "id": "phrases",
+  "name": "Phrases",
+  "description": "Common expressions",
+  "icon": "💬",
+  "cards": [
+    {
+      "front": "Good morning",
+      "back": "おはようございます",
+      "romaji": "ohayou gozaimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good evening",
+      "back": "こんばんは",
+      "romaji": "konbanwa",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Nice to meet you",
+      "back": "はじめまして",
+      "romaji": "hajimemashite",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How are you?",
+      "back": "元気ですか？",
+      "romaji": "genki desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't understand",
+      "back": "わかりません",
+      "romaji": "wakarimasen",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm sorry",
+      "back": "ごめんなさい",
+      "romaji": "gomen nasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "See you later",
+      "back": "また後で",
+      "romaji": "mata ato de",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Goodbye",
+      "back": "さようなら",
+      "romaji": "sayounara",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Thank you",
+      "back": "ありがとうございます",
+      "romaji": "arigatou gozaimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "You're welcome",
+      "back": "どういたしまして",
+      "romaji": "douitashimashite",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Excuse me",
+      "back": "すみません",
+      "romaji": "sumimasen",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Please",
+      "back": "お願いします",
+      "romaji": "onegai shimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good afternoon",
+      "back": "こんにちは",
+      "romaji": "konnichiwa",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good night",
+      "back": "おやすみなさい",
+      "romaji": "oyasumi nasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What is your name?",
+      "back": "お名前は何ですか？",
+      "romaji": "onamae wa nan desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "My name is...",
+      "back": "私の名前は...です",
+      "romaji": "watashi no namae wa... desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where are you from?",
+      "back": "どちらから来ましたか？",
+      "romaji": "dochira kara kimashita ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I am from...",
+      "back": "私は...出身です",
+      "romaji": "watashi wa... shusshin desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How old are you?",
+      "back": "何歳ですか？",
+      "romaji": "nansai desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I am ... years old",
+      "back": "私は...歳です",
+      "romaji": "watashi wa... sai desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Do you understand?",
+      "back": "分かりますか？",
+      "romaji": "wakarimasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I understand",
+      "back": "分かります",
+      "romaji": "wakarimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't know",
+      "back": "知りません",
+      "romaji": "shirimasen",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Could you repeat that?",
+      "back": "もう一度言ってください",
+      "romaji": "mou ichido itte kudasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Speak slowly please",
+      "back": "ゆっくり話してください",
+      "romaji": "yukkuri hanashite kudasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can you help me?",
+      "back": "手伝ってもらえますか？",
+      "romaji": "tetsudatte moraemasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where is...?",
+      "back": "...はどこですか？",
+      "romaji": "... wa doko desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How much is this?",
+      "back": "これはいくらですか？",
+      "romaji": "kore wa ikura desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I would like...",
+      "back": "...をお願いします",
+      "romaji": "... wo onegai shimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Check please",
+      "back": "お会計お願いします",
+      "romaji": "okaikei onegai shimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm hungry",
+      "back": "お腹が空いています",
+      "romaji": "onaka ga suite imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm thirsty",
+      "back": "のどが渇いています",
+      "romaji": "nodo ga kawaite imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm tired",
+      "back": "疲れています",
+      "romaji": "tsukarete imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm busy",
+      "back": "忙しいです",
+      "romaji": "isogashii desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm fine",
+      "back": "大丈夫です",
+      "romaji": "daijoubu desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What time is it?",
+      "back": "何時ですか？",
+      "romaji": "nanji desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's ... o'clock",
+      "back": "...時です",
+      "romaji": "... ji desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What day is today?",
+      "back": "今日は何曜日ですか？",
+      "romaji": "kyou wa nan youbi desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Today is...",
+      "back": "今日は...です",
+      "romaji": "kyou wa... desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's the weather like?",
+      "back": "天気はどうですか？",
+      "romaji": "tenki wa dou desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's hot",
+      "back": "暑いです",
+      "romaji": "atsui desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's cold",
+      "back": "寒いです",
+      "romaji": "samui desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's raining",
+      "back": "雨が降っています",
+      "romaji": "ame ga futte imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's sunny",
+      "back": "晴れています",
+      "romaji": "harete imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Do you speak English?",
+      "back": "英語を話しますか？",
+      "romaji": "eigo wo hanashimasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I speak a little Japanese",
+      "back": "少し日本語を話します",
+      "romaji": "sukoshi nihongo wo hanashimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can you teach me?",
+      "back": "教えてもらえますか？",
+      "romaji": "oshiete moraemasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm learning Japanese",
+      "back": "日本語を勉強しています",
+      "romaji": "nihongo wo benkyou shite imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Happy birthday",
+      "back": "お誕生日おめでとう",
+      "romaji": "otanjoubi omedetou",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Congratulations",
+      "back": "おめでとうございます",
+      "romaji": "omedetou gozaimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good luck",
+      "back": "頑張って",
+      "romaji": "ganbatte",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Take care",
+      "back": "気をつけて",
+      "romaji": "ki wo tsukete",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Have a good trip",
+      "back": "良い旅を",
+      "romaji": "yoi tabi wo",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Welcome",
+      "back": "いらっしゃいませ",
+      "romaji": "irasshaimase",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm home",
+      "back": "ただいま",
+      "romaji": "tadaima",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Welcome home",
+      "back": "お帰りなさい",
+      "romaji": "okaerinasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Let's eat",
+      "back": "いただきます",
+      "romaji": "itadakimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That was delicious",
+      "back": "ごちそうさまでした",
+      "romaji": "gochisousama deshita",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm going out",
+      "back": "行ってきます",
+      "romaji": "itte kimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Have a safe trip",
+      "back": "行ってらっしゃい",
+      "romaji": "itterasshai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Long time no see",
+      "back": "久しぶりです",
+      "romaji": "hisashiburi desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's wrong?",
+      "back": "どうしましたか？",
+      "romaji": "doushimashita ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Never mind",
+      "back": "気にしないで",
+      "romaji": "ki ni shinaide",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm lost",
+      "back": "道に迷いました",
+      "romaji": "michi ni mayoimashita",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Call the police",
+      "back": "警察を呼んでください",
+      "romaji": "keisatsu wo yonde kudasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Call an ambulance",
+      "back": "救急車を呼んでください",
+      "romaji": "kyuukyuusha wo yonde kudasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I need a doctor",
+      "back": "医者が必要です",
+      "romaji": "isha ga hitsuyou desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where is the hospital?",
+      "back": "病院はどこですか？",
+      "romaji": "byouin wa doko desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I have a headache",
+      "back": "頭が痛いです",
+      "romaji": "atama ga itai desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I have a fever",
+      "back": "熱があります",
+      "romaji": "netsu ga arimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I feel sick",
+      "back": "具合が悪いです",
+      "romaji": "guai ga warui desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where is the bathroom?",
+      "back": "トイレはどこですか？",
+      "romaji": "toire wa doko desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm allergic to...",
+      "back": "...にアレルギーがあります",
+      "romaji": "... ni arerugi ga arimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Is this spicy?",
+      "back": "これは辛いですか？",
+      "romaji": "kore wa karai desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "No thank you",
+      "back": "いいえ、結構です",
+      "romaji": "iie, kekkou desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Just a moment",
+      "back": "ちょっと待ってください",
+      "romaji": "chotto matte kudasai",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It doesn't matter",
+      "back": "かまいません",
+      "romaji": "kamaimasen",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm in a hurry",
+      "back": "急いでいます",
+      "romaji": "isoide imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Be careful",
+      "back": "気をつけて",
+      "romaji": "ki wo tsukete",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good idea",
+      "back": "いいアイデアですね",
+      "romaji": "ii aidea desu ne",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That's right",
+      "back": "そうです",
+      "romaji": "sou desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That's wrong",
+      "back": "違います",
+      "romaji": "chigaimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Maybe",
+      "back": "たぶん",
+      "romaji": "tabun",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Of course",
+      "back": "もちろん",
+      "romaji": "mochiron",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I think so",
+      "back": "そう思います",
+      "romaji": "sou omoimasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't think so",
+      "back": "そうとは思いません",
+      "romaji": "sou to wa omoimasen",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What do you think?",
+      "back": "どう思いますか？",
+      "romaji": "dou omoimasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I agree",
+      "back": "同感です",
+      "romaji": "doukan desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I disagree",
+      "back": "反対です",
+      "romaji": "hantai desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's your hobby?",
+      "back": "趣味は何ですか？",
+      "romaji": "shumi wa nan desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I like...",
+      "back": "...が好きです",
+      "romaji": "... ga suki desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't like...",
+      "back": "...が嫌いです",
+      "romaji": "... ga kirai desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's your job?",
+      "back": "お仕事は何ですか？",
+      "romaji": "oshigoto wa nan desu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm a student",
+      "back": "学生です",
+      "romaji": "gakusei desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I work at...",
+      "back": "...で働いています",
+      "romaji": "... de hataraite imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How much does it cost?",
+      "back": "いくらかかりますか？",
+      "romaji": "ikura kakarimasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That's expensive",
+      "back": "高いですね",
+      "romaji": "takai desu ne",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That's cheap",
+      "back": "安いですね",
+      "romaji": "yasui desu ne",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can I pay by card?",
+      "back": "カードで払えますか？",
+      "romaji": "kaado de haraemasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Do you have change?",
+      "back": "お釣りはありますか？",
+      "romaji": "otsuri wa arimasu ka?",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Keep the change",
+      "back": "お釣りは結構です",
+      "romaji": "otsuri wa kekkou desu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "See you tomorrow",
+      "back": "また明日",
+      "romaji": "mata ashita",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Have a good day",
+      "back": "良い一日を",
+      "romaji": "yoi ichinichi wo",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good work",
+      "back": "お疲れ様",
+      "romaji": "otsukaresama",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm looking forward to it",
+      "back": "楽しみにしています",
+      "romaji": "tanoshimi ni shite imasu",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That sounds good",
+      "back": "それはいいですね",
+      "romaji": "sore wa ii desu ne",
+      "type": "phrase",
+      "category": "phrases"
+    }
+  ]
+}

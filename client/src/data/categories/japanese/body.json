@@ -1,0 +1,722 @@
+{
+  "id": "body",
+  "name": "Body Parts",
+  "description": "Parts of the human body",
+  "icon": "👤",
+  "cards": [
+    {
+      "front": "Head",
+      "back": "頭",
+      "romaji": "atama",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Face",
+      "back": "顔",
+      "romaji": "kao",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eye",
+      "back": "目",
+      "romaji": "me",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nose",
+      "back": "鼻",
+      "romaji": "hana",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Mouth",
+      "back": "口",
+      "romaji": "kuchi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ear",
+      "back": "耳",
+      "romaji": "mimi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hair",
+      "back": "髪",
+      "romaji": "kami",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Neck",
+      "back": "首",
+      "romaji": "kubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Shoulder",
+      "back": "肩",
+      "romaji": "kata",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Arm",
+      "back": "腕",
+      "romaji": "ude",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hand",
+      "back": "手",
+      "romaji": "te",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Finger",
+      "back": "指",
+      "romaji": "yubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Chest",
+      "back": "胸",
+      "romaji": "mune",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Back",
+      "back": "背中",
+      "romaji": "senaka",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Stomach",
+      "back": "胃",
+      "romaji": "i",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Waist",
+      "back": "腰",
+      "romaji": "koshi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Leg",
+      "back": "脚",
+      "romaji": "ashi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Knee",
+      "back": "膝",
+      "romaji": "hiza",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Foot",
+      "back": "足",
+      "romaji": "ashi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Toe",
+      "back": "足指",
+      "romaji": "ashiyubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Skin",
+      "back": "肌",
+      "romaji": "hada",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Bone",
+      "back": "骨",
+      "romaji": "hone",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Blood",
+      "back": "血",
+      "romaji": "chi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Heart",
+      "back": "心臓",
+      "romaji": "shinzou",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Brain",
+      "back": "脳",
+      "romaji": "nou",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tooth",
+      "back": "歯",
+      "romaji": "ha",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Tongue",
+      "back": "舌",
+      "romaji": "shita",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Throat",
+      "back": "喉",
+      "romaji": "nodo",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Elbow",
+      "back": "肘",
+      "romaji": "hiji",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Wrist",
+      "back": "手首",
+      "romaji": "tekubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Palm",
+      "back": "手のひら",
+      "romaji": "te no hira",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Thumb",
+      "back": "親指",
+      "romaji": "oyayubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Index finger",
+      "back": "人差し指",
+      "romaji": "hitosashiyubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Middle finger",
+      "back": "中指",
+      "romaji": "nakayubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ring finger",
+      "back": "薬指",
+      "romaji": "kusuriyubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Little finger",
+      "back": "小指",
+      "romaji": "koyubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nail",
+      "back": "爪",
+      "romaji": "tsume",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hip",
+      "back": "腰",
+      "romaji": "koshi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Thigh",
+      "back": "太もも",
+      "romaji": "futomomo",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Calf",
+      "back": "ふくらはぎ",
+      "romaji": "fukurahagi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Ankle",
+      "back": "足首",
+      "romaji": "ashikubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Heel",
+      "back": "かかと",
+      "romaji": "kakato",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Forehead",
+      "back": "額",
+      "romaji": "hitai",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eyebrow",
+      "back": "眉毛",
+      "romaji": "mayuge",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Eyelash",
+      "back": "まつ毛",
+      "romaji": "matsuge",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Cheek",
+      "back": "頬",
+      "romaji": "hoho",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Chin",
+      "back": "顎",
+      "romaji": "ago",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Lip",
+      "back": "唇",
+      "romaji": "kuchibiru",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Mustache",
+      "back": "口髭",
+      "romaji": "kuchihige",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Beard",
+      "back": "髭",
+      "romaji": "hige",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Voice",
+      "back": "声",
+      "romaji": "koe",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Breath",
+      "back": "息",
+      "romaji": "iki",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Lung",
+      "back": "肺",
+      "romaji": "hai",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Liver",
+      "back": "肝臓",
+      "romaji": "kanzou",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Kidney",
+      "back": "腎臓",
+      "romaji": "jinzou",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Muscle",
+      "back": "筋肉",
+      "romaji": "kinniku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Joint",
+      "back": "関節",
+      "romaji": "kansetsu",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Nerve",
+      "back": "神経",
+      "romaji": "shinkei",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Vein",
+      "back": "静脈",
+      "romaji": "jōmyaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Artery",
+      "back": "動脈",
+      "romaji": "dōmyaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Pulse",
+      "back": "脈",
+      "romaji": "myaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Spine",
+      "back": "背骨",
+      "romaji": "sebone",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Rib",
+      "back": "肋骨",
+      "romaji": "rokkotsu",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Skull",
+      "back": "頭蓋骨",
+      "romaji": "zugaikotsu",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Jaw",
+      "back": "顎",
+      "romaji": "ago",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Temple",
+      "back": "こめかみ",
+      "romaji": "komekami",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Armpit",
+      "back": "脇",
+      "romaji": "waki",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Belly",
+      "back": "お腹",
+      "romaji": "onaka",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Navel",
+      "back": "へそ",
+      "romaji": "heso",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Buttocks",
+      "back": "お尻",
+      "romaji": "oshiri",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Shin",
+      "back": "すね",
+      "romaji": "sune",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Sole",
+      "back": "足の裏",
+      "romaji": "ashi no ura",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Big toe",
+      "back": "親指",
+      "romaji": "oyayubi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Wrinkle",
+      "back": "しわ",
+      "romaji": "shiwa",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Scar",
+      "back": "傷跡",
+      "romaji": "kizuato",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Mole",
+      "back": "ほくろ",
+      "romaji": "hokuro",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Freckle",
+      "back": "そばかす",
+      "romaji": "sobakasu",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Dimple",
+      "back": "えくぼ",
+      "romaji": "ekubo",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Body",
+      "back": "体",
+      "romaji": "karada",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Height",
+      "back": "身長",
+      "romaji": "shinchō",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Weight",
+      "back": "体重",
+      "romaji": "taijū",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Size",
+      "back": "サイズ",
+      "romaji": "saizu",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Shape",
+      "back": "形",
+      "romaji": "katachi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Gesture",
+      "back": "身振り",
+      "romaji": "miburi",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Posture",
+      "back": "姿勢",
+      "romaji": "shisei",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Movement",
+      "back": "動き",
+      "romaji": "ugoki",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Balance",
+      "back": "バランス",
+      "romaji": "baransu",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Flexibility",
+      "back": "柔軟性",
+      "romaji": "jūnansei",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Strength",
+      "back": "力",
+      "romaji": "chikara",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Energy",
+      "back": "エネルギー",
+      "romaji": "enerugī",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Stamina",
+      "back": "スタミナ",
+      "romaji": "sutamina",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Reflex",
+      "back": "反射",
+      "romaji": "hansha",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Coordination",
+      "back": "協調",
+      "romaji": "kyōchō",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Sense",
+      "back": "感覚",
+      "romaji": "kankaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Touch",
+      "back": "触覚",
+      "romaji": "shokukaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Sight",
+      "back": "視覚",
+      "romaji": "shikaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Hearing",
+      "back": "聴覚",
+      "romaji": "chōkaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Smell",
+      "back": "嗅覚",
+      "romaji": "kyūkaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Taste",
+      "back": "味覚",
+      "romaji": "mikaku",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Pain",
+      "back": "痛み",
+      "romaji": "itami",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Injury",
+      "back": "怪我",
+      "romaji": "kega",
+      "type": "vocabulary",
+      "category": "body"
+    },
+    {
+      "front": "Health",
+      "back": "健康",
+      "romaji": "kenkō",
+      "type": "vocabulary",
+      "category": "body"
+    }
+  ]
+}

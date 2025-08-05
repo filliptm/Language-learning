@@ -1,0 +1,750 @@
+{
+  "id": "clothing",
+  "name": "Clothing",
+  "description": "Clothes and accessories",
+  "icon": "👕",
+  "cards": [
+    {
+      "front": "Shirt",
+      "back": "シャツ",
+      "romaji": "shatsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "T-shirt",
+      "back": "Tシャツ",
+      "romaji": "tī-shatsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pants",
+      "back": "ズボン",
+      "romaji": "zubon",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Jeans",
+      "back": "ジーンズ",
+      "romaji": "jīnzu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Dress",
+      "back": "ドレス",
+      "romaji": "doresu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Skirt",
+      "back": "スカート",
+      "romaji": "sukāto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Jacket",
+      "back": "ジャケット",
+      "romaji": "jaketto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Coat",
+      "back": "コート",
+      "romaji": "kōto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sweater",
+      "back": "セーター",
+      "romaji": "sētā",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sweatshirt",
+      "back": "スウェットシャツ",
+      "romaji": "suwetto shatsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Hoodie",
+      "back": "フード付きシャツ",
+      "romaji": "fūdo tsuki shatsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Blouse",
+      "back": "ブラウス",
+      "romaji": "burausu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tank top",
+      "back": "タンクトップ",
+      "romaji": "tanku toppu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Shorts",
+      "back": "ショーツ",
+      "romaji": "shōtsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Underwear",
+      "back": "下着",
+      "romaji": "shitagi",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bra",
+      "back": "ブラジャー",
+      "romaji": "burajā",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Socks",
+      "back": "靴下",
+      "romaji": "kutsushita",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Shoes",
+      "back": "靴",
+      "romaji": "kutsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sneakers",
+      "back": "スニーカー",
+      "romaji": "sunīkā",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Boots",
+      "back": "ブーツ",
+      "romaji": "būtsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sandals",
+      "back": "サンダル",
+      "romaji": "sandaru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "High heels",
+      "back": "ハイヒール",
+      "romaji": "hai hīru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Slippers",
+      "back": "スリッパ",
+      "romaji": "surippa",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Hat",
+      "back": "帽子",
+      "romaji": "bōshi",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cap",
+      "back": "キャップ",
+      "romaji": "kyappu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Scarf",
+      "back": "スカーフ",
+      "romaji": "sukāfu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Gloves",
+      "back": "手袋",
+      "romaji": "tebukuro",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Belt",
+      "back": "ベルト",
+      "romaji": "beruto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tie",
+      "back": "ネクタイ",
+      "romaji": "nekutai",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bow tie",
+      "back": "蝶ネクタイ",
+      "romaji": "chō nekutai",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Suspenders",
+      "back": "サスペンダー",
+      "romaji": "sasupendā",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Vest",
+      "back": "ベスト",
+      "romaji": "besuto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Suit",
+      "back": "スーツ",
+      "romaji": "sūtsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tuxedo",
+      "back": "タキシード",
+      "romaji": "takishīdo",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Uniform",
+      "back": "制服",
+      "romaji": "seifuku",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pajamas",
+      "back": "パジャマ",
+      "romaji": "pajama",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Nightgown",
+      "back": "ナイトガウン",
+      "romaji": "naito gaun",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Robe",
+      "back": "ローブ",
+      "romaji": "rōbu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Swimsuit",
+      "back": "水着",
+      "romaji": "mizugi",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bikini",
+      "back": "ビキニ",
+      "romaji": "bikini",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Swim trunks",
+      "back": "海水パンツ",
+      "romaji": "kaisui pantsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Raincoat",
+      "back": "レインコート",
+      "romaji": "rein kōto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Umbrella",
+      "back": "傘",
+      "romaji": "kasa",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sunglasses",
+      "back": "サングラス",
+      "romaji": "sangurasu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Glasses",
+      "back": "眼鏡",
+      "romaji": "megane",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Watch",
+      "back": "腕時計",
+      "romaji": "udedokei",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Jewelry",
+      "back": "宝石",
+      "romaji": "hōseki",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Ring",
+      "back": "指輪",
+      "romaji": "yubiwa",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Necklace",
+      "back": "ネックレス",
+      "romaji": "nekkuresu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Earrings",
+      "back": "イヤリング",
+      "romaji": "iyaringu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bracelet",
+      "back": "ブレスレット",
+      "romaji": "buresiretto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Handbag",
+      "back": "ハンドバッグ",
+      "romaji": "handobaggu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Purse",
+      "back": "財布",
+      "romaji": "saifu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Backpack",
+      "back": "リュックサック",
+      "romaji": "ryukku sakku",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Briefcase",
+      "back": "ブリーフケース",
+      "romaji": "burīfu kēsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Wallet",
+      "back": "財布",
+      "romaji": "saifu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Size",
+      "back": "サイズ",
+      "romaji": "saizu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Small",
+      "back": "小さい",
+      "romaji": "chiisai",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Medium",
+      "back": "中",
+      "romaji": "chū",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Large",
+      "back": "大きい",
+      "romaji": "ōkii",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Extra large",
+      "back": "特大",
+      "romaji": "tokudai",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tight",
+      "back": "きつい",
+      "romaji": "kitsui",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Loose",
+      "back": "ゆるい",
+      "romaji": "yurui",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Fit",
+      "back": "合う",
+      "romaji": "au",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Try on",
+      "back": "試着する",
+      "romaji": "shichaku suru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Wear",
+      "back": "着る",
+      "romaji": "kiru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Put on",
+      "back": "着る",
+      "romaji": "kiru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Take off",
+      "back": "脱ぐ",
+      "romaji": "nugu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Change clothes",
+      "back": "着替える",
+      "romaji": "kigaeru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Dress up",
+      "back": "着飾る",
+      "romaji": "kikazaru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Casual",
+      "back": "カジュアル",
+      "romaji": "kajuaru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Formal",
+      "back": "フォーマル",
+      "romaji": "fōmaru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Elegant",
+      "back": "エレガント",
+      "romaji": "ereganto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Stylish",
+      "back": "スタイリッシュ",
+      "romaji": "sutairisshu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Fashion",
+      "back": "ファッション",
+      "romaji": "fasshon",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Trendy",
+      "back": "流行の",
+      "romaji": "ryūkō no",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Old-fashioned",
+      "back": "古風な",
+      "romaji": "kofū na",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Vintage",
+      "back": "ヴィンテージ",
+      "romaji": "vintēji",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Brand",
+      "back": "ブランド",
+      "romaji": "burando",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Designer",
+      "back": "デザイナー",
+      "romaji": "dezainā",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Quality",
+      "back": "品質",
+      "romaji": "hinshitsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Material",
+      "back": "素材",
+      "romaji": "sozai",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cotton",
+      "back": "綿",
+      "romaji": "men",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Silk",
+      "back": "絹",
+      "romaji": "kinu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Wool",
+      "back": "羊毛",
+      "romaji": "yōmō",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Leather",
+      "back": "革",
+      "romaji": "kawa",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Synthetic",
+      "back": "合成",
+      "romaji": "gōsei",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Polyester",
+      "back": "ポリエステル",
+      "romaji": "poriesuteru",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Denim",
+      "back": "デニム",
+      "romaji": "denimu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Lace",
+      "back": "レース",
+      "romaji": "rēsu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pattern",
+      "back": "柄",
+      "romaji": "gara",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Stripes",
+      "back": "ストライプ",
+      "romaji": "sutoraipu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Polka dots",
+      "back": "水玉",
+      "romaji": "mizutama",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Plaid",
+      "back": "格子柄",
+      "romaji": "kōshi gara",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Solid color",
+      "back": "無地",
+      "romaji": "muji",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Print",
+      "back": "プリント",
+      "romaji": "purinto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Embroidery",
+      "back": "刺繍",
+      "romaji": "shishū",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Button",
+      "back": "ボタン",
+      "romaji": "botan",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Zipper",
+      "back": "ファスナー",
+      "romaji": "fasunā",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pocket",
+      "back": "ポケット",
+      "romaji": "poketto",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sleeve",
+      "back": "袖",
+      "romaji": "sode",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Collar",
+      "back": "襟",
+      "romaji": "eri",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Hem",
+      "back": "裾",
+      "romaji": "suso",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Seam",
+      "back": "縫い目",
+      "romaji": "nuime",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tag",
+      "back": "タグ",
+      "romaji": "tagu",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Label",
+      "back": "ラベル",
+      "romaji": "raberu",
+      "type": "vocabulary",
+      "category": "clothing"
+    }
+  ]
+}

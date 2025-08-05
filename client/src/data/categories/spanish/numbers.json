@@ -1,0 +1,750 @@
+{
+  "id": "numbers",
+  "name": "Numbers",
+  "description": "Counting and quantities",
+  "icon": "🔢",
+  "cards": [
+    {
+      "front": "Zero",
+      "back": "Cero",
+      "pronunciation": "SEH-roh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One",
+      "back": "Uno",
+      "pronunciation": "OO-noh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two",
+      "back": "Dos",
+      "pronunciation": "dohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Three",
+      "back": "Tres",
+      "pronunciation": "trehs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Four",
+      "back": "Cuatro",
+      "pronunciation": "KWAH-troh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Five",
+      "back": "Cinco",
+      "pronunciation": "SEEN-koh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Six",
+      "back": "Seis",
+      "pronunciation": "says",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seven",
+      "back": "Siete",
+      "pronunciation": "see-EH-teh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eight",
+      "back": "Ocho",
+      "pronunciation": "OH-choh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Nine",
+      "back": "Nueve",
+      "pronunciation": "NWAY-veh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ten",
+      "back": "Diez",
+      "pronunciation": "dee-EHS",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eleven",
+      "back": "Once",
+      "pronunciation": "OHN-seh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twelve",
+      "back": "Doce",
+      "pronunciation": "DOH-seh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Thirteen",
+      "back": "Trece",
+      "pronunciation": "TREH-seh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fourteen",
+      "back": "Catorce",
+      "pronunciation": "kah-TOHR-seh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fifteen",
+      "back": "Quince",
+      "pronunciation": "KEEN-seh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sixteen",
+      "back": "Dieciséis",
+      "pronunciation": "dee-eh-see-SAYS",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seventeen",
+      "back": "Diecisiete",
+      "pronunciation": "dee-eh-see-see-EH-teh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eighteen",
+      "back": "Dieciocho",
+      "pronunciation": "dee-eh-see-OH-choh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Nineteen",
+      "back": "Diecinueve",
+      "pronunciation": "dee-eh-see-NWAY-veh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twenty",
+      "back": "Veinte",
+      "pronunciation": "VAYN-teh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twenty-one",
+      "back": "Veintiuno",
+      "pronunciation": "vayn-tee-OO-noh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twenty-two",
+      "back": "Veintidós",
+      "pronunciation": "vayn-tee-DOHS",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twenty-five",
+      "back": "Veinticinco",
+      "pronunciation": "vayn-tee-SEEN-koh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Thirty",
+      "back": "Treinta",
+      "pronunciation": "TRAYN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Thirty-one",
+      "back": "Treinta y uno",
+      "pronunciation": "TRAYN-tah ee OO-noh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Forty",
+      "back": "Cuarenta",
+      "pronunciation": "kwah-REHN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fifty",
+      "back": "Cincuenta",
+      "pronunciation": "seen-KWEHN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sixty",
+      "back": "Sesenta",
+      "pronunciation": "seh-SEHN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seventy",
+      "back": "Setenta",
+      "pronunciation": "seh-TEHN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eighty",
+      "back": "Ochenta",
+      "pronunciation": "oh-CHEHN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ninety",
+      "back": "Noventa",
+      "pronunciation": "noh-VEHN-tah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One hundred",
+      "back": "Cien",
+      "pronunciation": "see-EHN",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One hundred one",
+      "back": "Ciento uno",
+      "pronunciation": "see-EHN-toh OO-noh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two hundred",
+      "back": "Doscientos",
+      "pronunciation": "dohs-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Three hundred",
+      "back": "Trescientos",
+      "pronunciation": "trehs-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Four hundred",
+      "back": "Cuatrocientos",
+      "pronunciation": "kwah-troh-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Five hundred",
+      "back": "Quinientos",
+      "pronunciation": "kee-nee-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Six hundred",
+      "back": "Seiscientos",
+      "pronunciation": "says-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seven hundred",
+      "back": "Setecientos",
+      "pronunciation": "seh-teh-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eight hundred",
+      "back": "Ochocientos",
+      "pronunciation": "oh-choh-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Nine hundred",
+      "back": "Novecientos",
+      "pronunciation": "noh-veh-see-EHN-tohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One thousand",
+      "back": "Mil",
+      "pronunciation": "meel",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two thousand",
+      "back": "Dos mil",
+      "pronunciation": "dohs meel",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ten thousand",
+      "back": "Diez mil",
+      "pronunciation": "dee-EHS meel",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One hundred thousand",
+      "back": "Cien mil",
+      "pronunciation": "see-EHN meel",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One million",
+      "back": "Un millón",
+      "pronunciation": "oon mee-YOHN",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "First",
+      "back": "Primero",
+      "pronunciation": "pree-MEH-roh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Second",
+      "back": "Segundo",
+      "pronunciation": "seh-GOON-doh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Third",
+      "back": "Tercero",
+      "pronunciation": "tehr-SEH-roh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fourth",
+      "back": "Cuarto",
+      "pronunciation": "KWAR-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fifth",
+      "back": "Quinto",
+      "pronunciation": "KEEN-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sixth",
+      "back": "Sexto",
+      "pronunciation": "SEHKS-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seventh",
+      "back": "Séptimo",
+      "pronunciation": "SEHP-tee-moh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eighth",
+      "back": "Octavo",
+      "pronunciation": "ohk-TAH-voh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ninth",
+      "back": "Noveno",
+      "pronunciation": "noh-VEH-noh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Tenth",
+      "back": "Décimo",
+      "pronunciation": "DEH-see-moh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Last",
+      "back": "Último",
+      "pronunciation": "OOL-tee-moh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Half",
+      "back": "Medio",
+      "pronunciation": "MEH-dee-oh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Quarter",
+      "back": "Cuarto",
+      "pronunciation": "KWAR-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Third (fraction)",
+      "back": "Tercio",
+      "pronunciation": "TEHR-see-oh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Double",
+      "back": "Doble",
+      "pronunciation": "DOH-bleh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Triple",
+      "back": "Triple",
+      "pronunciation": "TREE-pleh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Single",
+      "back": "Solo",
+      "pronunciation": "SOH-loh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Pair",
+      "back": "Par",
+      "pronunciation": "pahr",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Dozen",
+      "back": "Docena",
+      "pronunciation": "doh-SEH-nah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Score (20)",
+      "back": "Veintena",
+      "pronunciation": "vayn-TEH-nah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Plus",
+      "back": "Más",
+      "pronunciation": "mahs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Minus",
+      "back": "Menos",
+      "pronunciation": "MEH-nohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Times",
+      "back": "Por",
+      "pronunciation": "por",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Divided by",
+      "back": "Dividido entre",
+      "pronunciation": "dee-vee-DEE-doh EHN-treh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Equals",
+      "back": "Igual",
+      "pronunciation": "ee-GWAHL",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Percent",
+      "back": "Por ciento",
+      "pronunciation": "por see-EHN-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "All",
+      "back": "Todo",
+      "pronunciation": "TOH-doh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "None",
+      "back": "Ninguno",
+      "pronunciation": "neen-GOO-noh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Some",
+      "back": "Algunos",
+      "pronunciation": "ahl-GOO-nohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Many",
+      "back": "Muchos",
+      "pronunciation": "MOO-chohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Few",
+      "back": "Pocos",
+      "pronunciation": "POH-kohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Several",
+      "back": "Varios",
+      "pronunciation": "VAH-ree-ohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Most",
+      "back": "La mayoría",
+      "pronunciation": "lah mah-yoh-REE-ah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Least",
+      "back": "El menor",
+      "pronunciation": "ehl meh-NOHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "More",
+      "back": "Más",
+      "pronunciation": "mahs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Less",
+      "back": "Menos",
+      "pronunciation": "MEH-nohs",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Equal",
+      "back": "Igual",
+      "pronunciation": "ee-GWAHL",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Greater",
+      "back": "Mayor",
+      "pronunciation": "mah-YOHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Smaller",
+      "back": "Menor",
+      "pronunciation": "meh-NOHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Maximum",
+      "back": "Máximo",
+      "pronunciation": "MAHK-see-moh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Minimum",
+      "back": "Mínimo",
+      "pronunciation": "MEE-nee-moh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Average",
+      "back": "Promedio",
+      "pronunciation": "proh-MEH-dee-oh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Total",
+      "back": "Total",
+      "pronunciation": "toh-TAHL",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sum",
+      "back": "Suma",
+      "pronunciation": "SOO-mah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Difference",
+      "back": "Diferencia",
+      "pronunciation": "dee-feh-REHN-see-ah",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Product",
+      "back": "Producto",
+      "pronunciation": "proh-DOOK-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Quotient",
+      "back": "Cociente",
+      "pronunciation": "koh-see-EHN-teh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fraction",
+      "back": "Fracción",
+      "pronunciation": "frahk-see-OHN",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Decimal",
+      "back": "Decimal",
+      "pronunciation": "deh-see-MAHL",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Number",
+      "back": "Número",
+      "pronunciation": "NOO-meh-roh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Digit",
+      "back": "Dígito",
+      "pronunciation": "DEE-hee-toh",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Count",
+      "back": "Contar",
+      "pronunciation": "kohn-TAHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Calculate",
+      "back": "Calcular",
+      "pronunciation": "kahl-koo-LAHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Add",
+      "back": "Sumar",
+      "pronunciation": "soo-MAHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Subtract",
+      "back": "Restar",
+      "pronunciation": "rehs-TAHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Multiply",
+      "back": "Multiplicar",
+      "pronunciation": "mool-tee-plee-KAHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Divide",
+      "back": "Dividir",
+      "pronunciation": "dee-vee-DEER",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Even number",
+      "back": "Número par",
+      "pronunciation": "NOO-meh-roh pahr",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Odd number",
+      "back": "Número impar",
+      "pronunciation": "NOO-meh-roh eem-PAHR",
+      "type": "vocabulary",
+      "category": "numbers"
+    }
+  ]
+}

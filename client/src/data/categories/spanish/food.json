@@ -1,0 +1,771 @@
+{
+  "id": "food",
+  "name": "Food & Drinks",
+  "description": "Food, beverages, and dining",
+  "icon": "🍽️",
+  "cards": [
+    {
+      "front": "Food",
+      "back": "Comida",
+      "pronunciation": "koh-MEE-dah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Drink",
+      "back": "Bebida",
+      "pronunciation": "beh-BEE-dah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Water",
+      "back": "Agua",
+      "pronunciation": "AH-gwah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bread",
+      "back": "Pan",
+      "pronunciation": "pahn",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Rice",
+      "back": "Arroz",
+      "pronunciation": "ah-RROHS",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Beans",
+      "back": "Frijoles",
+      "pronunciation": "free-HOH-lehs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Meat",
+      "back": "Carne",
+      "pronunciation": "KAHR-neh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chicken",
+      "back": "Pollo",
+      "pronunciation": "POH-yoh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Beef",
+      "back": "Carne de res",
+      "pronunciation": "KAHR-neh deh rrehs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pork",
+      "back": "Cerdo",
+      "pronunciation": "SEHR-doh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Fish",
+      "back": "Pescado",
+      "pronunciation": "pehs-KAH-doh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Seafood",
+      "back": "Mariscos",
+      "pronunciation": "mah-REES-kohs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Shrimp",
+      "back": "Camarones",
+      "pronunciation": "kah-mah-ROH-nehs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Vegetables",
+      "back": "Verduras",
+      "pronunciation": "vehr-DOO-rahs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Fruits",
+      "back": "Frutas",
+      "pronunciation": "FROO-tahs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Apple",
+      "back": "Manzana",
+      "pronunciation": "mahn-SAH-nah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Orange",
+      "back": "Naranja",
+      "pronunciation": "nah-RAHN-hah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Banana",
+      "back": "Plátano",
+      "pronunciation": "PLAH-tah-noh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Lime",
+      "back": "Lima",
+      "pronunciation": "LEE-mah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Lemon",
+      "back": "Limón",
+      "pronunciation": "lee-MOHN",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Avocado",
+      "back": "Aguacate",
+      "pronunciation": "ah-gwah-KAH-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tomato",
+      "back": "Tomate",
+      "pronunciation": "toh-MAH-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Onion",
+      "back": "Cebolla",
+      "pronunciation": "seh-BOH-yah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Garlic",
+      "back": "Ajo",
+      "pronunciation": "AH-hoh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pepper",
+      "back": "Pimiento",
+      "pronunciation": "pee-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chili pepper",
+      "back": "Chile",
+      "pronunciation": "CHEE-leh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Jalapeño",
+      "back": "Jalapeño",
+      "pronunciation": "hah-lah-PEH-nyoh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Lettuce",
+      "back": "Lechuga",
+      "pronunciation": "leh-CHOO-gah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Carrot",
+      "back": "Zanahoria",
+      "pronunciation": "sah-nah-OH-ree-ah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Potato",
+      "back": "Papa",
+      "pronunciation": "PAH-pah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Corn",
+      "back": "Maíz",
+      "pronunciation": "mah-EES",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Egg",
+      "back": "Huevo",
+      "pronunciation": "HWAY-voh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cheese",
+      "back": "Queso",
+      "pronunciation": "KEH-soh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Milk",
+      "back": "Leche",
+      "pronunciation": "LEH-cheh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Butter",
+      "back": "Mantequilla",
+      "pronunciation": "mahn-teh-KEE-yah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Yogurt",
+      "back": "Yogur",
+      "pronunciation": "yoh-GOOR",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sugar",
+      "back": "Azúcar",
+      "pronunciation": "ah-SOO-kahr",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Salt",
+      "back": "Sal",
+      "pronunciation": "sahl",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Oil",
+      "back": "Aceite",
+      "pronunciation": "ah-SAY-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Vinegar",
+      "back": "Vinagre",
+      "pronunciation": "vee-NAH-greh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Spices",
+      "back": "Especias",
+      "pronunciation": "ehs-PEH-see-ahs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sauce",
+      "back": "Salsa",
+      "pronunciation": "SAHL-sah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Soup",
+      "back": "Sopa",
+      "pronunciation": "SOH-pah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Salad",
+      "back": "Ensalada",
+      "pronunciation": "ehn-sah-LAH-dah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sandwich",
+      "back": "Sándwich",
+      "pronunciation": "SAHND-weech",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pizza",
+      "back": "Pizza",
+      "pronunciation": "PEET-sah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Pasta",
+      "back": "Pasta",
+      "pronunciation": "PAHS-tah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Taco",
+      "back": "Taco",
+      "pronunciation": "TAH-koh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Burrito",
+      "back": "Burrito",
+      "pronunciation": "boo-RREE-toh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Quesadilla",
+      "back": "Quesadilla",
+      "pronunciation": "keh-sah-DEE-yah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tortilla",
+      "back": "Tortilla",
+      "pronunciation": "tohr-TEE-yah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Enchilada",
+      "back": "Enchilada",
+      "pronunciation": "ehn-chee-LAH-dah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tamale",
+      "back": "Tamal",
+      "pronunciation": "tah-MAHL",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Guacamole",
+      "back": "Guacamole",
+      "pronunciation": "gwah-kah-MOH-leh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Salsa",
+      "back": "Salsa",
+      "pronunciation": "SAHL-sah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Breakfast",
+      "back": "Desayuno",
+      "pronunciation": "deh-sah-YOO-noh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Lunch",
+      "back": "Almuerzo",
+      "pronunciation": "ahl-MWEHR-soh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Dinner",
+      "back": "Cena",
+      "pronunciation": "SEH-nah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Snack",
+      "back": "Merienda",
+      "pronunciation": "meh-ree-EHN-dah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Dessert",
+      "back": "Postre",
+      "pronunciation": "POHS-treh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Ice cream",
+      "back": "Helado",
+      "pronunciation": "eh-LAH-doh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cake",
+      "back": "Pastel",
+      "pronunciation": "pahs-TEHL",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cookie",
+      "back": "Galleta",
+      "pronunciation": "gah-YEH-tah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chocolate",
+      "back": "Chocolate",
+      "pronunciation": "choh-koh-LAH-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Candy",
+      "back": "Dulces",
+      "pronunciation": "DOOL-sehs",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Coffee",
+      "back": "Café",
+      "pronunciation": "kah-FEH",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tea",
+      "back": "Té",
+      "pronunciation": "teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Juice",
+      "back": "Jugo",
+      "pronunciation": "HOO-goh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Soda",
+      "back": "Refresco",
+      "pronunciation": "reh-FREHS-koh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Beer",
+      "back": "Cerveza",
+      "pronunciation": "sehr-VEH-sah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Wine",
+      "back": "Vino",
+      "pronunciation": "VEE-noh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Alcohol",
+      "back": "Alcohol",
+      "pronunciation": "ahl-koh-OHL",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Restaurant",
+      "back": "Restaurante",
+      "pronunciation": "rrehs-tah-oo-RAHN-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Menu",
+      "back": "Menú",
+      "pronunciation": "meh-NOO",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Waiter",
+      "back": "Mesero",
+      "pronunciation": "meh-SEH-roh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Waitress",
+      "back": "Mesera",
+      "pronunciation": "meh-SEH-rah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chef",
+      "back": "Chef",
+      "pronunciation": "chef",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cook",
+      "back": "Cocinero",
+      "pronunciation": "koh-see-NEH-roh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Kitchen",
+      "back": "Cocina",
+      "pronunciation": "koh-SEE-nah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Plate",
+      "back": "Plato",
+      "pronunciation": "PLAH-toh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bowl",
+      "back": "Tazón",
+      "pronunciation": "tah-SOHN",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cup",
+      "back": "Taza",
+      "pronunciation": "TAH-sah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Glass",
+      "back": "Vaso",
+      "pronunciation": "VAH-soh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Fork",
+      "back": "Tenedor",
+      "pronunciation": "teh-neh-DOHR",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Knife",
+      "back": "Cuchillo",
+      "pronunciation": "koo-CHEE-yoh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Spoon",
+      "back": "Cuchara",
+      "pronunciation": "koo-CHAH-rah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Napkin",
+      "back": "Servilleta",
+      "pronunciation": "sehr-vee-YEH-tah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Table",
+      "back": "Mesa",
+      "pronunciation": "MEH-sah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Chair",
+      "back": "Silla",
+      "pronunciation": "SEE-yah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Order",
+      "back": "Orden",
+      "pronunciation": "OHR-dehn",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bill",
+      "back": "Cuenta",
+      "pronunciation": "KWEHN-tah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tip",
+      "back": "Propina",
+      "pronunciation": "proh-PEE-nah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Recipe",
+      "back": "Receta",
+      "pronunciation": "reh-SEH-tah",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Ingredient",
+      "back": "Ingrediente",
+      "pronunciation": "een-greh-dee-EHN-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cooking",
+      "back": "Cocinar",
+      "pronunciation": "koh-see-NAHR",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Baking",
+      "back": "Hornear",
+      "pronunciation": "ohr-neh-AHR",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Frying",
+      "back": "Freír",
+      "pronunciation": "freh-EER",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Boiling",
+      "back": "Hervir",
+      "pronunciation": "ehr-VEER",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Grilling",
+      "back": "Asar",
+      "pronunciation": "ah-SAHR",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Hot",
+      "back": "Caliente",
+      "pronunciation": "kah-lee-EHN-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Cold",
+      "back": "Frío",
+      "pronunciation": "FREE-oh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sweet",
+      "back": "Dulce",
+      "pronunciation": "DOOL-seh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Sour",
+      "back": "Agrio",
+      "pronunciation": "AH-gree-oh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Salty",
+      "back": "Salado",
+      "pronunciation": "sah-LAH-doh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Bitter",
+      "back": "Amargo",
+      "pronunciation": "ah-MAHR-goh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Spicy",
+      "back": "Picante",
+      "pronunciation": "pee-KAHN-teh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Delicious",
+      "back": "Delicioso",
+      "pronunciation": "deh-lee-see-OH-soh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Tasty",
+      "back": "Sabroso",
+      "pronunciation": "sah-BROH-soh",
+      "type": "vocabulary",
+      "category": "food"
+    },
+    {
+      "front": "Fresh",
+      "back": "Fresco",
+      "pronunciation": "FREHS-koh",
+      "type": "vocabulary",
+      "category": "food"
+    }
+  ]
+}

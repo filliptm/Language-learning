@@ -1,0 +1,806 @@
+{
+  "id": "nouns",
+  "name": "Nouns",
+  "description": "People, places, and things",
+  "icon": "📦",
+  "cards": [
+    {
+      "front": "Water",
+      "back": "水",
+      "romaji": "mizu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Food",
+      "back": "食べ物",
+      "romaji": "tabemono",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Friend",
+      "back": "友達",
+      "romaji": "tomodachi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "School",
+      "back": "学校",
+      "romaji": "gakkou",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "House",
+      "back": "家",
+      "romaji": "ie",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Car",
+      "back": "車",
+      "romaji": "kuruma",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Book",
+      "back": "本",
+      "romaji": "hon",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Cat",
+      "back": "猫",
+      "romaji": "neko",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Dog",
+      "back": "犬",
+      "romaji": "inu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Mother",
+      "back": "お母さん",
+      "romaji": "okaasan",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Father",
+      "back": "お父さん",
+      "romaji": "otousan",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Person",
+      "back": "人",
+      "romaji": "hito",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Child",
+      "back": "子供",
+      "romaji": "kodomo",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Man",
+      "back": "男性",
+      "romaji": "dansei",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Woman",
+      "back": "女性",
+      "romaji": "josei",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Student",
+      "back": "学生",
+      "romaji": "gakusei",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Doctor",
+      "back": "医者",
+      "romaji": "isha",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Nurse",
+      "back": "看護師",
+      "romaji": "kangoshi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Police officer",
+      "back": "警察官",
+      "romaji": "keisatsukan",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Firefighter",
+      "back": "消防士",
+      "romaji": "shouboushi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Cook",
+      "back": "料理人",
+      "romaji": "ryourinin",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Driver",
+      "back": "運転手",
+      "romaji": "untenshu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Clerk",
+      "back": "店員",
+      "romaji": "ten'in",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Office worker",
+      "back": "会社員",
+      "romaji": "kaishain",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Brother",
+      "back": "兄弟",
+      "romaji": "kyoudai",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Sister",
+      "back": "姉妹",
+      "romaji": "shimai",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Grandfather",
+      "back": "祖父",
+      "romaji": "sofu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Grandmother",
+      "back": "祖母",
+      "romaji": "sobo",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Husband",
+      "back": "夫",
+      "romaji": "otto",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Wife",
+      "back": "妻",
+      "romaji": "tsuma",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Son",
+      "back": "息子",
+      "romaji": "musuko",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Daughter",
+      "back": "娘",
+      "romaji": "musume",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Baby",
+      "back": "赤ちゃん",
+      "romaji": "akachan",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Adult",
+      "back": "大人",
+      "romaji": "otona",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Neighbor",
+      "back": "隣人",
+      "romaji": "rinjin",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Country",
+      "back": "国",
+      "romaji": "kuni",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "City",
+      "back": "都市",
+      "romaji": "toshi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Town",
+      "back": "町",
+      "romaji": "machi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Village",
+      "back": "村",
+      "romaji": "mura",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Street",
+      "back": "道",
+      "romaji": "michi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Park",
+      "back": "公園",
+      "romaji": "kouen",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Hospital",
+      "back": "病院",
+      "romaji": "byouin",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Store",
+      "back": "店",
+      "romaji": "mise",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Restaurant",
+      "back": "レストラン",
+      "romaji": "resutoran",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bank",
+      "back": "銀行",
+      "romaji": "ginkou",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Post office",
+      "back": "郵便局",
+      "romaji": "yuubinkyoku",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Station",
+      "back": "駅",
+      "romaji": "eki",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Airport",
+      "back": "空港",
+      "romaji": "kuukou",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Hotel",
+      "back": "ホテル",
+      "romaji": "hoteru",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Room",
+      "back": "部屋",
+      "romaji": "heya",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Kitchen",
+      "back": "台所",
+      "romaji": "daidokoro",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bathroom",
+      "back": "浴室",
+      "romaji": "yokushitsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bedroom",
+      "back": "寝室",
+      "romaji": "shinshitsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Living room",
+      "back": "居間",
+      "romaji": "ima",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Garden",
+      "back": "庭",
+      "romaji": "niwa",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Window",
+      "back": "窓",
+      "romaji": "mado",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Door",
+      "back": "ドア",
+      "romaji": "doa",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Table",
+      "back": "テーブル",
+      "romaji": "teeburu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Chair",
+      "back": "椅子",
+      "romaji": "isu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bed",
+      "back": "ベッド",
+      "romaji": "beddo",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Television",
+      "back": "テレビ",
+      "romaji": "terebi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Computer",
+      "back": "コンピューター",
+      "romaji": "konpyuutaa",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Phone",
+      "back": "電話",
+      "romaji": "denwa",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Camera",
+      "back": "カメラ",
+      "romaji": "kamera",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Clock",
+      "back": "時計",
+      "romaji": "tokei",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Newspaper",
+      "back": "新聞",
+      "romaji": "shinbun",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Magazine",
+      "back": "雑誌",
+      "romaji": "zasshi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Letter",
+      "back": "手紙",
+      "romaji": "tegami",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Pen",
+      "back": "ペン",
+      "romaji": "pen",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Pencil",
+      "back": "鉛筆",
+      "romaji": "enpitsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Paper",
+      "back": "紙",
+      "romaji": "kami",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bag",
+      "back": "鞄",
+      "romaji": "kaban",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Money",
+      "back": "お金",
+      "romaji": "okane",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Clothes",
+      "back": "服",
+      "romaji": "fuku",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Shoes",
+      "back": "靴",
+      "romaji": "kutsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Hat",
+      "back": "帽子",
+      "romaji": "boushi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Glasses",
+      "back": "眼鏡",
+      "romaji": "megane",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Watch",
+      "back": "腕時計",
+      "romaji": "udedokei",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Key",
+      "back": "鍵",
+      "romaji": "kagi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Ticket",
+      "back": "切符",
+      "romaji": "kippu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Map",
+      "back": "地図",
+      "romaji": "chizu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Music",
+      "back": "音楽",
+      "romaji": "ongaku",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Movie",
+      "back": "映画",
+      "romaji": "eiga",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Game",
+      "back": "ゲーム",
+      "romaji": "geemu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Sport",
+      "back": "スポーツ",
+      "romaji": "supootsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Work",
+      "back": "仕事",
+      "romaji": "shigoto",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Job",
+      "back": "職業",
+      "romaji": "shokugyou",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Meeting",
+      "back": "会議",
+      "romaji": "kaigi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Party",
+      "back": "パーティー",
+      "romaji": "paatii",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Birthday",
+      "back": "誕生日",
+      "romaji": "tanjoubi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Holiday",
+      "back": "休日",
+      "romaji": "kyuujitsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Weekend",
+      "back": "週末",
+      "romaji": "shuumatsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Morning",
+      "back": "朝",
+      "romaji": "asa",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Afternoon",
+      "back": "午後",
+      "romaji": "gogo",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Evening",
+      "back": "夕方",
+      "romaji": "yuugata",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Night",
+      "back": "夜",
+      "romaji": "yoru",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Week",
+      "back": "週",
+      "romaji": "shuu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Month",
+      "back": "月",
+      "romaji": "tsuki",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Year",
+      "back": "年",
+      "romaji": "nen",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Season",
+      "back": "季節",
+      "romaji": "kisetsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Spring",
+      "back": "春",
+      "romaji": "haru",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Summer",
+      "back": "夏",
+      "romaji": "natsu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Fall",
+      "back": "秋",
+      "romaji": "aki",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Winter",
+      "back": "冬",
+      "romaji": "fuyu",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Weather",
+      "back": "天気",
+      "romaji": "tenki",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Sun",
+      "back": "太陽",
+      "romaji": "taiyou",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Moon",
+      "back": "月",
+      "romaji": "tsuki",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Star",
+      "back": "星",
+      "romaji": "hoshi",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Sky",
+      "back": "空",
+      "romaji": "sora",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Cloud",
+      "back": "雲",
+      "romaji": "kumo",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Rain",
+      "back": "雨",
+      "romaji": "ame",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Snow",
+      "back": "雪",
+      "romaji": "yuki",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Wind",
+      "back": "風",
+      "romaji": "kaze",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Teacher",
+      "back": "先生",
+      "romaji": "sensei",
+      "type": "vocabulary",
+      "category": "nouns"
+    }
+  ]
+}

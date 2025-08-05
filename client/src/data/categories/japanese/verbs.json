@@ -1,0 +1,757 @@
+{
+  "id": "verbs",
+  "name": "Verbs",
+  "description": "Action words",
+  "icon": "⚡",
+  "cards": [
+    {
+      "front": "To eat",
+      "back": "食べる",
+      "romaji": "taberu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To drink",
+      "back": "飲む",
+      "romaji": "nomu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To go",
+      "back": "行く",
+      "romaji": "iku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To come",
+      "back": "来る",
+      "romaji": "kuru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To see",
+      "back": "見る",
+      "romaji": "miru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To read",
+      "back": "読む",
+      "romaji": "yomu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To write",
+      "back": "書く",
+      "romaji": "kaku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To speak",
+      "back": "話す",
+      "romaji": "hanasu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sleep",
+      "back": "寝る",
+      "romaji": "neru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wake up",
+      "back": "起きる",
+      "romaji": "okiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To study",
+      "back": "勉強する",
+      "romaji": "benkyou suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To work",
+      "back": "働く",
+      "romaji": "hataraku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To play",
+      "back": "遊ぶ",
+      "romaji": "asobu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To walk",
+      "back": "歩く",
+      "romaji": "aruku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To run",
+      "back": "走る",
+      "romaji": "hashiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sit",
+      "back": "座る",
+      "romaji": "suwaru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To stand",
+      "back": "立つ",
+      "romaji": "tatsu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To listen",
+      "back": "聞く",
+      "romaji": "kiku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hear",
+      "back": "聞こえる",
+      "romaji": "kikoeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To understand",
+      "back": "分かる",
+      "romaji": "wakaru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To know",
+      "back": "知る",
+      "romaji": "shiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To think",
+      "back": "思う",
+      "romaji": "omou",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To remember",
+      "back": "覚える",
+      "romaji": "oboeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To forget",
+      "back": "忘れる",
+      "romaji": "wasureru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To learn",
+      "back": "習う",
+      "romaji": "narau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To teach",
+      "back": "教える",
+      "romaji": "oshieru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To buy",
+      "back": "買う",
+      "romaji": "kau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sell",
+      "back": "売る",
+      "romaji": "uru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To give",
+      "back": "あげる",
+      "romaji": "ageru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To receive",
+      "back": "もらう",
+      "romaji": "morau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To take",
+      "back": "取る",
+      "romaji": "toru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To put",
+      "back": "置く",
+      "romaji": "oku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To open",
+      "back": "開ける",
+      "romaji": "akeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To close",
+      "back": "閉める",
+      "romaji": "shimeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To enter",
+      "back": "入る",
+      "romaji": "hairu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To exit",
+      "back": "出る",
+      "romaji": "deru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To return",
+      "back": "帰る",
+      "romaji": "kaeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To leave",
+      "back": "出発する",
+      "romaji": "shuppatsu suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To arrive",
+      "back": "着く",
+      "romaji": "tsuku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wait",
+      "back": "待つ",
+      "romaji": "matsu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To meet",
+      "back": "会う",
+      "romaji": "au",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To help",
+      "back": "手伝う",
+      "romaji": "tetsudau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To ask",
+      "back": "聞く",
+      "romaji": "kiku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To answer",
+      "back": "答える",
+      "romaji": "kotaeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To call",
+      "back": "呼ぶ",
+      "romaji": "yobu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To laugh",
+      "back": "笑う",
+      "romaji": "warau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To cry",
+      "back": "泣く",
+      "romaji": "naku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To smile",
+      "back": "微笑む",
+      "romaji": "hohoemu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sing",
+      "back": "歌う",
+      "romaji": "utau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To dance",
+      "back": "踊る",
+      "romaji": "odoru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To cook",
+      "back": "料理する",
+      "romaji": "ryouri suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To clean",
+      "back": "掃除する",
+      "romaji": "souji suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wash",
+      "back": "洗う",
+      "romaji": "arau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To dry",
+      "back": "乾かす",
+      "romaji": "kawakasu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wear",
+      "back": "着る",
+      "romaji": "kiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To take off",
+      "back": "脱ぐ",
+      "romaji": "nugu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To drive",
+      "back": "運転する",
+      "romaji": "unten suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To ride",
+      "back": "乗る",
+      "romaji": "noru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To get off",
+      "back": "降りる",
+      "romaji": "oriru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To fly",
+      "back": "飛ぶ",
+      "romaji": "tobu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To swim",
+      "back": "泳ぐ",
+      "romaji": "oyogu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To climb",
+      "back": "登る",
+      "romaji": "noboru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To jump",
+      "back": "飛ぶ",
+      "romaji": "tobu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To fall",
+      "back": "落ちる",
+      "romaji": "ochiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To push",
+      "back": "押す",
+      "romaji": "osu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To pull",
+      "back": "引く",
+      "romaji": "hiku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To carry",
+      "back": "運ぶ",
+      "romaji": "hakobu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To lift",
+      "back": "持ち上げる",
+      "romaji": "mochiageru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hold",
+      "back": "持つ",
+      "romaji": "motsu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To throw",
+      "back": "投げる",
+      "romaji": "nageru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To catch",
+      "back": "捕まえる",
+      "romaji": "tsukamaeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To touch",
+      "back": "触る",
+      "romaji": "sawaru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To feel",
+      "back": "感じる",
+      "romaji": "kanjiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hurt",
+      "back": "痛む",
+      "romaji": "itamu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To heal",
+      "back": "治る",
+      "romaji": "naoru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To be sick",
+      "back": "病気になる",
+      "romaji": "byouki ni naru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To get better",
+      "back": "良くなる",
+      "romaji": "yoku naru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To like",
+      "back": "好む",
+      "romaji": "konomu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To love",
+      "back": "愛する",
+      "romaji": "ai suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hate",
+      "back": "嫌う",
+      "romaji": "kirau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To want",
+      "back": "欲しがる",
+      "romaji": "hoshigaru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To need",
+      "back": "必要とする",
+      "romaji": "hitsuyou to suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To use",
+      "back": "使う",
+      "romaji": "tsukau",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To make",
+      "back": "作る",
+      "romaji": "tsukuru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To build",
+      "back": "建てる",
+      "romaji": "tateru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To break",
+      "back": "壊す",
+      "romaji": "kowasu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To fix",
+      "back": "修理する",
+      "romaji": "shuuri suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To cut",
+      "back": "切る",
+      "romaji": "kiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To draw",
+      "back": "描く",
+      "romaji": "kaku",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To paint",
+      "back": "塗る",
+      "romaji": "nuru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To change",
+      "back": "変える",
+      "romaji": "kaeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To stop",
+      "back": "止める",
+      "romaji": "tomeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To start",
+      "back": "始める",
+      "romaji": "hajimeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To finish",
+      "back": "終わる",
+      "romaji": "owaru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To continue",
+      "back": "続ける",
+      "romaji": "tsuzukeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To try",
+      "back": "試す",
+      "romaji": "tamesu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To succeed",
+      "back": "成功する",
+      "romaji": "seikou suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To fail",
+      "back": "失敗する",
+      "romaji": "shippai suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To win",
+      "back": "勝つ",
+      "romaji": "katsu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To lose",
+      "back": "負ける",
+      "romaji": "makeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To find",
+      "back": "見つける",
+      "romaji": "mitsukeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To look for",
+      "back": "探す",
+      "romaji": "sagasu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To choose",
+      "back": "選ぶ",
+      "romaji": "erabu",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To decide",
+      "back": "決める",
+      "romaji": "kimeru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To believe",
+      "back": "信じる",
+      "romaji": "shinjiru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hope",
+      "back": "希望する",
+      "romaji": "kibou suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To worry",
+      "back": "心配する",
+      "romaji": "shinpai suru",
+      "type": "vocabulary",
+      "category": "verbs"
+    }
+  ]
+}

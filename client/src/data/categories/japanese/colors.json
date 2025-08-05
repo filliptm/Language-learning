@@ -1,0 +1,743 @@
+{
+  "id": "colors",
+  "name": "Colors",
+  "description": "Color vocabulary",
+  "icon": "🌈",
+  "cards": [
+    {
+      "front": "Red",
+      "back": "赤",
+      "romaji": "aka",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Blue",
+      "back": "青",
+      "romaji": "ao",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Green",
+      "back": "緑",
+      "romaji": "midori",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Yellow",
+      "back": "黄色",
+      "romaji": "kiiro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Black",
+      "back": "黒",
+      "romaji": "kuro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "White",
+      "back": "白",
+      "romaji": "shiro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pink",
+      "back": "ピンク",
+      "romaji": "pinku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Purple",
+      "back": "紫",
+      "romaji": "murasaki",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Orange",
+      "back": "オレンジ",
+      "romaji": "orenji",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Brown",
+      "back": "茶色",
+      "romaji": "chairo",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Gray",
+      "back": "灰色",
+      "romaji": "haiiro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Silver",
+      "back": "銀色",
+      "romaji": "gin'iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Gold",
+      "back": "金色",
+      "romaji": "kin'iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light blue",
+      "back": "水色",
+      "romaji": "mizuiro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark blue",
+      "back": "紺色",
+      "romaji": "kon'iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Navy blue",
+      "back": "紺",
+      "romaji": "kon",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light green",
+      "back": "薄緑",
+      "romaji": "usumurasaki",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark green",
+      "back": "深緑",
+      "romaji": "fukamidori",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Lime green",
+      "back": "ライムグリーン",
+      "romaji": "raimu guriin",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light pink",
+      "back": "薄いピンク",
+      "romaji": "usui pinku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Hot pink",
+      "back": "ホットピンク",
+      "romaji": "hotto pinku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Magenta",
+      "back": "マゼンタ",
+      "romaji": "mazenta",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Violet",
+      "back": "すみれ色",
+      "romaji": "sumire iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Indigo",
+      "back": "藍色",
+      "romaji": "ai iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Turquoise",
+      "back": "ターコイズ",
+      "romaji": "taakoizu",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Cyan",
+      "back": "シアン",
+      "romaji": "shian",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Maroon",
+      "back": "栗色",
+      "romaji": "kuri iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Burgundy",
+      "back": "ワイン色",
+      "romaji": "wain iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Crimson",
+      "back": "深紅",
+      "romaji": "shinku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Scarlet",
+      "back": "緋色",
+      "romaji": "hi iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Coral",
+      "back": "珊瑚色",
+      "romaji": "sango iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Salmon",
+      "back": "サーモン色",
+      "romaji": "saamon iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Peach",
+      "back": "桃色",
+      "romaji": "momo iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Apricot",
+      "back": "杏色",
+      "romaji": "anzu iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Beige",
+      "back": "ベージュ",
+      "romaji": "beeju",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Tan",
+      "back": "日焼け色",
+      "romaji": "hiyake iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Khaki",
+      "back": "カーキ",
+      "romaji": "kaaki",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Olive",
+      "back": "オリーブ色",
+      "romaji": "oriibu iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Emerald",
+      "back": "エメラルド色",
+      "romaji": "emerarudo iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Forest green",
+      "back": "森の緑",
+      "romaji": "mori no midori",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Sea green",
+      "back": "海緑色",
+      "romaji": "kai midori iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Mint green",
+      "back": "ミント色",
+      "romaji": "minto iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Lemon",
+      "back": "レモン色",
+      "romaji": "remon iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Cream",
+      "back": "クリーム色",
+      "romaji": "kuriimu iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Ivory",
+      "back": "象牙色",
+      "romaji": "zouge iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Off-white",
+      "back": "オフホワイト",
+      "romaji": "ofu howaito",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Snow white",
+      "back": "雪白",
+      "romaji": "yukishiro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pearl",
+      "back": "真珠色",
+      "romaji": "shinju iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Ash",
+      "back": "灰",
+      "romaji": "hai",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Charcoal",
+      "back": "炭色",
+      "romaji": "sumi iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Jet black",
+      "back": "漆黒",
+      "romaji": "shikkoku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Ebony",
+      "back": "黒檀色",
+      "romaji": "kokutan iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Onyx",
+      "back": "オニキス色",
+      "romaji": "onikusu iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Platinum",
+      "back": "プラチナ色",
+      "romaji": "purachina iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Bronze",
+      "back": "青銅色",
+      "romaji": "seidou iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Copper",
+      "back": "銅色",
+      "romaji": "dou iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Rust",
+      "back": "錆色",
+      "romaji": "sabi iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Auburn",
+      "back": "赤褐色",
+      "romaji": "sekikasshoku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Chestnut",
+      "back": "栗毛色",
+      "romaji": "kurige iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Mahogany",
+      "back": "マホガニー色",
+      "romaji": "mahoganii iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Chocolate",
+      "back": "チョコレート色",
+      "romaji": "chokoreeto iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Coffee",
+      "back": "コーヒー色",
+      "romaji": "koohii iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Mocha",
+      "back": "モカ色",
+      "romaji": "moka iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Caramel",
+      "back": "キャラメル色",
+      "romaji": "kyarameru iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Amber",
+      "back": "琥珀色",
+      "romaji": "kohaku iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Honey",
+      "back": "蜂蜜色",
+      "romaji": "hachimitsu iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Mustard",
+      "back": "からし色",
+      "romaji": "karashi iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Saffron",
+      "back": "サフラン色",
+      "romaji": "safuran iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Canary yellow",
+      "back": "カナリア色",
+      "romaji": "kanaria iro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Bright",
+      "back": "明るい",
+      "romaji": "akarui",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark",
+      "back": "暗い",
+      "romaji": "kurai",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light",
+      "back": "薄い",
+      "romaji": "usui",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Deep",
+      "back": "深い",
+      "romaji": "fukai",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pale",
+      "back": "淡い",
+      "romaji": "awai",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Vivid",
+      "back": "鮮やか",
+      "romaji": "azayaka",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dull",
+      "back": "くすんだ",
+      "romaji": "kusunda",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Faded",
+      "back": "色あせた",
+      "romaji": "iroaseta",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Vibrant",
+      "back": "活気のある",
+      "romaji": "kakki no aru",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Muted",
+      "back": "落ち着いた",
+      "romaji": "ochitsuita",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Neon",
+      "back": "ネオン",
+      "romaji": "neon",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Fluorescent",
+      "back": "蛍光",
+      "romaji": "keikou",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Metallic",
+      "back": "金属の",
+      "romaji": "kinzoku no",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Matte",
+      "back": "つや消し",
+      "romaji": "tsuyakeshi",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Glossy",
+      "back": "光沢のある",
+      "romaji": "koutaku no aru",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Shiny",
+      "back": "輝く",
+      "romaji": "kagayaku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Transparent",
+      "back": "透明",
+      "romaji": "toumei",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Opaque",
+      "back": "不透明",
+      "romaji": "futoumei",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Translucent",
+      "back": "半透明",
+      "romaji": "hantoumei",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Clear",
+      "back": "透明な",
+      "romaji": "toumei na",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Cloudy",
+      "back": "曇った",
+      "romaji": "kumotta",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Colorful",
+      "back": "カラフル",
+      "romaji": "karafuru",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Colorless",
+      "back": "無色",
+      "romaji": "mushoku",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Monochrome",
+      "back": "モノクロ",
+      "romaji": "monokuro",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Rainbow",
+      "back": "虹",
+      "romaji": "niji",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Spectrum",
+      "back": "スペクトラム",
+      "romaji": "supekutoramu",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Hue",
+      "back": "色合い",
+      "romaji": "iroai",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Shade",
+      "back": "陰",
+      "romaji": "kage",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Tint",
+      "back": "色調",
+      "romaji": "irochou",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Tone",
+      "back": "トーン",
+      "romaji": "toon",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Saturation",
+      "back": "彩度",
+      "romaji": "saido",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Brightness",
+      "back": "明度",
+      "romaji": "meido",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Contrast",
+      "back": "コントラスト",
+      "romaji": "kontorasuto",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Paint",
+      "back": "絵の具",
+      "romaji": "enogu",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dye",
+      "back": "染料",
+      "romaji": "senryou",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pigment",
+      "back": "顔料",
+      "romaji": "ganryou",
+      "type": "vocabulary",
+      "category": "colors"
+    }
+  ]
+}

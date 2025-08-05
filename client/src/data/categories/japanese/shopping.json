@@ -1,0 +1,771 @@
+{
+  "id": "shopping",
+  "name": "Shopping",
+  "description": "Shopping and commerce vocabulary",
+  "icon": "🛒",
+  "cards": [
+    {
+      "front": "Shopping",
+      "back": "買い物",
+      "romaji": "kaimono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Store",
+      "back": "店",
+      "romaji": "mise",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Price",
+      "back": "値段",
+      "romaji": "nedan",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Money",
+      "back": "お金",
+      "romaji": "okane",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cash",
+      "back": "現金",
+      "romaji": "genkin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Credit card",
+      "back": "クレジットカード",
+      "romaji": "kurejitto kaado",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Receipt",
+      "back": "レシート",
+      "romaji": "reshiito",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Discount",
+      "back": "割引",
+      "romaji": "waribiki",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Sale",
+      "back": "セール",
+      "romaji": "seeru",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Customer",
+      "back": "客",
+      "romaji": "kyaku",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Buy",
+      "back": "買う",
+      "romaji": "kau",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Sell",
+      "back": "売る",
+      "romaji": "uru",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Purchase",
+      "back": "購入",
+      "romaji": "kounyuu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Market",
+      "back": "市場",
+      "romaji": "ichiba",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Clerk",
+      "back": "店員",
+      "romaji": "ten'in",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cashier",
+      "back": "レジ係",
+      "romaji": "reji gakari",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Manager",
+      "back": "店長",
+      "romaji": "tenchou",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Owner",
+      "back": "店主",
+      "romaji": "tenshu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Product",
+      "back": "商品",
+      "romaji": "shouhin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Item",
+      "back": "品物",
+      "romaji": "shinamono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Goods",
+      "back": "品",
+      "romaji": "hin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Merchandise",
+      "back": "商品",
+      "romaji": "shouhin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Brand",
+      "back": "ブランド",
+      "romaji": "burando",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Quality",
+      "back": "品質",
+      "romaji": "hinshitsu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Size",
+      "back": "サイズ",
+      "romaji": "saizu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Color",
+      "back": "色",
+      "romaji": "iro",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Style",
+      "back": "スタイル",
+      "romaji": "sutairu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Fashion",
+      "back": "ファッション",
+      "romaji": "fasshon",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Clothes",
+      "back": "服",
+      "romaji": "fuku",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shoes",
+      "back": "靴",
+      "romaji": "kutsu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bag",
+      "back": "鞄",
+      "romaji": "kaban",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Accessories",
+      "back": "アクセサリー",
+      "romaji": "akusesarii",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Jewelry",
+      "back": "宝石",
+      "romaji": "houseki",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Watch",
+      "back": "時計",
+      "romaji": "tokei",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Electronics",
+      "back": "電子機器",
+      "romaji": "denshi kiki",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Computer",
+      "back": "コンピューター",
+      "romaji": "konpyuutaa",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Phone",
+      "back": "電話",
+      "romaji": "denwa",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Camera",
+      "back": "カメラ",
+      "romaji": "kamera",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Television",
+      "back": "テレビ",
+      "romaji": "terebi",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Radio",
+      "back": "ラジオ",
+      "romaji": "rajio",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Book",
+      "back": "本",
+      "romaji": "hon",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Magazine",
+      "back": "雑誌",
+      "romaji": "zasshi",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Newspaper",
+      "back": "新聞",
+      "romaji": "shinbun",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Music",
+      "back": "音楽",
+      "romaji": "ongaku",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "CD",
+      "back": "CD",
+      "romaji": "shii dii",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "DVD",
+      "back": "DVD",
+      "romaji": "dii bui dii",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Game",
+      "back": "ゲーム",
+      "romaji": "geemu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Toy",
+      "back": "おもちゃ",
+      "romaji": "omocha",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Gift",
+      "back": "贈り物",
+      "romaji": "okurimono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Present",
+      "back": "プレゼント",
+      "romaji": "purezento",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Souvenir",
+      "back": "お土産",
+      "romaji": "omiyage",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Food",
+      "back": "食べ物",
+      "romaji": "tabemono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Drink",
+      "back": "飲み物",
+      "romaji": "nomimono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Snack",
+      "back": "おやつ",
+      "romaji": "oyatsu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Candy",
+      "back": "飴",
+      "romaji": "ame",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Chocolate",
+      "back": "チョコレート",
+      "romaji": "chokoreeto",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Ice cream",
+      "back": "アイスクリーム",
+      "romaji": "aisu kuriimu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Fruit",
+      "back": "果物",
+      "romaji": "kudamono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Vegetable",
+      "back": "野菜",
+      "romaji": "yasai",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Meat",
+      "back": "肉",
+      "romaji": "niku",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Fish",
+      "back": "魚",
+      "romaji": "sakana",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bread",
+      "back": "パン",
+      "romaji": "pan",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Rice",
+      "back": "米",
+      "romaji": "kome",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Milk",
+      "back": "牛乳",
+      "romaji": "gyuunyuu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Egg",
+      "back": "卵",
+      "romaji": "tamago",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cheese",
+      "back": "チーズ",
+      "romaji": "chiizu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Butter",
+      "back": "バター",
+      "romaji": "bataa",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Oil",
+      "back": "油",
+      "romaji": "abura",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Salt",
+      "back": "塩",
+      "romaji": "shio",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Sugar",
+      "back": "砂糖",
+      "romaji": "satou",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Spice",
+      "back": "香辛料",
+      "romaji": "koushinryou",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Medicine",
+      "back": "薬",
+      "romaji": "kusuri",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Vitamin",
+      "back": "ビタミン",
+      "romaji": "bitamin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cosmetics",
+      "back": "化粧品",
+      "romaji": "keshouhin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shampoo",
+      "back": "シャンプー",
+      "romaji": "shanpuu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Soap",
+      "back": "石鹸",
+      "romaji": "sekken",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Toothpaste",
+      "back": "歯磨き粉",
+      "romaji": "hamigaki ko",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Tissue",
+      "back": "ティッシュ",
+      "romaji": "tisshu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Towel",
+      "back": "タオル",
+      "romaji": "taoru",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cleaning supplies",
+      "back": "掃除用品",
+      "romaji": "souji youhin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Detergent",
+      "back": "洗剤",
+      "romaji": "senzai",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Battery",
+      "back": "電池",
+      "romaji": "denchi",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Light bulb",
+      "back": "電球",
+      "romaji": "denkyuu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Tool",
+      "back": "道具",
+      "romaji": "dougu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Hardware",
+      "back": "金物",
+      "romaji": "kanamono",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Furniture",
+      "back": "家具",
+      "romaji": "kagu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Appliance",
+      "back": "家電",
+      "romaji": "kaden",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Car",
+      "back": "車",
+      "romaji": "kuruma",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bicycle",
+      "back": "自転車",
+      "romaji": "jitensha",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Motorcycle",
+      "back": "オートバイ",
+      "romaji": "ootobai",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Gasoline",
+      "back": "ガソリン",
+      "romaji": "gasorin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Ticket",
+      "back": "切符",
+      "romaji": "kippu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Stamp",
+      "back": "切手",
+      "romaji": "kitte",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Postcard",
+      "back": "はがき",
+      "romaji": "hagaki",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Envelope",
+      "back": "封筒",
+      "romaji": "fuutou",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Package",
+      "back": "小包",
+      "romaji": "kozutsumi",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Box",
+      "back": "箱",
+      "romaji": "hako",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shopping bag",
+      "back": "袋",
+      "romaji": "fukuro",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Basket",
+      "back": "かご",
+      "romaji": "kago",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cart",
+      "back": "カート",
+      "romaji": "kaato",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Checkout",
+      "back": "レジ",
+      "romaji": "reji",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Line",
+      "back": "列",
+      "romaji": "retsu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Queue",
+      "back": "行列",
+      "romaji": "gyouretsu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Wait",
+      "back": "待つ",
+      "romaji": "matsu",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Turn",
+      "back": "順番",
+      "romaji": "junban",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Change",
+      "back": "お釣り",
+      "romaji": "otsuri",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Tax",
+      "back": "税金",
+      "romaji": "zeikin",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Total",
+      "back": "合計",
+      "romaji": "goukei",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bill",
+      "back": "請求書",
+      "romaji": "seikyuusho",
+      "type": "vocabulary",
+      "category": "shopping"
+    }
+  ]
+}

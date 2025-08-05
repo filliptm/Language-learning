@@ -1,0 +1,757 @@
+{
+  "id": "colors",
+  "name": "Colors",
+  "description": "Color vocabulary",
+  "icon": "🌈",
+  "cards": [
+    {
+      "front": "Red",
+      "back": "Rojo",
+      "pronunciation": "ROH-hoh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Blue",
+      "back": "Azul",
+      "pronunciation": "ah-SOOL",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Green",
+      "back": "Verde",
+      "pronunciation": "VEHR-deh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Yellow",
+      "back": "Amarillo",
+      "pronunciation": "ah-mah-REE-yoh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Black",
+      "back": "Negro",
+      "pronunciation": "NEH-groh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "White",
+      "back": "Blanco",
+      "pronunciation": "BLAHN-koh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pink",
+      "back": "Rosa",
+      "pronunciation": "ROH-sah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Purple",
+      "back": "Morado",
+      "pronunciation": "moh-RAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Orange",
+      "back": "Naranja",
+      "pronunciation": "nah-RAHN-hah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Brown",
+      "back": "Café",
+      "pronunciation": "kah-FEH",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Gray",
+      "back": "Gris",
+      "pronunciation": "grees",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Violet",
+      "back": "Violeta",
+      "pronunciation": "vee-oh-LEH-tah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Turquoise",
+      "back": "Turquesa",
+      "pronunciation": "toor-KEH-sah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Gold",
+      "back": "Dorado",
+      "pronunciation": "doh-RAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Silver",
+      "back": "Plateado",
+      "pronunciation": "plah-teh-AH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Bronze",
+      "back": "Bronce",
+      "pronunciation": "BROHN-seh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Copper",
+      "back": "Cobrizo",
+      "pronunciation": "koh-BREE-soh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Beige",
+      "back": "Beige",
+      "pronunciation": "BAYSH",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Cream",
+      "back": "Crema",
+      "pronunciation": "KREH-mah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Ivory",
+      "back": "Marfil",
+      "pronunciation": "mahr-FEEL",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light blue",
+      "back": "Azul claro",
+      "pronunciation": "ah-SOOL KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark blue",
+      "back": "Azul oscuro",
+      "pronunciation": "ah-SOOL oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Navy blue",
+      "back": "Azul marino",
+      "pronunciation": "ah-SOOL mah-REE-noh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Sky blue",
+      "back": "Celeste",
+      "pronunciation": "seh-LEHS-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light green",
+      "back": "Verde claro",
+      "pronunciation": "VEHR-deh KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark green",
+      "back": "Verde oscuro",
+      "pronunciation": "VEHR-deh oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Lime green",
+      "back": "Verde lima",
+      "pronunciation": "VEHR-deh LEE-mah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Forest green",
+      "back": "Verde bosque",
+      "pronunciation": "VEHR-deh BOHS-keh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light red",
+      "back": "Rojo claro",
+      "pronunciation": "ROH-hoh KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark red",
+      "back": "Rojo oscuro",
+      "pronunciation": "ROH-hoh oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Crimson",
+      "back": "Carmesí",
+      "pronunciation": "kahr-meh-SEE",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Maroon",
+      "back": "Granate",
+      "pronunciation": "grah-NAH-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Scarlet",
+      "back": "Escarlata",
+      "pronunciation": "ehs-kahr-LAH-tah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light yellow",
+      "back": "Amarillo claro",
+      "pronunciation": "ah-mah-REE-yoh KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark yellow",
+      "back": "Amarillo oscuro",
+      "pronunciation": "ah-mah-REE-yoh oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Lemon yellow",
+      "back": "Amarillo limón",
+      "pronunciation": "ah-mah-REE-yoh lee-MOHN",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light pink",
+      "back": "Rosa claro",
+      "pronunciation": "ROH-sah KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Hot pink",
+      "back": "Rosa fuerte",
+      "pronunciation": "ROH-sah FWEHR-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Magenta",
+      "back": "Magenta",
+      "pronunciation": "mah-HEHN-tah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Fuchsia",
+      "back": "Fucsia",
+      "pronunciation": "FOOK-see-ah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light purple",
+      "back": "Morado claro",
+      "pronunciation": "moh-RAH-doh KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark purple",
+      "back": "Morado oscuro",
+      "pronunciation": "moh-RAH-doh oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Lavender",
+      "back": "Lavanda",
+      "pronunciation": "lah-VAHN-dah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light brown",
+      "back": "Café claro",
+      "pronunciation": "kah-FEH KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark brown",
+      "back": "Café oscuro",
+      "pronunciation": "kah-FEH oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Tan",
+      "back": "Canela",
+      "pronunciation": "kah-NEH-lah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Chestnut",
+      "back": "Castaño",
+      "pronunciation": "kahs-TAH-nyoh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Light gray",
+      "back": "Gris claro",
+      "pronunciation": "grees KLAH-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dark gray",
+      "back": "Gris oscuro",
+      "pronunciation": "grees oh-SKOO-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Charcoal",
+      "back": "Carbón",
+      "pronunciation": "kahr-BOHN",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Slate",
+      "back": "Pizarra",
+      "pronunciation": "pee-SAH-rrah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Off-white",
+      "back": "Blanco roto",
+      "pronunciation": "BLAHN-koh ROH-toh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Peach",
+      "back": "Durazno",
+      "pronunciation": "doo-RAHS-noh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Coral",
+      "back": "Coral",
+      "pronunciation": "koh-RAHL",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Salmon",
+      "back": "Salmón",
+      "pronunciation": "sahl-MOHN",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Mint",
+      "back": "Menta",
+      "pronunciation": "MEHN-tah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Olive",
+      "back": "Oliva",
+      "pronunciation": "oh-LEE-vah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Khaki",
+      "back": "Caqui",
+      "pronunciation": "KAH-kee",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Teal",
+      "back": "Verde azulado",
+      "pronunciation": "VEHR-deh ah-soo-LAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Aqua",
+      "back": "Agua",
+      "pronunciation": "AH-gwah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Cyan",
+      "back": "Cian",
+      "pronunciation": "see-AHN",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Indigo",
+      "back": "Índigo",
+      "pronunciation": "EEN-dee-goh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Burgundy",
+      "back": "Burdeos",
+      "pronunciation": "boor-DEH-ohs",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Wine",
+      "back": "Vino",
+      "pronunciation": "VEE-noh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Rust",
+      "back": "Óxido",
+      "pronunciation": "OHK-see-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Mustard",
+      "back": "Mostaza",
+      "pronunciation": "mohs-TAH-sah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Emerald",
+      "back": "Esmeralda",
+      "pronunciation": "ehs-meh-RAHL-dah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Sapphire",
+      "back": "Zafiro",
+      "pronunciation": "sah-FEE-roh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Ruby",
+      "back": "Rubí",
+      "pronunciation": "roo-BEE",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pearl",
+      "back": "Perla",
+      "pronunciation": "PEHR-lah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Bright",
+      "back": "Brillante",
+      "pronunciation": "bree-YAHN-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dull",
+      "back": "Opaco",
+      "pronunciation": "oh-PAH-koh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Vivid",
+      "back": "Vívido",
+      "pronunciation": "VEE-vee-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pale",
+      "back": "Pálido",
+      "pronunciation": "PAH-lee-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Pastel",
+      "back": "Pastel",
+      "pronunciation": "pahs-TEHL",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Neon",
+      "back": "Neón",
+      "pronunciation": "neh-OHN",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Matte",
+      "back": "Mate",
+      "pronunciation": "MAH-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Shiny",
+      "back": "Brilloso",
+      "pronunciation": "bree-YOH-soh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Transparent",
+      "back": "Transparente",
+      "pronunciation": "trahnhs-pah-REHN-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Opaque",
+      "back": "Opaco",
+      "pronunciation": "oh-PAH-koh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Translucent",
+      "back": "Translúcido",
+      "pronunciation": "trahnhs-LOO-see-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Colorful",
+      "back": "Colorido",
+      "pronunciation": "koh-loh-REE-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Colorless",
+      "back": "Sin color",
+      "pronunciation": "seen koh-LOHR",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Monochrome",
+      "back": "Monocromo",
+      "pronunciation": "moh-noh-KROH-moh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Rainbow",
+      "back": "Arcoíris",
+      "pronunciation": "ahr-koh-EE-rees",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Shade",
+      "back": "Sombra",
+      "pronunciation": "SOHM-brah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Tint",
+      "back": "Matiz",
+      "pronunciation": "mah-TEES",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Hue",
+      "back": "Tono",
+      "pronunciation": "TOH-noh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Saturation",
+      "back": "Saturación",
+      "pronunciation": "sah-too-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Contrast",
+      "back": "Contraste",
+      "pronunciation": "kohn-TRAHS-teh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Primary color",
+      "back": "Color primario",
+      "pronunciation": "koh-LOHR pree-MAH-ree-oh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Secondary color",
+      "back": "Color secundario",
+      "pronunciation": "koh-LOHR seh-koon-DAH-ree-oh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Complementary color",
+      "back": "Color complementario",
+      "pronunciation": "koh-LOHR kohm-pleh-mehn-TAH-ree-oh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Warm colors",
+      "back": "Colores cálidos",
+      "pronunciation": "koh-LOH-rehs KAH-lee-dohs",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Cool colors",
+      "back": "Colores fríos",
+      "pronunciation": "koh-LOH-rehs FREE-ohs",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Neutral colors",
+      "back": "Colores neutros",
+      "pronunciation": "koh-LOH-rehs NEH-oo-trohs",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Earth tones",
+      "back": "Tonos tierra",
+      "pronunciation": "TOH-nohs tee-EH-rrah",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Painted",
+      "back": "Pintado",
+      "pronunciation": "peen-TAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Dyed",
+      "back": "Teñido",
+      "pronunciation": "teh-NYEE-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Faded",
+      "back": "Descolorido",
+      "pronunciation": "dehs-koh-loh-REE-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Bleached",
+      "back": "Blanqueado",
+      "pronunciation": "blahn-keh-AH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Stained",
+      "back": "Manchado",
+      "pronunciation": "mahn-CHAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Multicolored",
+      "back": "Multicolor",
+      "pronunciation": "mool-tee-koh-LOHR",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Two-toned",
+      "back": "Bicolor",
+      "pronunciation": "bee-koh-LOHR",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Striped",
+      "back": "Rayado",
+      "pronunciation": "rah-YAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Spotted",
+      "back": "Manchado",
+      "pronunciation": "mahn-CHAH-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    },
+    {
+      "front": "Solid color",
+      "back": "Color sólido",
+      "pronunciation": "koh-LOHR SOH-lee-doh",
+      "type": "vocabulary",
+      "category": "colors"
+    }
+  ]
+}

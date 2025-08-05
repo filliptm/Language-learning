@@ -1,0 +1,743 @@
+{
+  "id": "animals",
+  "name": "Animals",
+  "description": "Animals and wildlife",
+  "icon": "🐾",
+  "cards": [
+    {
+      "front": "Dog",
+      "back": "犬",
+      "romaji": "inu",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cat",
+      "back": "猫",
+      "romaji": "neko",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bird",
+      "back": "鳥",
+      "romaji": "tori",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Fish",
+      "back": "魚",
+      "romaji": "sakana",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Horse",
+      "back": "馬",
+      "romaji": "uma",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cow",
+      "back": "牛",
+      "romaji": "ushi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Pig",
+      "back": "豚",
+      "romaji": "buta",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Chicken",
+      "back": "鶏",
+      "romaji": "niwatori",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sheep",
+      "back": "羊",
+      "romaji": "hitsuji",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Goat",
+      "back": "山羊",
+      "romaji": "yagi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Duck",
+      "back": "アヒル",
+      "romaji": "ahiru",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Rabbit",
+      "back": "うさぎ",
+      "romaji": "usagi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mouse",
+      "back": "ねずみ",
+      "romaji": "nezumi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Rat",
+      "back": "ネズミ",
+      "romaji": "nezumi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hamster",
+      "back": "ハムスター",
+      "romaji": "hamusutā",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Guinea pig",
+      "back": "モルモット",
+      "romaji": "morumotto",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Lion",
+      "back": "ライオン",
+      "romaji": "raion",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Tiger",
+      "back": "虎",
+      "romaji": "tora",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bear",
+      "back": "熊",
+      "romaji": "kuma",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Wolf",
+      "back": "狼",
+      "romaji": "ōkami",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Fox",
+      "back": "狐",
+      "romaji": "kitsune",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Deer",
+      "back": "鹿",
+      "romaji": "shika",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Elephant",
+      "back": "象",
+      "romaji": "zō",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Giraffe",
+      "back": "きりん",
+      "romaji": "kirin",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Zebra",
+      "back": "シマウマ",
+      "romaji": "shimauma",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hippopotamus",
+      "back": "カバ",
+      "romaji": "kaba",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Rhinoceros",
+      "back": "サイ",
+      "romaji": "sai",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Monkey",
+      "back": "猿",
+      "romaji": "saru",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Gorilla",
+      "back": "ゴリラ",
+      "romaji": "gorira",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Chimpanzee",
+      "back": "チンパンジー",
+      "romaji": "chinpanjī",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Kangaroo",
+      "back": "カンガルー",
+      "romaji": "kangarū",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Koala",
+      "back": "コアラ",
+      "romaji": "koara",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Panda",
+      "back": "パンダ",
+      "romaji": "panda",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Penguin",
+      "back": "ペンギン",
+      "romaji": "pengin",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Polar bear",
+      "back": "ホッキョクグマ",
+      "romaji": "hokkyokuguma",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Whale",
+      "back": "鯨",
+      "romaji": "kujira",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Dolphin",
+      "back": "イルカ",
+      "romaji": "iruka",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Shark",
+      "back": "サメ",
+      "romaji": "same",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Octopus",
+      "back": "タコ",
+      "romaji": "tako",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Squid",
+      "back": "イカ",
+      "romaji": "ika",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Crab",
+      "back": "カニ",
+      "romaji": "kani",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Lobster",
+      "back": "ロブスター",
+      "romaji": "robusutā",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Shrimp",
+      "back": "エビ",
+      "romaji": "ebi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Turtle",
+      "back": "カメ",
+      "romaji": "kame",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Snake",
+      "back": "蛇",
+      "romaji": "hebi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Lizard",
+      "back": "トカゲ",
+      "romaji": "tokage",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Frog",
+      "back": "カエル",
+      "romaji": "kaeru",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Toad",
+      "back": "ヒキガエル",
+      "romaji": "hikigaeru",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Salamander",
+      "back": "サンショウウオ",
+      "romaji": "sanshōuo",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Eagle",
+      "back": "鷲",
+      "romaji": "washi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hawk",
+      "back": "鷹",
+      "romaji": "taka",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Owl",
+      "back": "フクロウ",
+      "romaji": "fukurō",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Crow",
+      "back": "カラス",
+      "romaji": "karasu",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sparrow",
+      "back": "すずめ",
+      "romaji": "suzume",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Robin",
+      "back": "コマドリ",
+      "romaji": "komadori",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Woodpecker",
+      "back": "キツツキ",
+      "romaji": "kitsutsuki",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Parrot",
+      "back": "オウム",
+      "romaji": "ōmu",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Peacock",
+      "back": "孔雀",
+      "romaji": "kujaku",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Swan",
+      "back": "白鳥",
+      "romaji": "hakuchō",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Goose",
+      "back": "ガチョウ",
+      "romaji": "gachō",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Stork",
+      "back": "コウノトリ",
+      "romaji": "kōnotori",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Flamingo",
+      "back": "フラミンゴ",
+      "romaji": "furamingo",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Butterfly",
+      "back": "蝶",
+      "romaji": "chō",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bee",
+      "back": "蜂",
+      "romaji": "hachi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Wasp",
+      "back": "スズメバチ",
+      "romaji": "suzumebachi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Ant",
+      "back": "蟻",
+      "romaji": "ari",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Spider",
+      "back": "蜘蛛",
+      "romaji": "kumo",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Fly",
+      "back": "蝿",
+      "romaji": "hae",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mosquito",
+      "back": "蚊",
+      "romaji": "ka",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Dragonfly",
+      "back": "トンボ",
+      "romaji": "tonbo",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Grasshopper",
+      "back": "バッタ",
+      "romaji": "batta",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cricket",
+      "back": "コオロギ",
+      "romaji": "kōrogi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Beetle",
+      "back": "カブトムシ",
+      "romaji": "kabutomushi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Ladybug",
+      "back": "てんとう虫",
+      "romaji": "tentōmushi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Caterpillar",
+      "back": "毛虫",
+      "romaji": "kemushi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Worm",
+      "back": "虫",
+      "romaji": "mushi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Snail",
+      "back": "カタツムリ",
+      "romaji": "katatsumuり",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Slug",
+      "back": "ナメクジ",
+      "romaji": "namekuji",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Centipede",
+      "back": "ムカデ",
+      "romaji": "mukade",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Millipede",
+      "back": "ヤスデ",
+      "romaji": "yasude",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Scorpion",
+      "back": "サソリ",
+      "romaji": "sasori",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Tarantula",
+      "back": "タランチュラ",
+      "romaji": "taranchura",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Jellyfish",
+      "back": "クラゲ",
+      "romaji": "kurage",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Starfish",
+      "back": "ヒトデ",
+      "romaji": "hitode",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sea urchin",
+      "back": "ウニ",
+      "romaji": "uni",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Clam",
+      "back": "ハマグリ",
+      "romaji": "hamaguri",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Oyster",
+      "back": "牡蠣",
+      "romaji": "kaki",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Scallop",
+      "back": "ホタテ",
+      "romaji": "hotate",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mussel",
+      "back": "ムール貝",
+      "romaji": "mūru-gai",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sea anemone",
+      "back": "イソギンチャク",
+      "romaji": "isoginchaku",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Coral",
+      "back": "サンゴ",
+      "romaji": "sango",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Seal",
+      "back": "あざらし",
+      "romaji": "azarashi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sea lion",
+      "back": "アシカ",
+      "romaji": "ashika",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Walrus",
+      "back": "セイウチ",
+      "romaji": "seiuchi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Otter",
+      "back": "カワウソ",
+      "romaji": "kawauso",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Beaver",
+      "back": "ビーバー",
+      "romaji": "bībā",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Squirrel",
+      "back": "リス",
+      "romaji": "risu",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Chipmunk",
+      "back": "シマリス",
+      "romaji": "shimarisu",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Raccoon",
+      "back": "アライグマ",
+      "romaji": "araiguma",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Skunk",
+      "back": "スカンク",
+      "romaji": "sukanku",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Porcupine",
+      "back": "ヤマアラシ",
+      "romaji": "yamaarashi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hedgehog",
+      "back": "ハリネズミ",
+      "romaji": "harinezumi",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mole",
+      "back": "モグラ",
+      "romaji": "mogura",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bat",
+      "back": "コウモリ",
+      "romaji": "kōmori",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Ferret",
+      "back": "フェレット",
+      "romaji": "feretto",
+      "type": "vocabulary",
+      "category": "animals"
+    }
+  ]
+}

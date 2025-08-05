@@ -1,0 +1,736 @@
+{
+  "id": "basics",
+  "name": "Basics",
+  "description": "Essential words for beginners",
+  "icon": "🌟",
+  "cards": [
+    {
+      "front": "Hello",
+      "back": "こんにちは",
+      "romaji": "konnichiwa",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Thank you",
+      "back": "ありがとう",
+      "romaji": "arigatou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Yes",
+      "back": "はい",
+      "romaji": "hai",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "No",
+      "back": "いいえ",
+      "romaji": "iie",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Please",
+      "back": "お願いします",
+      "romaji": "onegai shimasu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Excuse me",
+      "back": "すみません",
+      "romaji": "sumimasen",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Good morning",
+      "back": "おはようございます",
+      "romaji": "ohayou gozaimasu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Good evening",
+      "back": "こんばんは",
+      "romaji": "konbanwa",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Good night",
+      "back": "おやすみなさい",
+      "romaji": "oyasumi nasai",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Goodbye",
+      "back": "さようなら",
+      "romaji": "sayounara",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I'm sorry",
+      "back": "ごめんなさい",
+      "romaji": "gomen nasai",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Thank you very much",
+      "back": "ありがとうございます",
+      "romaji": "arigatou gozaimasu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "You're welcome",
+      "back": "どういたしまして",
+      "romaji": "dou itashimashite",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Nice to meet you",
+      "back": "はじめまして",
+      "romaji": "hajimemashite",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "How are you?",
+      "back": "元気ですか？",
+      "romaji": "genki desu ka?",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I'm fine",
+      "back": "元気です",
+      "romaji": "genki desu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "What is this?",
+      "back": "これは何ですか？",
+      "romaji": "kore wa nan desu ka?",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I don't understand",
+      "back": "わかりません",
+      "romaji": "wakarimasen",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I understand",
+      "back": "わかります",
+      "romaji": "wakarimasu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Do you speak English?",
+      "back": "英語を話せますか？",
+      "romaji": "eigo wo hanasemasu ka?",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I speak a little Japanese",
+      "back": "少し日本語を話します",
+      "romaji": "sukoshi nihongo wo hanashimasu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Where",
+      "back": "どこ",
+      "romaji": "doko",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "What",
+      "back": "何",
+      "romaji": "nani/nan",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "When",
+      "back": "いつ",
+      "romaji": "itsu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Who",
+      "back": "誰",
+      "romaji": "dare",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Why",
+      "back": "なぜ",
+      "romaji": "naze",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "How",
+      "back": "どう",
+      "romaji": "dou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "How much",
+      "back": "いくら",
+      "romaji": "ikura",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "How many",
+      "back": "いくつ",
+      "romaji": "ikutsu",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "This",
+      "back": "これ",
+      "romaji": "kore",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "That",
+      "back": "それ",
+      "romaji": "sore",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "That over there",
+      "back": "あれ",
+      "romaji": "are",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Here",
+      "back": "ここ",
+      "romaji": "koko",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "There",
+      "back": "そこ",
+      "romaji": "soko",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Over there",
+      "back": "あそこ",
+      "romaji": "asoko",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I",
+      "back": "私",
+      "romaji": "watashi",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "You",
+      "back": "あなた",
+      "romaji": "anata",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "He",
+      "back": "彼",
+      "romaji": "kare",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "She",
+      "back": "彼女",
+      "romaji": "kanojo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "We",
+      "back": "私たち",
+      "romaji": "watashi-tachi",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "They",
+      "back": "彼ら",
+      "romaji": "karera",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "My",
+      "back": "私の",
+      "romaji": "watashi no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Your",
+      "back": "あなたの",
+      "romaji": "anata no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "His",
+      "back": "彼の",
+      "romaji": "kare no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Her",
+      "back": "彼女の",
+      "romaji": "kanojo no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Our",
+      "back": "私たちの",
+      "romaji": "watashi-tachi no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Their",
+      "back": "彼らの",
+      "romaji": "karera no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "And",
+      "back": "と",
+      "romaji": "to",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "But",
+      "back": "でも",
+      "romaji": "demo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Or",
+      "back": "または",
+      "romaji": "mata wa",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Because",
+      "back": "なぜなら",
+      "romaji": "naze nara",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "If",
+      "back": "もし",
+      "romaji": "moshi",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "When",
+      "back": "とき",
+      "romaji": "toki",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Before",
+      "back": "前に",
+      "romaji": "mae ni",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "After",
+      "back": "後で",
+      "romaji": "ato de",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Now",
+      "back": "今",
+      "romaji": "ima",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Later",
+      "back": "後で",
+      "romaji": "ato de",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Today",
+      "back": "今日",
+      "romaji": "kyou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Yesterday",
+      "back": "昨日",
+      "romaji": "kinou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Tomorrow",
+      "back": "明日",
+      "romaji": "ashita",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Always",
+      "back": "いつも",
+      "romaji": "itsumo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Never",
+      "back": "決して",
+      "romaji": "kesshite",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Sometimes",
+      "back": "時々",
+      "romaji": "tokidoki",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Often",
+      "back": "よく",
+      "romaji": "yoku",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Rarely",
+      "back": "めったに",
+      "romaji": "metta ni",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Very",
+      "back": "とても",
+      "romaji": "totemo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "A little",
+      "back": "少し",
+      "romaji": "sukoshi",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "A lot",
+      "back": "たくさん",
+      "romaji": "takusan",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "All",
+      "back": "全て",
+      "romaji": "subete",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Nothing",
+      "back": "何も",
+      "romaji": "nani mo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Something",
+      "back": "何か",
+      "romaji": "nanika",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Everything",
+      "back": "全て",
+      "romaji": "subete",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Everyone",
+      "back": "みんな",
+      "romaji": "minna",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "No one",
+      "back": "誰も",
+      "romaji": "dare mo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Someone",
+      "back": "誰か",
+      "romaji": "dareka",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Somewhere",
+      "back": "どこか",
+      "romaji": "dokoka",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Nowhere",
+      "back": "どこにも",
+      "romaji": "doko ni mo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Anywhere",
+      "back": "どこでも",
+      "romaji": "doko demo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Some",
+      "back": "いくつか",
+      "romaji": "ikutsuka",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Many",
+      "back": "多く",
+      "romaji": "ooku",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Few",
+      "back": "少し",
+      "romaji": "sukoshi",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "More",
+      "back": "もっと",
+      "romaji": "motto",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Less",
+      "back": "より少なく",
+      "romaji": "yori sukunaku",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Most",
+      "back": "最も",
+      "romaji": "mottomo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Least",
+      "back": "最も少ない",
+      "romaji": "mottomo sukunai",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Only",
+      "back": "だけ",
+      "romaji": "dake",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Also",
+      "back": "も",
+      "romaji": "mo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Too",
+      "back": "も",
+      "romaji": "mo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Either",
+      "back": "どちらか",
+      "romaji": "dochiraka",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Neither",
+      "back": "どちらも",
+      "romaji": "dochira mo",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Both",
+      "back": "両方",
+      "romaji": "ryouhou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Each",
+      "back": "それぞれ",
+      "romaji": "sorezore",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Every",
+      "back": "毎",
+      "romaji": "mai",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Any",
+      "back": "どの",
+      "romaji": "dono",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Other",
+      "back": "他の",
+      "romaji": "hoka no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Another",
+      "back": "もう一つの",
+      "romaji": "mou hitotsu no",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Same",
+      "back": "同じ",
+      "romaji": "onaji",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Different",
+      "back": "違う",
+      "romaji": "chigau",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Right",
+      "back": "正しい",
+      "romaji": "tadashii",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Wrong",
+      "back": "間違った",
+      "romaji": "machigatta",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "True",
+      "back": "本当",
+      "romaji": "hontou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "False",
+      "back": "偽",
+      "romaji": "nise",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Possible",
+      "back": "可能",
+      "romaji": "kanou",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Impossible",
+      "back": "不可能",
+      "romaji": "fukanou",
+      "type": "vocabulary",
+      "category": "basics"
+    }
+  ]
+}

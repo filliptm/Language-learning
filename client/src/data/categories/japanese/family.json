@@ -1,0 +1,673 @@
+{
+  "id": "family",
+  "name": "Family",
+  "description": "Family members and relationships",
+  "icon": "👨‍👩‍👧‍👦",
+  "cards": [
+    {
+      "front": "Mother",
+      "back": "母",
+      "romaji": "haha",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Father",
+      "back": "父",
+      "romaji": "chichi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Son",
+      "back": "息子",
+      "romaji": "musuko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Daughter",
+      "back": "娘",
+      "romaji": "musume",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Older brother",
+      "back": "兄",
+      "romaji": "ani",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Younger brother",
+      "back": "弟",
+      "romaji": "otouto",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Older sister",
+      "back": "姉",
+      "romaji": "ane",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Younger sister",
+      "back": "妹",
+      "romaji": "imouto",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandfather",
+      "back": "祖父",
+      "romaji": "sofu",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandmother",
+      "back": "祖母",
+      "romaji": "sobo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Uncle",
+      "back": "叔父",
+      "romaji": "oji",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Aunt",
+      "back": "叔母",
+      "romaji": "oba",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Cousin",
+      "back": "いとこ",
+      "romaji": "itoko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Husband",
+      "back": "夫",
+      "romaji": "otto",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Wife",
+      "back": "妻",
+      "romaji": "tsuma",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Child",
+      "back": "子供",
+      "romaji": "kodomo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Baby",
+      "back": "赤ちゃん",
+      "romaji": "akachan",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Parents",
+      "back": "両親",
+      "romaji": "ryoushin",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Siblings",
+      "back": "兄弟",
+      "romaji": "kyoudai",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandparents",
+      "back": "祖父母",
+      "romaji": "sofubo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family",
+      "back": "家族",
+      "romaji": "kazoku",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Relatives",
+      "back": "親戚",
+      "romaji": "shinseki",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Mother-in-law",
+      "back": "義母",
+      "romaji": "gibo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Father-in-law",
+      "back": "義父",
+      "romaji": "gifu",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Son-in-law",
+      "back": "義理の息子",
+      "romaji": "giri no musuko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Daughter-in-law",
+      "back": "義理の娘",
+      "romaji": "giri no musume",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Brother-in-law",
+      "back": "義兄",
+      "romaji": "gikei",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Sister-in-law",
+      "back": "義姉",
+      "romaji": "gishi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Nephew",
+      "back": "甥",
+      "romaji": "oi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Niece",
+      "back": "姪",
+      "romaji": "mei",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Great-grandfather",
+      "back": "曽祖父",
+      "romaji": "soosofu",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Great-grandmother",
+      "back": "曽祖母",
+      "romaji": "soosobo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepmother",
+      "back": "継母",
+      "romaji": "mamahaha",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepfather",
+      "back": "継父",
+      "romaji": "mamachichi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepson",
+      "back": "継息子",
+      "romaji": "mamakomusuko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepdaughter",
+      "back": "継娘",
+      "romaji": "mamakomusume",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Half-brother",
+      "back": "異母兄弟",
+      "romaji": "ibokyoudai",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Half-sister",
+      "back": "異母姉妹",
+      "romaji": "iboshimai",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Adopted child",
+      "back": "養子",
+      "romaji": "youshi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Foster parent",
+      "back": "養親",
+      "romaji": "youshin",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Godfather",
+      "back": "名付け親",
+      "romaji": "nazukeoya",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Godmother",
+      "back": "代母",
+      "romaji": "daibo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Godson",
+      "back": "名付け子",
+      "romaji": "nazukeko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Goddaughter",
+      "back": "名付け娘",
+      "romaji": "nazukemusume",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Twin",
+      "back": "双子",
+      "romaji": "futago",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Triplet",
+      "back": "三つ子",
+      "romaji": "mitsuko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Only child",
+      "back": "一人っ子",
+      "romaji": "hitorikko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Eldest child",
+      "back": "長子",
+      "romaji": "choushi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Youngest child",
+      "back": "末っ子",
+      "romaji": "suekko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Middle child",
+      "back": "真ん中の子",
+      "romaji": "mannaka no ko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Firstborn",
+      "back": "初子",
+      "romaji": "uiko",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Second child",
+      "back": "次子",
+      "romaji": "jishi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Ancestor",
+      "back": "先祖",
+      "romaji": "senzo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Descendant",
+      "back": "子孫",
+      "romaji": "shison",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Generation",
+      "back": "世代",
+      "romaji": "sedai",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Lineage",
+      "back": "血統",
+      "romaji": "kettou",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Household",
+      "back": "世帯",
+      "romaji": "setai",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Head of family",
+      "back": "家長",
+      "romaji": "kachou",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Extended family",
+      "back": "拡大家族",
+      "romaji": "kakudai kazoku",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Nuclear family",
+      "back": "核家族",
+      "romaji": "kaku kazoku",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Single parent",
+      "back": "片親",
+      "romaji": "kataoya",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Orphan",
+      "back": "孤児",
+      "romaji": "koji",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Widow",
+      "back": "未亡人",
+      "romaji": "miboujin",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Widower",
+      "back": "男やもめ",
+      "romaji": "otokoyamome",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Divorced",
+      "back": "離婚した",
+      "romaji": "rikon shita",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Separated",
+      "back": "別居",
+      "romaji": "bekkyo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Married",
+      "back": "結婚した",
+      "romaji": "kekkon shita",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Single",
+      "back": "独身",
+      "romaji": "dokushin",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Engaged",
+      "back": "婚約した",
+      "romaji": "kon'yaku shita",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Fiancé",
+      "back": "婚約者",
+      "romaji": "kon'yakusha",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Fiancée",
+      "back": "許嫁",
+      "romaji": "iinazuke",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Boyfriend",
+      "back": "彼氏",
+      "romaji": "kareshi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Girlfriend",
+      "back": "彼女",
+      "romaji": "kanojo",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Partner",
+      "back": "パートナー",
+      "romaji": "paatonaa",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Spouse",
+      "back": "配偶者",
+      "romaji": "haiguusha",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Ex-husband",
+      "back": "元夫",
+      "romaji": "moto otto",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Ex-wife",
+      "back": "元妻",
+      "romaji": "moto tsuma",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family name",
+      "back": "苗字",
+      "romaji": "myouji",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "First name",
+      "back": "名前",
+      "romaji": "namae",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Maiden name",
+      "back": "旧姓",
+      "romaji": "kyuusei",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Nickname",
+      "back": "あだ名",
+      "romaji": "adana",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family tree",
+      "back": "家系図",
+      "romaji": "kakeizu",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Heritage",
+      "back": "遺産",
+      "romaji": "isan",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Inheritance",
+      "back": "相続",
+      "romaji": "souzoku",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Heir",
+      "back": "相続人",
+      "romaji": "souzokusha",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Guardian",
+      "back": "後見人",
+      "romaji": "koukennin",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Custody",
+      "back": "親権",
+      "romaji": "shinken",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Adoption",
+      "back": "養子縁組",
+      "romaji": "youshi engumi",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Birth certificate",
+      "back": "出生証明書",
+      "romaji": "shussei shoumeisho",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Marriage certificate",
+      "back": "結婚証明書",
+      "romaji": "kekkon shoumeisho",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Divorce papers",
+      "back": "離婚届",
+      "romaji": "rikon todoke",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family reunion",
+      "back": "家族の再会",
+      "romaji": "kazoku no saikai",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family photo",
+      "back": "家族写真",
+      "romaji": "kazoku shashin",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family tradition",
+      "back": "家族の伝統",
+      "romaji": "kazoku no dentou",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family vacation",
+      "back": "家族旅行",
+      "romaji": "kazoku ryokou",
+      "type": "vocabulary",
+      "category": "family"
+    }
+  ]
+}

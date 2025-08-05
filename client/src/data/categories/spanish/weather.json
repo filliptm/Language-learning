@@ -1,0 +1,750 @@
+{
+  "id": "weather",
+  "name": "Weather",
+  "description": "Weather conditions and climate",
+  "icon": "🌤️",
+  "cards": [
+    {
+      "front": "Weather",
+      "back": "Tiempo",
+      "pronunciation": "tee-EHM-poh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Climate",
+      "back": "Clima",
+      "pronunciation": "KLEE-mah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Temperature",
+      "back": "Temperatura",
+      "pronunciation": "tehm-peh-rah-TOO-rah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hot",
+      "back": "Caliente",
+      "pronunciation": "kah-lee-EHN-teh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cold",
+      "back": "Frío",
+      "pronunciation": "FREE-oh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Warm",
+      "back": "Caluroso",
+      "pronunciation": "kah-loo-ROH-soh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cool",
+      "back": "Fresco",
+      "pronunciation": "FREHS-koh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunny",
+      "back": "Soleado",
+      "pronunciation": "soh-leh-AH-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cloudy",
+      "back": "Nublado",
+      "pronunciation": "noo-BLAH-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Overcast",
+      "back": "Encapotado",
+      "pronunciation": "ehn-kah-poh-TAH-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Clear",
+      "back": "Despejado",
+      "pronunciation": "dehs-peh-HAH-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Rain",
+      "back": "Lluvia",
+      "pronunciation": "YOO-vee-ah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Raining",
+      "back": "Lloviendo",
+      "pronunciation": "yoh-vee-EHN-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Drizzle",
+      "back": "Llovizna",
+      "pronunciation": "yoh-VEES-nah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Downpour",
+      "back": "Aguacero",
+      "pronunciation": "ah-gwah-SEH-roh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Storm",
+      "back": "Tormenta",
+      "pronunciation": "tohr-MEHN-tah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Thunderstorm",
+      "back": "Tormenta eléctrica",
+      "pronunciation": "tohr-MEHN-tah eh-LEHK-tree-kah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Thunder",
+      "back": "Trueno",
+      "pronunciation": "TRWAY-noh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Lightning",
+      "back": "Relámpago",
+      "pronunciation": "reh-LAHM-pah-goh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Snow",
+      "back": "Nieve",
+      "pronunciation": "nee-EH-veh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Snowing",
+      "back": "Nevando",
+      "pronunciation": "neh-VAHN-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sleet",
+      "back": "Aguanieve",
+      "pronunciation": "ah-gwah-nee-EH-veh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hail",
+      "back": "Granizo",
+      "pronunciation": "grah-NEE-soh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Ice",
+      "back": "Hielo",
+      "pronunciation": "ee-EH-loh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Frost",
+      "back": "Escarcha",
+      "pronunciation": "ehs-KAHR-chah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Fog",
+      "back": "Niebla",
+      "pronunciation": "nee-EH-blah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Mist",
+      "back": "Neblina",
+      "pronunciation": "neh-BLEE-nah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Wind",
+      "back": "Viento",
+      "pronunciation": "vee-EHN-toh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Windy",
+      "back": "Ventoso",
+      "pronunciation": "vehn-TOH-soh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Breeze",
+      "back": "Brisa",
+      "pronunciation": "BREE-sah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Gust",
+      "back": "Ráfaga",
+      "pronunciation": "RAH-fah-gah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hurricane",
+      "back": "Huracán",
+      "pronunciation": "oo-rah-KAHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Tornado",
+      "back": "Tornado",
+      "pronunciation": "tohr-NAH-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cyclone",
+      "back": "Ciclón",
+      "pronunciation": "see-KLOHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Typhoon",
+      "back": "Tifón",
+      "pronunciation": "tee-FOHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sun",
+      "back": "Sol",
+      "pronunciation": "sohl",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunshine",
+      "back": "Luz del sol",
+      "pronunciation": "loos dehl sohl",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunset",
+      "back": "Puesta del sol",
+      "pronunciation": "PWEH-stah dehl sohl",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunrise",
+      "back": "Amanecer",
+      "pronunciation": "ah-mah-neh-SEHR",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cloud",
+      "back": "Nube",
+      "pronunciation": "NOO-beh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sky",
+      "back": "Cielo",
+      "pronunciation": "see-EH-loh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Rainbow",
+      "back": "Arcoíris",
+      "pronunciation": "ahr-koh-EE-rees",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Moon",
+      "back": "Luna",
+      "pronunciation": "LOO-nah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Stars",
+      "back": "Estrellas",
+      "pronunciation": "ehs-TREH-yahs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Humidity",
+      "back": "Humedad",
+      "pronunciation": "oo-meh-DAHD",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Humid",
+      "back": "Húmedo",
+      "pronunciation": "OO-meh-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Dry",
+      "back": "Seco",
+      "pronunciation": "SEH-koh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Drought",
+      "back": "Sequía",
+      "pronunciation": "seh-KEE-ah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Flood",
+      "back": "Inundación",
+      "pronunciation": "ee-noon-dah-see-OHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Puddle",
+      "back": "Charco",
+      "pronunciation": "CHAHR-koh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Umbrella",
+      "back": "Paraguas",
+      "pronunciation": "pah-RAH-gwahs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Raincoat",
+      "back": "Impermeable",
+      "pronunciation": "eem-pehr-meh-AH-bleh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Boots",
+      "back": "Botas",
+      "pronunciation": "BOH-tahs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Jacket",
+      "back": "Chaqueta",
+      "pronunciation": "chah-KEH-tah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Coat",
+      "back": "Abrigo",
+      "pronunciation": "ah-BREE-goh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Scarf",
+      "back": "Bufanda",
+      "pronunciation": "boo-FAHN-dah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Gloves",
+      "back": "Guantes",
+      "pronunciation": "GWAHN-tehs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Hat",
+      "back": "Sombrero",
+      "pronunciation": "sohm-BREH-roh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunglasses",
+      "back": "Gafas de sol",
+      "pronunciation": "GAH-fahs deh sohl",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Sunscreen",
+      "back": "Protector solar",
+      "pronunciation": "proh-tehk-TOHR soh-LAHR",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Forecast",
+      "back": "Pronóstico",
+      "pronunciation": "proh-NOHS-tee-koh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Meteorology",
+      "back": "Meteorología",
+      "pronunciation": "meh-teh-oh-roh-loh-HEE-ah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Barometer",
+      "back": "Barómetro",
+      "pronunciation": "bah-ROH-meh-troh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Thermometer",
+      "back": "Termómetro",
+      "pronunciation": "tehr-MOH-meh-troh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Degrees",
+      "back": "Grados",
+      "pronunciation": "GRAH-dohs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Celsius",
+      "back": "Centígrados",
+      "pronunciation": "sehn-TEE-grah-dohs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Fahrenheit",
+      "back": "Fahrenheit",
+      "pronunciation": "fah-rehn-HAYT",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Pressure",
+      "back": "Presión",
+      "pronunciation": "preh-see-OHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "High pressure",
+      "back": "Alta presión",
+      "pronunciation": "AHL-tah preh-see-OHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Low pressure",
+      "back": "Baja presión",
+      "pronunciation": "BAH-hah preh-see-OHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Front",
+      "back": "Frente",
+      "pronunciation": "FREHN-teh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cold front",
+      "back": "Frente frío",
+      "pronunciation": "FREHN-teh FREE-oh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Warm front",
+      "back": "Frente cálido",
+      "pronunciation": "FREHN-teh KAH-lee-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Season",
+      "back": "Estación",
+      "pronunciation": "ehs-tah-see-OHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Seasonal",
+      "back": "Estacional",
+      "pronunciation": "ehs-tah-see-oh-NAHL",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Mild",
+      "back": "Templado",
+      "pronunciation": "tehm-PLAH-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Severe",
+      "back": "Severo",
+      "pronunciation": "seh-VEH-roh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Extreme",
+      "back": "Extremo",
+      "pronunciation": "eks-TREH-moh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Pleasant",
+      "back": "Agradable",
+      "pronunciation": "ah-grah-DAH-bleh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Unpleasant",
+      "back": "Desagradable",
+      "pronunciation": "dehs-ah-grah-DAH-bleh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Comfortable",
+      "back": "Cómodo",
+      "pronunciation": "KOH-moh-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Uncomfortable",
+      "back": "Incómodo",
+      "pronunciation": "een-KOH-moh-doh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Unpredictable",
+      "back": "Impredecible",
+      "pronunciation": "eem-preh-deh-SEE-bleh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Changeable",
+      "back": "Cambiante",
+      "pronunciation": "kahm-bee-AHN-teh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Stable",
+      "back": "Estable",
+      "pronunciation": "ehs-TAH-bleh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Variable",
+      "back": "Variable",
+      "pronunciation": "vah-ree-AH-bleh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Tropical",
+      "back": "Tropical",
+      "pronunciation": "troh-pee-KAHL",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Arctic",
+      "back": "Ártico",
+      "pronunciation": "AHR-tee-koh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Desert",
+      "back": "Desierto",
+      "pronunciation": "deh-see-EHR-toh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Coastal",
+      "back": "Costero",
+      "pronunciation": "kohs-TEH-roh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Mountain",
+      "back": "Montaña",
+      "pronunciation": "mohn-TAH-nyah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Valley",
+      "back": "Valle",
+      "pronunciation": "VAH-yeh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Monsoon",
+      "back": "Monzón",
+      "pronunciation": "mohn-SOHN",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Rainy season",
+      "back": "Temporada de lluvias",
+      "pronunciation": "tehm-poh-RAH-dah deh YOO-vee-ahs",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Dry season",
+      "back": "Temporada seca",
+      "pronunciation": "tehm-poh-RAH-dah SEH-kah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Indian summer",
+      "back": "Veranillo",
+      "pronunciation": "veh-rah-NEE-yoh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Heat wave",
+      "back": "Ola de calor",
+      "pronunciation": "OH-lah deh kah-LOHR",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Cold snap",
+      "back": "Ola de frío",
+      "pronunciation": "OH-lah deh FREE-oh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Blizzard",
+      "back": "Ventisca",
+      "pronunciation": "vehn-TEES-kah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Avalanche",
+      "back": "Avalancha",
+      "pronunciation": "ah-vah-LAHN-chah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Mudslide",
+      "back": "Deslizamiento",
+      "pronunciation": "dehs-lee-sah-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Landslide",
+      "back": "Derrumbe",
+      "pronunciation": "deh-RROOM-beh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Flash flood",
+      "back": "Inundación repentina",
+      "pronunciation": "ee-noon-dah-see-OHN reh-pehn-TEE-nah",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Wildfire",
+      "back": "Incendio forestal",
+      "pronunciation": "een-SEHN-dee-oh foh-rehs-TAHL",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Climate change",
+      "back": "Cambio climático",
+      "pronunciation": "KAHM-bee-oh klee-MAH-tee-koh",
+      "type": "vocabulary",
+      "category": "weather"
+    },
+    {
+      "front": "Global warming",
+      "back": "Calentamiento global",
+      "pronunciation": "kah-lehn-tah-mee-EHN-toh gloh-BAHL",
+      "type": "vocabulary",
+      "category": "weather"
+    }
+  ]
+}

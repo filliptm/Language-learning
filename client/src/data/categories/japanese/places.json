@@ -1,0 +1,764 @@
+{
+  "id": "places",
+  "name": "Places",
+  "description": "Locations and places",
+  "icon": "📍",
+  "cards": [
+    {
+      "front": "Place",
+      "back": "場所",
+      "romaji": "basho",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "City",
+      "back": "都市",
+      "romaji": "toshi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Town",
+      "back": "町",
+      "romaji": "machi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Village",
+      "back": "村",
+      "romaji": "mura",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Park",
+      "back": "公園",
+      "romaji": "kouen",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Library",
+      "back": "図書館",
+      "romaji": "toshokan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Museum",
+      "back": "博物館",
+      "romaji": "hakubutsukan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Temple",
+      "back": "寺",
+      "romaji": "tera",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Shrine",
+      "back": "神社",
+      "romaji": "jinja",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bridge",
+      "back": "橋",
+      "romaji": "hashi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "School",
+      "back": "学校",
+      "romaji": "gakkou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "University",
+      "back": "大学",
+      "romaji": "daigaku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "College",
+      "back": "大学",
+      "romaji": "daigaku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hospital",
+      "back": "病院",
+      "romaji": "byouin",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Clinic",
+      "back": "診療所",
+      "romaji": "shinryousho",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Pharmacy",
+      "back": "薬局",
+      "romaji": "yakkyoku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bank",
+      "back": "銀行",
+      "romaji": "ginkou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Post office",
+      "back": "郵便局",
+      "romaji": "yuubinkyoku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Police station",
+      "back": "警察署",
+      "romaji": "keisatsusho",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fire station",
+      "back": "消防署",
+      "romaji": "shoubousho",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "City hall",
+      "back": "市役所",
+      "romaji": "shiyakusho",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Government office",
+      "back": "官庁",
+      "romaji": "kanchou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Embassy",
+      "back": "大使館",
+      "romaji": "taishikan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Consulate",
+      "back": "領事館",
+      "romaji": "ryoujikan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Airport",
+      "back": "空港",
+      "romaji": "kuukou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Train station",
+      "back": "駅",
+      "romaji": "eki",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bus stop",
+      "back": "バス停",
+      "romaji": "basu tei",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Subway station",
+      "back": "地下鉄駅",
+      "romaji": "chikatetsu eki",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Taxi stand",
+      "back": "タクシー乗り場",
+      "romaji": "takushii noriba",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Parking lot",
+      "back": "駐車場",
+      "romaji": "chuushajou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Gas station",
+      "back": "ガソリンスタンド",
+      "romaji": "gasorin sutando",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hotel",
+      "back": "ホテル",
+      "romaji": "hoteru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Motel",
+      "back": "モーテル",
+      "romaji": "mooteru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Inn",
+      "back": "旅館",
+      "romaji": "ryokan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hostel",
+      "back": "ホステル",
+      "romaji": "hosuteru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Restaurant",
+      "back": "レストラン",
+      "romaji": "resutoran",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Cafe",
+      "back": "カフェ",
+      "romaji": "kafe",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bar",
+      "back": "バー",
+      "romaji": "baa",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Pub",
+      "back": "パブ",
+      "romaji": "pabu",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fast food",
+      "back": "ファストフード",
+      "romaji": "fasuto fuudo",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Convenience store",
+      "back": "コンビニ",
+      "romaji": "konbini",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Supermarket",
+      "back": "スーパーマーケット",
+      "romaji": "suupaa maaketto",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Department store",
+      "back": "デパート",
+      "romaji": "depaato",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Shopping mall",
+      "back": "ショッピングモール",
+      "romaji": "shoppingu mooru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Market",
+      "back": "市場",
+      "romaji": "ichiba",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bookstore",
+      "back": "本屋",
+      "romaji": "hon'ya",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Clothing store",
+      "back": "洋服店",
+      "romaji": "youfuku ten",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Shoe store",
+      "back": "靴屋",
+      "romaji": "kutsu ya",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Electronics store",
+      "back": "電気店",
+      "romaji": "denki ten",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Jewelry store",
+      "back": "宝石店",
+      "romaji": "houseki ten",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Flower shop",
+      "back": "花屋",
+      "romaji": "hanaya",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Bakery",
+      "back": "パン屋",
+      "romaji": "pan ya",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Butcher shop",
+      "back": "肉屋",
+      "romaji": "nikuya",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Fish market",
+      "back": "魚市場",
+      "romaji": "uo ichiba",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Barbershop",
+      "back": "理髪店",
+      "romaji": "rihatsu ten",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hair salon",
+      "back": "美容院",
+      "romaji": "biyouin",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Laundromat",
+      "back": "コインランドリー",
+      "romaji": "koin randorii",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Dry cleaner",
+      "back": "クリーニング店",
+      "romaji": "kuriiningu ten",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Gym",
+      "back": "ジム",
+      "romaji": "jimu",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Swimming pool",
+      "back": "プール",
+      "romaji": "puuru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Sports center",
+      "back": "スポーツセンター",
+      "romaji": "supootsu sentaa",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Stadium",
+      "back": "スタジアム",
+      "romaji": "sutajiamu",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Theater",
+      "back": "劇場",
+      "romaji": "gekijou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Cinema",
+      "back": "映画館",
+      "romaji": "eigakan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Concert hall",
+      "back": "コンサートホール",
+      "romaji": "konsaato hooru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Art gallery",
+      "back": "美術館",
+      "romaji": "bijutsukan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Zoo",
+      "back": "動物園",
+      "romaji": "doubutsuen",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Aquarium",
+      "back": "水族館",
+      "romaji": "suizokukan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Amusement park",
+      "back": "遊園地",
+      "romaji": "yuuenchi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Beach",
+      "back": "海岸",
+      "romaji": "kaigan",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Lake",
+      "back": "湖",
+      "romaji": "mizuumi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "River",
+      "back": "川",
+      "romaji": "kawa",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Mountain",
+      "back": "山",
+      "romaji": "yama",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Forest",
+      "back": "森",
+      "romaji": "mori",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Desert",
+      "back": "砂漠",
+      "romaji": "sabaku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Island",
+      "back": "島",
+      "romaji": "shima",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Peninsula",
+      "back": "半島",
+      "romaji": "hantou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Valley",
+      "back": "谷",
+      "romaji": "tani",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Hill",
+      "back": "丘",
+      "romaji": "oka",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Field",
+      "back": "野原",
+      "romaji": "nohara",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Farm",
+      "back": "農場",
+      "romaji": "noujou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Garden",
+      "back": "庭",
+      "romaji": "niwa",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Playground",
+      "back": "遊び場",
+      "romaji": "asobiba",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Square",
+      "back": "広場",
+      "romaji": "hiroba",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Street",
+      "back": "通り",
+      "romaji": "toori",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Avenue",
+      "back": "大通り",
+      "romaji": "oodoori",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Road",
+      "back": "道路",
+      "romaji": "douro",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Highway",
+      "back": "高速道路",
+      "romaji": "kousoku douro",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Intersection",
+      "back": "交差点",
+      "romaji": "kousaten",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Crosswalk",
+      "back": "横断歩道",
+      "romaji": "oudan hodou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Sidewalk",
+      "back": "歩道",
+      "romaji": "hodou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Tunnel",
+      "back": "トンネル",
+      "romaji": "tonneru",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Overpass",
+      "back": "歩道橋",
+      "romaji": "hodoukyou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Underpass",
+      "back": "地下道",
+      "romaji": "chikadou",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Neighborhood",
+      "back": "近所",
+      "romaji": "kinjo",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "District",
+      "back": "地区",
+      "romaji": "chiku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Prefecture",
+      "back": "県",
+      "romaji": "ken",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Country",
+      "back": "国",
+      "romaji": "kuni",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Continent",
+      "back": "大陸",
+      "romaji": "tairiku",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "World",
+      "back": "世界",
+      "romaji": "sekai",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "North",
+      "back": "北",
+      "romaji": "kita",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "South",
+      "back": "南",
+      "romaji": "minami",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "East",
+      "back": "東",
+      "romaji": "higashi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "West",
+      "back": "西",
+      "romaji": "nishi",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Center",
+      "back": "中心",
+      "romaji": "chuushin",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Downtown",
+      "back": "繁華街",
+      "romaji": "hankagai",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Suburb",
+      "back": "郊外",
+      "romaji": "kougai",
+      "type": "vocabulary",
+      "category": "places"
+    },
+    {
+      "front": "Countryside",
+      "back": "田舎",
+      "romaji": "inaka",
+      "type": "vocabulary",
+      "category": "places"
+    }
+  ]
+}

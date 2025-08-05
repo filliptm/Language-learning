@@ -1,0 +1,757 @@
+{
+  "id": "numbers",
+  "name": "Numbers",
+  "description": "Counting and quantities",
+  "icon": "🔢",
+  "cards": [
+    {
+      "front": "One",
+      "back": "一",
+      "romaji": "ichi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two",
+      "back": "二",
+      "romaji": "ni",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Three",
+      "back": "三",
+      "romaji": "san",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Four",
+      "back": "四",
+      "romaji": "shi/yon",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Five",
+      "back": "五",
+      "romaji": "go",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Six",
+      "back": "六",
+      "romaji": "roku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seven",
+      "back": "七",
+      "romaji": "shichi/nana",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eight",
+      "back": "八",
+      "romaji": "hachi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Nine",
+      "back": "九",
+      "romaji": "kyuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ten",
+      "back": "十",
+      "romaji": "juu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eleven",
+      "back": "十一",
+      "romaji": "juuichi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twelve",
+      "back": "十二",
+      "romaji": "juuni",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Thirteen",
+      "back": "十三",
+      "romaji": "juusan",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fourteen",
+      "back": "十四",
+      "romaji": "juuyon",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fifteen",
+      "back": "十五",
+      "romaji": "juugo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sixteen",
+      "back": "十六",
+      "romaji": "juuroku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seventeen",
+      "back": "十七",
+      "romaji": "juunana",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eighteen",
+      "back": "十八",
+      "romaji": "juuhachi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Nineteen",
+      "back": "十九",
+      "romaji": "juukyuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twenty",
+      "back": "二十",
+      "romaji": "nijuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twenty-one",
+      "back": "二十一",
+      "romaji": "nijuuichi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Thirty",
+      "back": "三十",
+      "romaji": "sanjuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Forty",
+      "back": "四十",
+      "romaji": "yonjuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fifty",
+      "back": "五十",
+      "romaji": "gojuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sixty",
+      "back": "六十",
+      "romaji": "rokujuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Seventy",
+      "back": "七十",
+      "romaji": "nanajuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Eighty",
+      "back": "八十",
+      "romaji": "hachijuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ninety",
+      "back": "九十",
+      "romaji": "kyuujuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One hundred",
+      "back": "百",
+      "romaji": "hyaku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two hundred",
+      "back": "二百",
+      "romaji": "nihyaku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Three hundred",
+      "back": "三百",
+      "romaji": "sanbyaku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Five hundred",
+      "back": "五百",
+      "romaji": "gohyaku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One thousand",
+      "back": "千",
+      "romaji": "sen",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two thousand",
+      "back": "二千",
+      "romaji": "nisen",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Three thousand",
+      "back": "三千",
+      "romaji": "sanzen",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Ten thousand",
+      "back": "万",
+      "romaji": "man",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One hundred thousand",
+      "back": "十万",
+      "romaji": "juuman",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One million",
+      "back": "百万",
+      "romaji": "hyakuman",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "First",
+      "back": "一番目",
+      "romaji": "ichibamme",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Second",
+      "back": "二番目",
+      "romaji": "nibamme",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Third",
+      "back": "三番目",
+      "romaji": "sanbamme",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fourth",
+      "back": "四番目",
+      "romaji": "yonbamme",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Fifth",
+      "back": "五番目",
+      "romaji": "gobamme",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Last",
+      "back": "最後",
+      "romaji": "saigo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Half",
+      "back": "半分",
+      "romaji": "hanbun",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Quarter",
+      "back": "四分の一",
+      "romaji": "yonbun no ichi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "One third",
+      "back": "三分の一",
+      "romaji": "sanbun no ichi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Two thirds",
+      "back": "三分の二",
+      "romaji": "sanbun no ni",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Zero",
+      "back": "ゼロ",
+      "romaji": "zero",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Minus",
+      "back": "マイナス",
+      "romaji": "mainasu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Plus",
+      "back": "プラス",
+      "romaji": "purasu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Equals",
+      "back": "イコール",
+      "romaji": "ikooru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Multiply",
+      "back": "掛ける",
+      "romaji": "kakeru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Divide",
+      "back": "割る",
+      "romaji": "waru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Number",
+      "back": "数",
+      "romaji": "kazu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Count",
+      "back": "数える",
+      "romaji": "kazoeru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Calculate",
+      "back": "計算する",
+      "romaji": "keisan suru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Total",
+      "back": "合計",
+      "romaji": "goukei",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Sum",
+      "back": "和",
+      "romaji": "wa",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Difference",
+      "back": "差",
+      "romaji": "sa",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Even number",
+      "back": "偶数",
+      "romaji": "guusuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Odd number",
+      "back": "奇数",
+      "romaji": "kisuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Decimal",
+      "back": "小数",
+      "romaji": "shousuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Percent",
+      "back": "パーセント",
+      "romaji": "paasento",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Double",
+      "back": "二倍",
+      "romaji": "nibai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Triple",
+      "back": "三倍",
+      "romaji": "sanbai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Single",
+      "back": "一つ",
+      "romaji": "hitotsu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Pair",
+      "back": "一対",
+      "romaji": "itsui",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Dozen",
+      "back": "ダース",
+      "romaji": "daasu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Score",
+      "back": "点数",
+      "romaji": "tensuu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Age",
+      "back": "年齢",
+      "romaji": "nenrei",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Years old",
+      "back": "歳",
+      "romaji": "sai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Once",
+      "back": "一度",
+      "romaji": "ichido",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Twice",
+      "back": "二度",
+      "romaji": "nido",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Three times",
+      "back": "三度",
+      "romaji": "sando",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Many times",
+      "back": "何度も",
+      "romaji": "nando mo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "How many",
+      "back": "いくつ",
+      "romaji": "ikutsu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "How much",
+      "back": "いくら",
+      "romaji": "ikura",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Few",
+      "back": "少し",
+      "romaji": "sukoshi",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Many",
+      "back": "たくさん",
+      "romaji": "takusan",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "All",
+      "back": "全部",
+      "romaji": "zenbu",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "None",
+      "back": "何も",
+      "romaji": "nani mo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Some",
+      "back": "いくつか",
+      "romaji": "ikutsuka",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Each",
+      "back": "それぞれ",
+      "romaji": "sorezore",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Every",
+      "back": "毎",
+      "romaji": "mai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Both",
+      "back": "両方",
+      "romaji": "ryouhou",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Either",
+      "back": "どちらか",
+      "romaji": "dochira ka",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Neither",
+      "back": "どちらも",
+      "romaji": "dochira mo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "More",
+      "back": "もっと",
+      "romaji": "motto",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Less",
+      "back": "より少ない",
+      "romaji": "yori sukunai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Most",
+      "back": "最も",
+      "romaji": "mottomo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Least",
+      "back": "最も少ない",
+      "romaji": "mottomo sukunai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Enough",
+      "back": "十分",
+      "romaji": "juubun",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Too much",
+      "back": "多すぎる",
+      "romaji": "oosugiru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Too little",
+      "back": "少なすぎる",
+      "romaji": "sukunasugiru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Increase",
+      "back": "増える",
+      "romaji": "fueru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Decrease",
+      "back": "減る",
+      "romaji": "heru",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Maximum",
+      "back": "最大",
+      "romaji": "saidai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Minimum",
+      "back": "最小",
+      "romaji": "saishou",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Average",
+      "back": "平均",
+      "romaji": "heikin",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Approximately",
+      "back": "約",
+      "romaji": "yaku",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Exactly",
+      "back": "正確に",
+      "romaji": "seikaku ni",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "About",
+      "back": "だいたい",
+      "romaji": "daitai",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Almost",
+      "back": "ほとんど",
+      "romaji": "hotondo",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Over",
+      "back": "以上",
+      "romaji": "ijou",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Under",
+      "back": "以下",
+      "romaji": "ika",
+      "type": "vocabulary",
+      "category": "numbers"
+    },
+    {
+      "front": "Between",
+      "back": "間",
+      "romaji": "aida",
+      "type": "vocabulary",
+      "category": "numbers"
+    }
+  ]
+}

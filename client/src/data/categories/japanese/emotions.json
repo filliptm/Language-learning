@@ -1,0 +1,785 @@
+{
+  "id": "emotions",
+  "name": "Emotions",
+  "description": "Feelings and emotional states",
+  "icon": "😊",
+  "cards": [
+    {
+      "front": "Happy",
+      "back": "幸せ",
+      "romaji": "shiawase",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sad",
+      "back": "悲しい",
+      "romaji": "kanashii",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Angry",
+      "back": "怒った",
+      "romaji": "okotta",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Excited",
+      "back": "興奮した",
+      "romaji": "koufun shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Nervous",
+      "back": "緊張した",
+      "romaji": "kinchou shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Worried",
+      "back": "心配",
+      "romaji": "shinpai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Scared",
+      "back": "怖い",
+      "romaji": "kowai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Surprised",
+      "back": "驚いた",
+      "romaji": "odoroita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Confused",
+      "back": "混乱した",
+      "romaji": "konran shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Tired",
+      "back": "疲れた",
+      "romaji": "tsukareta",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Relaxed",
+      "back": "リラックスした",
+      "romaji": "rirakkusu shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Calm",
+      "back": "落ち着いた",
+      "romaji": "ochitsuita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Peaceful",
+      "back": "平和",
+      "romaji": "heiwa",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Love",
+      "back": "愛",
+      "romaji": "ai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Hate",
+      "back": "憎しみ",
+      "romaji": "nikushimi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Joy",
+      "back": "喜び",
+      "romaji": "yorokobi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sorrow",
+      "back": "悲しみ",
+      "romaji": "kanashimi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Fear",
+      "back": "恐怖",
+      "romaji": "kyoufu",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Hope",
+      "back": "希望",
+      "romaji": "kibou",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Despair",
+      "back": "絶望",
+      "romaji": "zetsubou",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Pride",
+      "back": "誇り",
+      "romaji": "hokori",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Shame",
+      "back": "恥",
+      "romaji": "haji",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Guilt",
+      "back": "罪悪感",
+      "romaji": "zaiaakukan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Jealous",
+      "back": "嫉妬",
+      "romaji": "shitto",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Envious",
+      "back": "うらやましい",
+      "romaji": "urayamashii",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Grateful",
+      "back": "感謝",
+      "romaji": "kansha",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Disappointed",
+      "back": "失望した",
+      "romaji": "shitsubou shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Frustrated",
+      "back": "イライラした",
+      "romaji": "iraira shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Annoyed",
+      "back": "イライラした",
+      "romaji": "iraira shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Bored",
+      "back": "退屈",
+      "romaji": "taikutsu",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Interested",
+      "back": "興味",
+      "romaji": "kyoumi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Curious",
+      "back": "好奇心",
+      "romaji": "koukishin",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Confident",
+      "back": "自信",
+      "romaji": "jishin",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Insecure",
+      "back": "不安",
+      "romaji": "fuan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Lonely",
+      "back": "寂しい",
+      "romaji": "sabishii",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Content",
+      "back": "満足",
+      "romaji": "manzoku",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Dissatisfied",
+      "back": "不満",
+      "romaji": "fuman",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Optimistic",
+      "back": "楽観的",
+      "romaji": "rakkanteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Pessimistic",
+      "back": "悲観的",
+      "romaji": "hikanteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Enthusiastic",
+      "back": "熱狂的",
+      "romaji": "nekkyouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Apathetic",
+      "back": "無関心",
+      "romaji": "mukanshin",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Motivated",
+      "back": "やる気",
+      "romaji": "yaruki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Lazy",
+      "back": "怠け者",
+      "romaji": "namakemono",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Patient",
+      "back": "我慢強い",
+      "romaji": "gaman zuyoi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Impatient",
+      "back": "せっかち",
+      "romaji": "sekkachi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Kind",
+      "back": "親切",
+      "romaji": "shinsetsu",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Mean",
+      "back": "意地悪",
+      "romaji": "ijiwaru",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Generous",
+      "back": "寛大",
+      "romaji": "kandai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Selfish",
+      "back": "わがまま",
+      "romaji": "wagamama",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Honest",
+      "back": "正直",
+      "romaji": "shoujiki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Dishonest",
+      "back": "不正直",
+      "romaji": "fushoujiki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Brave",
+      "back": "勇敢",
+      "romaji": "yuukan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Coward",
+      "back": "臆病",
+      "romaji": "okubyou",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Strong",
+      "back": "強い",
+      "romaji": "tsuyoi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Weak",
+      "back": "弱い",
+      "romaji": "yowai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Wise",
+      "back": "賢い",
+      "romaji": "kashikoi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Foolish",
+      "back": "愚か",
+      "romaji": "oroka",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Mature",
+      "back": "成熟した",
+      "romaji": "seijuku shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Immature",
+      "back": "未熟",
+      "romaji": "mijuku",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Responsible",
+      "back": "責任感",
+      "romaji": "sekininkan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Irresponsible",
+      "back": "無責任",
+      "romaji": "musekinin",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Reliable",
+      "back": "信頼できる",
+      "romaji": "shinrai dekiru",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Unreliable",
+      "back": "信頼できない",
+      "romaji": "shinrai dekinai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Friendly",
+      "back": "友好的",
+      "romaji": "yuukouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Unfriendly",
+      "back": "非友好的",
+      "romaji": "hiyuukouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Polite",
+      "back": "丁寧",
+      "romaji": "teinei",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Rude",
+      "back": "失礼",
+      "romaji": "shitsurei",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Humble",
+      "back": "謙虚",
+      "romaji": "kenkyo",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Arrogant",
+      "back": "傲慢",
+      "romaji": "gouman",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Cheerful",
+      "back": "陽気",
+      "romaji": "youki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Gloomy",
+      "back": "陰気",
+      "romaji": "inki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Playful",
+      "back": "遊び好き",
+      "romaji": "asobi zuki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Serious",
+      "back": "真面目",
+      "romaji": "majime",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Funny",
+      "back": "面白い",
+      "romaji": "omoshiroi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Boring",
+      "back": "つまらない",
+      "romaji": "tsumaranai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Creative",
+      "back": "創造的",
+      "romaji": "souzouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Uncreative",
+      "back": "創造性がない",
+      "romaji": "souzousei ga nai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Organized",
+      "back": "組織的",
+      "romaji": "soshikiteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Disorganized",
+      "back": "無秩序",
+      "romaji": "muchitsujo",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Flexible",
+      "back": "柔軟",
+      "romaji": "juunan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Stubborn",
+      "back": "頑固",
+      "romaji": "ganko",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Open-minded",
+      "back": "心が広い",
+      "romaji": "kokoro ga hiroi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Close-minded",
+      "back": "心が狭い",
+      "romaji": "kokoro ga semai",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Adventurous",
+      "back": "冒険好き",
+      "romaji": "bouken zuki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Cautious",
+      "back": "慎重",
+      "romaji": "shinchou",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Independent",
+      "back": "独立した",
+      "romaji": "dokuritsu shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Dependent",
+      "back": "依存した",
+      "romaji": "izon shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Active",
+      "back": "活発",
+      "romaji": "kappatsu",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Passive",
+      "back": "受動的",
+      "romaji": "judouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Energetic",
+      "back": "エネルギッシュ",
+      "romaji": "enerugisshu",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Lethargic",
+      "back": "無気力",
+      "romaji": "mukiryoku",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Alert",
+      "back": "警戒した",
+      "romaji": "keikai shita",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sleepy",
+      "back": "眠い",
+      "romaji": "nemui",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Awake",
+      "back": "目覚めた",
+      "romaji": "mezameta",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Dreamy",
+      "back": "夢見がち",
+      "romaji": "yumemi gachi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Realistic",
+      "back": "現実的",
+      "romaji": "genjitsuteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Idealistic",
+      "back": "理想主義",
+      "romaji": "risou shugi",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Practical",
+      "back": "実用的",
+      "romaji": "jitsuyouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Impractical",
+      "back": "非実用的",
+      "romaji": "hijitsuyouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Romantic",
+      "back": "ロマンチック",
+      "romaji": "romanchikku",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Unromantic",
+      "back": "非ロマンチック",
+      "romaji": "hi romanchikku",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sensitive",
+      "back": "敏感",
+      "romaji": "binkan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Insensitive",
+      "back": "鈍感",
+      "romaji": "donkan",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Emotional",
+      "back": "感情的",
+      "romaji": "kanjouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Unemotional",
+      "back": "非感情的",
+      "romaji": "hikanjouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Expressive",
+      "back": "表現豊か",
+      "romaji": "hyougen yutaka",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Reserved",
+      "back": "控えめ",
+      "romaji": "hikaeme",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Outgoing",
+      "back": "外向的",
+      "romaji": "gaikouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Shy",
+      "back": "恥ずかしがり",
+      "romaji": "hazukashigari",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Sociable",
+      "back": "社交的",
+      "romaji": "shakouteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    },
+    {
+      "front": "Antisocial",
+      "back": "反社会的",
+      "romaji": "hanshakaiteki",
+      "type": "vocabulary",
+      "category": "emotions"
+    }
+  ]
+}

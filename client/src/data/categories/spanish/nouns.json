@@ -1,0 +1,771 @@
+{
+  "id": "nouns",
+  "name": "Nouns",
+  "description": "People, places, and things",
+  "icon": "📦",
+  "cards": [
+    {
+      "front": "Water",
+      "back": "Agua",
+      "pronunciation": "AH-gwah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Food",
+      "back": "Comida",
+      "pronunciation": "koh-MEE-dah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Friend",
+      "back": "Amigo",
+      "pronunciation": "ah-MEE-goh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "School",
+      "back": "Escuela",
+      "pronunciation": "ehs-KWAY-lah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "House",
+      "back": "Casa",
+      "pronunciation": "KAH-sah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Car",
+      "back": "Carro",
+      "pronunciation": "KAH-rroh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Book",
+      "back": "Libro",
+      "pronunciation": "LEE-broh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Cat",
+      "back": "Gato",
+      "pronunciation": "GAH-toh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Dog",
+      "back": "Perro",
+      "pronunciation": "PEH-rroh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Mother",
+      "back": "Madre",
+      "pronunciation": "MAH-dreh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Father",
+      "back": "Padre",
+      "pronunciation": "PAH-dreh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Teacher",
+      "back": "Maestro",
+      "pronunciation": "mah-EHS-troh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Student",
+      "back": "Estudiante",
+      "pronunciation": "ehs-too-dee-AHN-teh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Person",
+      "back": "Persona",
+      "pronunciation": "pehr-SOH-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Man",
+      "back": "Hombre",
+      "pronunciation": "OHM-breh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Woman",
+      "back": "Mujer",
+      "pronunciation": "moo-HEHR",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Child",
+      "back": "Niño",
+      "pronunciation": "NEE-nyoh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Baby",
+      "back": "Bebé",
+      "pronunciation": "beh-BEH",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Boy",
+      "back": "Niño",
+      "pronunciation": "NEE-nyoh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Girl",
+      "back": "Niña",
+      "pronunciation": "NEE-nyah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Family",
+      "back": "Familia",
+      "pronunciation": "fah-MEE-lee-ah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Brother",
+      "back": "Hermano",
+      "pronunciation": "ehr-MAH-noh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Sister",
+      "back": "Hermana",
+      "pronunciation": "ehr-MAH-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Son",
+      "back": "Hijo",
+      "pronunciation": "EE-hoh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Daughter",
+      "back": "Hija",
+      "pronunciation": "EE-hah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Husband",
+      "back": "Esposo",
+      "pronunciation": "ehs-POH-soh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Wife",
+      "back": "Esposa",
+      "pronunciation": "ehs-POH-sah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Grandfather",
+      "back": "Abuelo",
+      "pronunciation": "ah-BWAY-loh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Grandmother",
+      "back": "Abuela",
+      "pronunciation": "ah-BWAY-lah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Uncle",
+      "back": "Tío",
+      "pronunciation": "TEE-oh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Aunt",
+      "back": "Tía",
+      "pronunciation": "TEE-ah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Cousin",
+      "back": "Primo",
+      "pronunciation": "PREE-moh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Name",
+      "back": "Nombre",
+      "pronunciation": "NOHM-breh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Age",
+      "back": "Edad",
+      "pronunciation": "eh-DAHD",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Job",
+      "back": "Trabajo",
+      "pronunciation": "trah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Money",
+      "back": "Dinero",
+      "pronunciation": "dee-NEH-roh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Time",
+      "back": "Tiempo",
+      "pronunciation": "tee-EHM-poh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Day",
+      "back": "Día",
+      "pronunciation": "DEE-ah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Night",
+      "back": "Noche",
+      "pronunciation": "NOH-cheh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Week",
+      "back": "Semana",
+      "pronunciation": "seh-MAH-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Month",
+      "back": "Mes",
+      "pronunciation": "mehs",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Year",
+      "back": "Año",
+      "pronunciation": "AH-nyoh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Hour",
+      "back": "Hora",
+      "pronunciation": "OH-rah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Minute",
+      "back": "Minuto",
+      "pronunciation": "mee-NOO-toh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Second",
+      "back": "Segundo",
+      "pronunciation": "seh-GOON-doh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Morning",
+      "back": "Mañana",
+      "pronunciation": "mah-NYAH-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Afternoon",
+      "back": "Tarde",
+      "pronunciation": "TAHR-deh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Evening",
+      "back": "Noche",
+      "pronunciation": "NOH-cheh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Place",
+      "back": "Lugar",
+      "pronunciation": "loo-GAHR",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Country",
+      "back": "País",
+      "pronunciation": "pah-EES",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "City",
+      "back": "Ciudad",
+      "pronunciation": "see-oo-DAHD",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Town",
+      "back": "Pueblo",
+      "pronunciation": "PWAY-bloh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Street",
+      "back": "Calle",
+      "pronunciation": "KAH-yeh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Road",
+      "back": "Carretera",
+      "pronunciation": "kah-rreh-TEH-rah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Building",
+      "back": "Edificio",
+      "pronunciation": "eh-dee-FEE-see-oh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Room",
+      "back": "Cuarto",
+      "pronunciation": "KWAR-toh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Kitchen",
+      "back": "Cocina",
+      "pronunciation": "koh-SEE-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bathroom",
+      "back": "Baño",
+      "pronunciation": "BAH-nyoh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bedroom",
+      "back": "Dormitorio",
+      "pronunciation": "dor-mee-TOH-ree-oh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Living room",
+      "back": "Sala",
+      "pronunciation": "SAH-lah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Door",
+      "back": "Puerta",
+      "pronunciation": "PWEHR-tah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Window",
+      "back": "Ventana",
+      "pronunciation": "vehn-TAH-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Floor",
+      "back": "Piso",
+      "pronunciation": "PEE-soh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Wall",
+      "back": "Pared",
+      "pronunciation": "pah-REHD",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Ceiling",
+      "back": "Techo",
+      "pronunciation": "TEH-choh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Table",
+      "back": "Mesa",
+      "pronunciation": "MEH-sah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Chair",
+      "back": "Silla",
+      "pronunciation": "SEE-yah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bed",
+      "back": "Cama",
+      "pronunciation": "KAH-mah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Phone",
+      "back": "Teléfono",
+      "pronunciation": "teh-LEH-foh-noh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Computer",
+      "back": "Computadora",
+      "pronunciation": "kom-poo-tah-DOH-rah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Television",
+      "back": "Televisión",
+      "pronunciation": "teh-leh-vee-see-OHN",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Radio",
+      "back": "Radio",
+      "pronunciation": "RAH-dee-oh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Music",
+      "back": "Música",
+      "pronunciation": "MOO-see-kah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Song",
+      "back": "Canción",
+      "pronunciation": "kahn-see-OHN",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Movie",
+      "back": "Película",
+      "pronunciation": "peh-LEE-koo-lah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Game",
+      "back": "Juego",
+      "pronunciation": "HWAY-goh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Sport",
+      "back": "Deporte",
+      "pronunciation": "deh-POR-teh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Ball",
+      "back": "Pelota",
+      "pronunciation": "peh-LOH-tah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Paper",
+      "back": "Papel",
+      "pronunciation": "pah-PEHL",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Pen",
+      "back": "Pluma",
+      "pronunciation": "PLOO-mah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Pencil",
+      "back": "Lápiz",
+      "pronunciation": "LAH-pees",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Letter",
+      "back": "Carta",
+      "pronunciation": "KAHR-tah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Word",
+      "back": "Palabra",
+      "pronunciation": "pah-LAH-brah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Language",
+      "back": "Idioma",
+      "pronunciation": "ee-dee-OH-mah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Question",
+      "back": "Pregunta",
+      "pronunciation": "preh-GOON-tah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Answer",
+      "back": "Respuesta",
+      "pronunciation": "rehs-PWES-tah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Problem",
+      "back": "Problema",
+      "pronunciation": "proh-BLEH-mah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Solution",
+      "back": "Solución",
+      "pronunciation": "soh-loo-see-OHN",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Idea",
+      "back": "Idea",
+      "pronunciation": "ee-DEH-ah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Story",
+      "back": "Historia",
+      "pronunciation": "ees-TOH-ree-ah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "News",
+      "back": "Noticias",
+      "pronunciation": "noh-TEE-see-ahs",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Information",
+      "back": "Información",
+      "pronunciation": "een-for-mah-see-OHN",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "World",
+      "back": "Mundo",
+      "pronunciation": "MOON-doh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Life",
+      "back": "Vida",
+      "pronunciation": "VEE-dah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Death",
+      "back": "Muerte",
+      "pronunciation": "MWEHR-teh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Health",
+      "back": "Salud",
+      "pronunciation": "sah-LOOD",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Doctor",
+      "back": "Doctor",
+      "pronunciation": "dok-TOHR",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Hospital",
+      "back": "Hospital",
+      "pronunciation": "ohs-pee-TAHL",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Medicine",
+      "back": "Medicina",
+      "pronunciation": "meh-dee-SEE-nah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Store",
+      "back": "Tienda",
+      "pronunciation": "tee-EHN-dah",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Market",
+      "back": "Mercado",
+      "pronunciation": "mehr-KAH-doh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bank",
+      "back": "Banco",
+      "pronunciation": "BAHN-koh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Restaurant",
+      "back": "Restaurante",
+      "pronunciation": "rehs-tow-RAHN-teh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Hotel",
+      "back": "Hotel",
+      "pronunciation": "oh-TEHL",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Airport",
+      "back": "Aeropuerto",
+      "pronunciation": "ah-eh-roh-PWEHR-toh",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bus",
+      "back": "Autobús",
+      "pronunciation": "ow-toh-BOOS",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Train",
+      "back": "Tren",
+      "pronunciation": "trehn",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Airplane",
+      "back": "Avión",
+      "pronunciation": "ah-vee-OHN",
+      "type": "vocabulary",
+      "category": "nouns"
+    },
+    {
+      "front": "Bicycle",
+      "back": "Bicicleta",
+      "pronunciation": "bee-see-KLEH-tah",
+      "type": "vocabulary",
+      "category": "nouns"
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "id": "verbs",
+  "name": "Verbs",
+  "description": "Action words",
+  "icon": "⚡",
+  "cards": [
+    {
+      "front": "To eat",
+      "back": "Comer",
+      "pronunciation": "koh-MEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To drink",
+      "back": "Beber",
+      "pronunciation": "beh-BEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To go",
+      "back": "Ir",
+      "pronunciation": "eer",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To come",
+      "back": "Venir",
+      "pronunciation": "veh-NEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To see",
+      "back": "Ver",
+      "pronunciation": "vehr",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To read",
+      "back": "Leer",
+      "pronunciation": "leh-EHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To write",
+      "back": "Escribir",
+      "pronunciation": "ehs-kree-BEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To speak",
+      "back": "Hablar",
+      "pronunciation": "ah-BLAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sleep",
+      "back": "Dormir",
+      "pronunciation": "dor-MEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wake up",
+      "back": "Despertar",
+      "pronunciation": "dehs-pehr-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To be (permanent)",
+      "back": "Ser",
+      "pronunciation": "sehr",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To be (temporary)",
+      "back": "Estar",
+      "pronunciation": "ehs-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To have",
+      "back": "Tener",
+      "pronunciation": "teh-NEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To do/make",
+      "back": "Hacer",
+      "pronunciation": "ah-SEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To say/tell",
+      "back": "Decir",
+      "pronunciation": "deh-SEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To get/take",
+      "back": "Tomar",
+      "pronunciation": "toh-MAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To give",
+      "back": "Dar",
+      "pronunciation": "dahr",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To put",
+      "back": "Poner",
+      "pronunciation": "poh-NEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To leave",
+      "back": "Salir",
+      "pronunciation": "sah-LEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To arrive",
+      "back": "Llegar",
+      "pronunciation": "yeh-GAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To live",
+      "back": "Vivir",
+      "pronunciation": "vee-VEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To die",
+      "back": "Morir",
+      "pronunciation": "moh-REER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To work",
+      "back": "Trabajar",
+      "pronunciation": "trah-bah-HAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To study",
+      "back": "Estudiar",
+      "pronunciation": "ehs-too-dee-AHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To learn",
+      "back": "Aprender",
+      "pronunciation": "ah-prehn-DEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To teach",
+      "back": "Enseñar",
+      "pronunciation": "ehn-seh-NYAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To understand",
+      "back": "Entender",
+      "pronunciation": "ehn-tehn-DEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To know (facts)",
+      "back": "Saber",
+      "pronunciation": "sah-BEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To know (people)",
+      "back": "Conocer",
+      "pronunciation": "koh-noh-SEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To think",
+      "back": "Pensar",
+      "pronunciation": "pehn-SAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To believe",
+      "back": "Creer",
+      "pronunciation": "kreh-EHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To remember",
+      "back": "Recordar",
+      "pronunciation": "reh-kor-DAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To forget",
+      "back": "Olvidar",
+      "pronunciation": "ohl-vee-DAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To want",
+      "back": "Querer",
+      "pronunciation": "keh-REHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To need",
+      "back": "Necesitar",
+      "pronunciation": "neh-seh-see-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To like",
+      "back": "Gustar",
+      "pronunciation": "goos-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To love",
+      "back": "Amar",
+      "pronunciation": "ah-MAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hate",
+      "back": "Odiar",
+      "pronunciation": "oh-dee-AHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To feel",
+      "back": "Sentir",
+      "pronunciation": "sehn-TEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To hear",
+      "back": "Oír",
+      "pronunciation": "oh-EER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To listen",
+      "back": "Escuchar",
+      "pronunciation": "ehs-koo-CHAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To look",
+      "back": "Mirar",
+      "pronunciation": "mee-RAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To watch",
+      "back": "Ver",
+      "pronunciation": "vehr",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To find",
+      "back": "Encontrar",
+      "pronunciation": "ehn-kohn-TRAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To lose",
+      "back": "Perder",
+      "pronunciation": "pehr-DEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To search",
+      "back": "Buscar",
+      "pronunciation": "boos-KAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wait",
+      "back": "Esperar",
+      "pronunciation": "ehs-peh-RAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To help",
+      "back": "Ayudar",
+      "pronunciation": "ah-yoo-DAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To ask",
+      "back": "Preguntar",
+      "pronunciation": "preh-goon-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To answer",
+      "back": "Responder",
+      "pronunciation": "rehs-pohn-DEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To call",
+      "back": "Llamar",
+      "pronunciation": "yah-MAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To send",
+      "back": "Enviar",
+      "pronunciation": "ehn-vee-AHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To receive",
+      "back": "Recibir",
+      "pronunciation": "reh-see-BEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To buy",
+      "back": "Comprar",
+      "pronunciation": "kohm-PRAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sell",
+      "back": "Vender",
+      "pronunciation": "vehn-DEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To pay",
+      "back": "Pagar",
+      "pronunciation": "pah-GAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To cost",
+      "back": "Costar",
+      "pronunciation": "kohs-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To open",
+      "back": "Abrir",
+      "pronunciation": "ah-BREER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To close",
+      "back": "Cerrar",
+      "pronunciation": "seh-RRAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To start",
+      "back": "Empezar",
+      "pronunciation": "ehm-peh-SAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To finish",
+      "back": "Terminar",
+      "pronunciation": "tehr-mee-NAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To stop",
+      "back": "Parar",
+      "pronunciation": "pah-RAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To continue",
+      "back": "Continuar",
+      "pronunciation": "kohn-tee-noo-AHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To try",
+      "back": "Intentar",
+      "pronunciation": "een-tehn-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To use",
+      "back": "Usar",
+      "pronunciation": "oo-SAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To change",
+      "back": "Cambiar",
+      "pronunciation": "kahm-bee-AHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To move",
+      "back": "Mover",
+      "pronunciation": "moh-VEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To carry",
+      "back": "Llevar",
+      "pronunciation": "yeh-VAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To bring",
+      "back": "Traer",
+      "pronunciation": "trah-EHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To walk",
+      "back": "Caminar",
+      "pronunciation": "kah-mee-NAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To run",
+      "back": "Correr",
+      "pronunciation": "koh-RREHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To jump",
+      "back": "Saltar",
+      "pronunciation": "sahl-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To swim",
+      "back": "Nadar",
+      "pronunciation": "nah-DAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To fly",
+      "back": "Volar",
+      "pronunciation": "voh-LAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To drive",
+      "back": "Manejar",
+      "pronunciation": "mah-neh-HAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To ride",
+      "back": "Montar",
+      "pronunciation": "mohn-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To travel",
+      "back": "Viajar",
+      "pronunciation": "vee-ah-HAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To visit",
+      "back": "Visitar",
+      "pronunciation": "vee-see-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To stay",
+      "back": "Quedarse",
+      "pronunciation": "keh-DAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To return",
+      "back": "Regresar",
+      "pronunciation": "reh-greh-SAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sit",
+      "back": "Sentarse",
+      "pronunciation": "sehn-TAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To stand",
+      "back": "Pararse",
+      "pronunciation": "pah-RAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To lie down",
+      "back": "Acostarse",
+      "pronunciation": "ah-kohs-TAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To get up",
+      "back": "Levantarse",
+      "pronunciation": "leh-vahn-TAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To wash",
+      "back": "Lavar",
+      "pronunciation": "lah-VAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To clean",
+      "back": "Limpiar",
+      "pronunciation": "leem-pee-AHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To cook",
+      "back": "Cocinar",
+      "pronunciation": "koh-see-NAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To prepare",
+      "back": "Preparar",
+      "pronunciation": "preh-pah-RAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To serve",
+      "back": "Servir",
+      "pronunciation": "sehr-VEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To order",
+      "back": "Pedir",
+      "pronunciation": "peh-DEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To choose",
+      "back": "Elegir",
+      "pronunciation": "eh-leh-HEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To decide",
+      "back": "Decidir",
+      "pronunciation": "deh-see-DEER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To prefer",
+      "back": "Preferir",
+      "pronunciation": "preh-feh-REER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To win",
+      "back": "Ganar",
+      "pronunciation": "gah-NAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To lose (game)",
+      "back": "Perder",
+      "pronunciation": "pehr-DEHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To play",
+      "back": "Jugar",
+      "pronunciation": "hoo-GAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To dance",
+      "back": "Bailar",
+      "pronunciation": "bah-ee-LAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To sing",
+      "back": "Cantar",
+      "pronunciation": "kahn-TAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To laugh",
+      "back": "Reír",
+      "pronunciation": "reh-EER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To cry",
+      "back": "Llorar",
+      "pronunciation": "yoh-RAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To smile",
+      "back": "Sonreír",
+      "pronunciation": "sohn-reh-EER",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To worry",
+      "back": "Preocuparse",
+      "pronunciation": "preh-oh-koo-PAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To rest",
+      "back": "Descansar",
+      "pronunciation": "dehs-kahn-SAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To relax",
+      "back": "Relajarse",
+      "pronunciation": "reh-lah-HAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To exercise",
+      "back": "Ejercitarse",
+      "pronunciation": "eh-hehr-see-TAHR-seh",
+      "type": "vocabulary",
+      "category": "verbs"
+    },
+    {
+      "front": "To breathe",
+      "back": "Respirar",
+      "pronunciation": "rehs-pee-RAHR",
+      "type": "vocabulary",
+      "category": "verbs"
+    }
+  ]
+}

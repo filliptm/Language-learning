@@ -1,0 +1,764 @@
+{
+  "id": "adjectives",
+  "name": "Adjectives",
+  "description": "Descriptive words",
+  "icon": "🎨",
+  "cards": [
+    {
+      "front": "Beautiful",
+      "back": "美しい",
+      "romaji": "utsukushii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Big",
+      "back": "大きい",
+      "romaji": "ookii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Small",
+      "back": "小さい",
+      "romaji": "chiisai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Good",
+      "back": "良い",
+      "romaji": "yoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Bad",
+      "back": "悪い",
+      "romaji": "warui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Hot",
+      "back": "熱い",
+      "romaji": "atsui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Cold",
+      "back": "冷たい",
+      "romaji": "tsumetai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "New",
+      "back": "新しい",
+      "romaji": "atarashii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Old",
+      "back": "古い",
+      "romaji": "furui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Fast",
+      "back": "速い",
+      "romaji": "hayai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Slow",
+      "back": "遅い",
+      "romaji": "osoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Tall",
+      "back": "高い",
+      "romaji": "takai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Short",
+      "back": "短い",
+      "romaji": "mijikai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Long",
+      "back": "長い",
+      "romaji": "nagai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Wide",
+      "back": "広い",
+      "romaji": "hiroi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Narrow",
+      "back": "狭い",
+      "romaji": "semai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Thick",
+      "back": "厚い",
+      "romaji": "atsui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Thin",
+      "back": "薄い",
+      "romaji": "usui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Heavy",
+      "back": "重い",
+      "romaji": "omoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Light",
+      "back": "軽い",
+      "romaji": "karui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Strong",
+      "back": "強い",
+      "romaji": "tsuyoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Weak",
+      "back": "弱い",
+      "romaji": "yowai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Hard",
+      "back": "固い",
+      "romaji": "katai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Soft",
+      "back": "柔らかい",
+      "romaji": "yawarakai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Bright",
+      "back": "明るい",
+      "romaji": "akarui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dark",
+      "back": "暗い",
+      "romaji": "kurai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Clean",
+      "back": "きれい",
+      "romaji": "kirei",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dirty",
+      "back": "汚い",
+      "romaji": "kitanai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Quiet",
+      "back": "静か",
+      "romaji": "shizuka",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Loud",
+      "back": "うるさい",
+      "romaji": "urusai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Easy",
+      "back": "簡単",
+      "romaji": "kantan",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Difficult",
+      "back": "難しい",
+      "romaji": "muzukashii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Expensive",
+      "back": "高い",
+      "romaji": "takai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Cheap",
+      "back": "安い",
+      "romaji": "yasui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Rich",
+      "back": "豊か",
+      "romaji": "yutaka",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Poor",
+      "back": "貧しい",
+      "romaji": "mazushii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Busy",
+      "back": "忙しい",
+      "romaji": "isogashii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Free",
+      "back": "自由",
+      "romaji": "jiyuu",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Happy",
+      "back": "幸せ",
+      "romaji": "shiawase",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sad",
+      "back": "悲しい",
+      "romaji": "kanashii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Angry",
+      "back": "怒っている",
+      "romaji": "okotte iru",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Tired",
+      "back": "疲れた",
+      "romaji": "tsukareta",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Excited",
+      "back": "興奮した",
+      "romaji": "koufun shita",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Nervous",
+      "back": "緊張した",
+      "romaji": "kinchou shita",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Worried",
+      "back": "心配",
+      "romaji": "shinpai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Surprised",
+      "back": "驚いた",
+      "romaji": "odoroita",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Scared",
+      "back": "怖い",
+      "romaji": "kowai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Brave",
+      "back": "勇敢",
+      "romaji": "yuukan",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Kind",
+      "back": "優しい",
+      "romaji": "yasashii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Mean",
+      "back": "意地悪",
+      "romaji": "ijiwaru",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Smart",
+      "back": "賢い",
+      "romaji": "kashikoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Stupid",
+      "back": "馬鹿",
+      "romaji": "baka",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Funny",
+      "back": "面白い",
+      "romaji": "omoshiroi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Boring",
+      "back": "つまらない",
+      "romaji": "tsumaranai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Interesting",
+      "back": "興味深い",
+      "romaji": "kyoumibukai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Strange",
+      "back": "変",
+      "romaji": "hen",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Normal",
+      "back": "普通",
+      "romaji": "futsuu",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Special",
+      "back": "特別",
+      "romaji": "tokubetsu",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Important",
+      "back": "大切",
+      "romaji": "taisetsu",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Useful",
+      "back": "便利",
+      "romaji": "benri",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Useless",
+      "back": "役に立たない",
+      "romaji": "yaku ni tatanai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dangerous",
+      "back": "危険",
+      "romaji": "kiken",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Safe",
+      "back": "安全",
+      "romaji": "anzen",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Healthy",
+      "back": "健康",
+      "romaji": "kenkou",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sick",
+      "back": "病気",
+      "romaji": "byouki",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Young",
+      "back": "若い",
+      "romaji": "wakai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Old",
+      "back": "年を取った",
+      "romaji": "toshi wo totta",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Fresh",
+      "back": "新鮮",
+      "romaji": "shinsen",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Stale",
+      "back": "古い",
+      "romaji": "furui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sweet",
+      "back": "甘い",
+      "romaji": "amai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sour",
+      "back": "酸っぱい",
+      "romaji": "suppai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Bitter",
+      "back": "苦い",
+      "romaji": "nigai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Salty",
+      "back": "塩辛い",
+      "romaji": "shiokarai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Spicy",
+      "back": "辛い",
+      "romaji": "karai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Delicious",
+      "back": "美味しい",
+      "romaji": "oishii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Terrible",
+      "back": "ひどい",
+      "romaji": "hidoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Wet",
+      "back": "濡れた",
+      "romaji": "nureta",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dry",
+      "back": "乾いた",
+      "romaji": "kawaita",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Smooth",
+      "back": "滑らか",
+      "romaji": "nameraka",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Rough",
+      "back": "荒い",
+      "romaji": "arai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Sharp",
+      "back": "鋭い",
+      "romaji": "surudoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Dull",
+      "back": "鈍い",
+      "romaji": "nibui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Full",
+      "back": "いっぱい",
+      "romaji": "ippai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Empty",
+      "back": "空",
+      "romaji": "kara",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Open",
+      "back": "開いた",
+      "romaji": "aita",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Closed",
+      "back": "閉まった",
+      "romaji": "shimatta",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Right",
+      "back": "正しい",
+      "romaji": "tadashii",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Wrong",
+      "back": "間違った",
+      "romaji": "machigatta",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "True",
+      "back": "本当",
+      "romaji": "hontou",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "False",
+      "back": "偽",
+      "romaji": "nise",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Real",
+      "back": "本物",
+      "romaji": "honmono",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Fake",
+      "back": "偽物",
+      "romaji": "nisemono",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Possible",
+      "back": "可能",
+      "romaji": "kanou",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Impossible",
+      "back": "不可能",
+      "romaji": "fukanou",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Early",
+      "back": "早い",
+      "romaji": "hayai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Late",
+      "back": "遅い",
+      "romaji": "osoi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Near",
+      "back": "近い",
+      "romaji": "chikai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Far",
+      "back": "遠い",
+      "romaji": "tooi",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "High",
+      "back": "高い",
+      "romaji": "takai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Low",
+      "back": "低い",
+      "romaji": "hikui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Deep",
+      "back": "深い",
+      "romaji": "fukai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Shallow",
+      "back": "浅い",
+      "romaji": "asai",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Straight",
+      "back": "まっすぐ",
+      "romaji": "massugu",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Curved",
+      "back": "曲がった",
+      "romaji": "magatta",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Flat",
+      "back": "平ら",
+      "romaji": "taira",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Round",
+      "back": "丸い",
+      "romaji": "marui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Square",
+      "back": "四角い",
+      "romaji": "shikakui",
+      "type": "vocabulary",
+      "category": "adjectives"
+    },
+    {
+      "front": "Perfect",
+      "back": "完璧",
+      "romaji": "kanpeki",
+      "type": "vocabulary",
+      "category": "adjectives"
+    }
+  ]
+}

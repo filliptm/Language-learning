@@ -1,0 +1,764 @@
+{
+  "id": "transportation",
+  "name": "Transportation",
+  "description": "Vehicles and travel methods",
+  "icon": "🚗",
+  "cards": [
+    {
+      "front": "Transportation",
+      "back": "Transporte",
+      "pronunciation": "trahs-POHR-teh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Vehicle",
+      "back": "Vehículo",
+      "pronunciation": "veh-EE-koo-loh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Car",
+      "back": "Coche",
+      "pronunciation": "KOH-cheh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Automobile",
+      "back": "Automóvil",
+      "pronunciation": "ow-toh-MOH-veel",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Bus",
+      "back": "Autobús",
+      "pronunciation": "ow-toh-BOOS",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Train",
+      "back": "Tren",
+      "pronunciation": "trehn",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Subway",
+      "back": "Metro",
+      "pronunciation": "MEH-troh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Airplane",
+      "back": "Avión",
+      "pronunciation": "ah-vee-OHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Boat",
+      "back": "Barco",
+      "pronunciation": "BAHR-koh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ship",
+      "back": "Buque",
+      "pronunciation": "BOO-keh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Bicycle",
+      "back": "Bicicleta",
+      "pronunciation": "bee-see-KLEH-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Motorcycle",
+      "back": "Motocicleta",
+      "pronunciation": "moh-toh-see-KLEH-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Scooter",
+      "back": "Escúter",
+      "pronunciation": "ehs-KOO-tehr",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Truck",
+      "back": "Camión",
+      "pronunciation": "kah-mee-OHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Van",
+      "back": "Furgoneta",
+      "pronunciation": "foor-goh-NEH-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Taxi",
+      "back": "Taxi",
+      "pronunciation": "TAHK-see",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Uber",
+      "back": "Uber",
+      "pronunciation": "OO-behr",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Helicopter",
+      "back": "Helicóptero",
+      "pronunciation": "eh-lee-KOHP-teh-roh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ferry",
+      "back": "Ferry",
+      "pronunciation": "FEH-ree",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Yacht",
+      "back": "Yate",
+      "pronunciation": "YAH-teh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Cruise ship",
+      "back": "Crucero",
+      "pronunciation": "kroo-SEH-roh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Tram",
+      "back": "Tranvía",
+      "pronunciation": "trahn-VEE-ah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Trolley",
+      "back": "Trolebús",
+      "pronunciation": "troh-leh-BOOS",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Cable car",
+      "back": "Teleférico",
+      "pronunciation": "teh-leh-FEH-ree-koh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Gondola",
+      "back": "Góndola",
+      "pronunciation": "GOHN-doh-lah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Skateboard",
+      "back": "Monopatín",
+      "pronunciation": "moh-noh-pah-TEEN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Roller skates",
+      "back": "Patines",
+      "pronunciation": "pah-TEE-nehs",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Walking",
+      "back": "Caminar",
+      "pronunciation": "kah-mee-NAHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Running",
+      "back": "Correr",
+      "pronunciation": "koh-REHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Driver",
+      "back": "Conductor",
+      "pronunciation": "kohn-dook-TOHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Passenger",
+      "back": "Pasajero",
+      "pronunciation": "pah-sah-HEH-roh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Pilot",
+      "back": "Piloto",
+      "pronunciation": "pee-LOH-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Captain",
+      "back": "Capitán",
+      "pronunciation": "kah-pee-TAHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Conductor",
+      "back": "Maquinista",
+      "pronunciation": "mah-kee-NEES-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ticket",
+      "back": "Boleto",
+      "pronunciation": "boh-LEH-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Fare",
+      "back": "Tarifa",
+      "pronunciation": "tah-REE-fah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Schedule",
+      "back": "Horario",
+      "pronunciation": "oh-RAH-ree-oh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Route",
+      "back": "Ruta",
+      "pronunciation": "ROO-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Station",
+      "back": "Estación",
+      "pronunciation": "ehs-tah-see-OHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Platform",
+      "back": "Andén",
+      "pronunciation": "ahn-DEHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Terminal",
+      "back": "Terminal",
+      "pronunciation": "tehr-mee-NAHL",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Airport",
+      "back": "Aeropuerto",
+      "pronunciation": "ah-eh-roh-PWEHR-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Port",
+      "back": "Puerto",
+      "pronunciation": "PWEHR-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Harbor",
+      "back": "Puerto",
+      "pronunciation": "PWEHR-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Garage",
+      "back": "Garaje",
+      "pronunciation": "gah-RAH-heh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Parking",
+      "back": "Estacionamiento",
+      "pronunciation": "ehs-tah-see-oh-nah-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Gas station",
+      "back": "Gasolinera",
+      "pronunciation": "gah-soh-lee-NEH-rah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Traffic",
+      "back": "Tráfico",
+      "pronunciation": "TRAH-fee-koh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Traffic jam",
+      "back": "Embotellamiento",
+      "pronunciation": "ehm-boh-teh-yah-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Rush hour",
+      "back": "Hora pico",
+      "pronunciation": "OH-rah PEE-koh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Road",
+      "back": "Carretera",
+      "pronunciation": "kah-reh-TEH-rah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Street",
+      "back": "Calle",
+      "pronunciation": "KAH-yeh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Highway",
+      "back": "Autopista",
+      "pronunciation": "ow-toh-PEES-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Avenue",
+      "back": "Avenida",
+      "pronunciation": "ah-veh-NEE-dah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Boulevard",
+      "back": "Bulevar",
+      "pronunciation": "boo-leh-VAHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Bridge",
+      "back": "Puente",
+      "pronunciation": "PWEN-teh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Tunnel",
+      "back": "Túnel",
+      "pronunciation": "TOO-nehl",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Intersection",
+      "back": "Intersección",
+      "pronunciation": "een-tehr-sehk-see-OHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Crosswalk",
+      "back": "Paso de peatones",
+      "pronunciation": "PAH-soh deh peh-ah-TOH-nehs",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Traffic light",
+      "back": "Semáforo",
+      "pronunciation": "seh-MAH-foh-roh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Stop sign",
+      "back": "Señal de alto",
+      "pronunciation": "seh-NYAHL deh AHL-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Speed limit",
+      "back": "Límite de velocidad",
+      "pronunciation": "LEE-mee-teh deh veh-loh-see-DAHD",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Lane",
+      "back": "Carril",
+      "pronunciation": "kah-REEL",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Sidewalk",
+      "back": "Acera",
+      "pronunciation": "ah-SEH-rah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Curb",
+      "back": "Bordillo",
+      "pronunciation": "bohr-DEE-yoh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "License",
+      "back": "Licencia",
+      "pronunciation": "lee-SEHN-see-ah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Registration",
+      "back": "Registro",
+      "pronunciation": "reh-HEES-troh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Insurance",
+      "back": "Seguro",
+      "pronunciation": "seh-GOO-roh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Fuel",
+      "back": "Combustible",
+      "pronunciation": "kohm-boos-TEE-bleh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Gasoline",
+      "back": "Gasolina",
+      "pronunciation": "gah-soh-LEE-nah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Diesel",
+      "back": "Diésel",
+      "pronunciation": "dee-EH-sehl",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Electric",
+      "back": "Eléctrico",
+      "pronunciation": "eh-LEHK-tree-koh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Hybrid",
+      "back": "Híbrido",
+      "pronunciation": "EE-bree-doh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Engine",
+      "back": "Motor",
+      "pronunciation": "moh-TOHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Brake",
+      "back": "Freno",
+      "pronunciation": "FREH-noh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Accelerator",
+      "back": "Acelerador",
+      "pronunciation": "ah-seh-leh-rah-DOHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Steering wheel",
+      "back": "Volante",
+      "pronunciation": "voh-LAHN-teh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Horn",
+      "back": "Bocina",
+      "pronunciation": "boh-SEE-nah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Headlight",
+      "back": "Faro",
+      "pronunciation": "FAH-roh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Mirror",
+      "back": "Espejo",
+      "pronunciation": "ehs-PEH-hoh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Seat belt",
+      "back": "Cinturón de seguridad",
+      "pronunciation": "seen-too-ROHN deh seh-goo-ree-DAHD",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Airbag",
+      "back": "Bolsa de aire",
+      "pronunciation": "BOHL-sah deh AH-ee-reh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Tire",
+      "back": "Llanta",
+      "pronunciation": "YAHN-tah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Wheel",
+      "back": "Rueda",
+      "pronunciation": "RWEH-dah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Battery",
+      "back": "Batería",
+      "pronunciation": "bah-teh-REE-ah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Oil",
+      "back": "Aceite",
+      "pronunciation": "ah-SEY-teh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Mechanic",
+      "back": "Mecánico",
+      "pronunciation": "meh-KAH-nee-koh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Repair",
+      "back": "Reparación",
+      "pronunciation": "reh-pah-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Maintenance",
+      "back": "Mantenimiento",
+      "pronunciation": "mahn-teh-nee-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Accident",
+      "back": "Accidente",
+      "pronunciation": "ahk-see-DEHN-teh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Crash",
+      "back": "Choque",
+      "pronunciation": "CHOH-keh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Emergency",
+      "back": "Emergencia",
+      "pronunciation": "eh-mehr-HEHN-see-ah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Ambulance",
+      "back": "Ambulancia",
+      "pronunciation": "ahm-boo-LAHN-see-ah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Fire truck",
+      "back": "Camión de bomberos",
+      "pronunciation": "kah-mee-OHN deh bohm-BEH-rohs",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Police car",
+      "back": "Patrulla",
+      "pronunciation": "pah-TROO-yah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Tow truck",
+      "back": "Grúa",
+      "pronunciation": "GROO-ah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Travel",
+      "back": "Viajar",
+      "pronunciation": "vee-ah-HAHR",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Journey",
+      "back": "Viaje",
+      "pronunciation": "vee-AH-heh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Trip",
+      "back": "Excursión",
+      "pronunciation": "ehks-koor-see-OHN",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Destination",
+      "back": "Destino",
+      "pronunciation": "dehs-TEE-noh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Departure",
+      "back": "Salida",
+      "pronunciation": "sah-LEE-dah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Arrival",
+      "back": "Llegada",
+      "pronunciation": "yeh-GAH-dah",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Delay",
+      "back": "Retraso",
+      "pronunciation": "reh-TRAH-soh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "On time",
+      "back": "A tiempo",
+      "pronunciation": "ah tee-EHM-poh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Late",
+      "back": "Tarde",
+      "pronunciation": "TAHR-deh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Early",
+      "back": "Temprano",
+      "pronunciation": "tehm-PRAH-noh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Fast",
+      "back": "Rápido",
+      "pronunciation": "RAH-pee-doh",
+      "type": "vocabulary",
+      "category": "transportation"
+    },
+    {
+      "front": "Slow",
+      "back": "Lento",
+      "pronunciation": "LEHN-toh",
+      "type": "vocabulary",
+      "category": "transportation"
+    }
+  ]
+}

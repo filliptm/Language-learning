@@ -1,0 +1,750 @@
+{
+  "id": "basics",
+  "name": "Basics",
+  "description": "Essential words for beginners",
+  "icon": "🌟",
+  "cards": [
+    {
+      "front": "Hello",
+      "back": "Hola",
+      "pronunciation": "OH-lah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Thank you",
+      "back": "Gracias",
+      "pronunciation": "GRAH-see-ahs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Yes",
+      "back": "Sí",
+      "pronunciation": "see",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "No",
+      "back": "No",
+      "pronunciation": "noh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Please",
+      "back": "Por favor",
+      "pronunciation": "por fah-VOR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Excuse me",
+      "back": "Disculpe",
+      "pronunciation": "dees-KOOL-peh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Sorry",
+      "back": "Lo siento",
+      "pronunciation": "loh see-EHN-toh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "I",
+      "back": "Yo",
+      "pronunciation": "yoh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "You",
+      "back": "Tú",
+      "pronunciation": "too",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "He",
+      "back": "Él",
+      "pronunciation": "ehl",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "She",
+      "back": "Ella",
+      "pronunciation": "EH-yah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "We",
+      "back": "Nosotros",
+      "pronunciation": "noh-SOH-trohs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "They",
+      "back": "Ellos",
+      "pronunciation": "EH-yohs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "What",
+      "back": "Qué",
+      "pronunciation": "keh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Where",
+      "back": "Dónde",
+      "pronunciation": "DOHN-deh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "When",
+      "back": "Cuándo",
+      "pronunciation": "KWAN-doh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Why",
+      "back": "Por qué",
+      "pronunciation": "por keh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "How",
+      "back": "Cómo",
+      "pronunciation": "KOH-moh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Who",
+      "back": "Quién",
+      "pronunciation": "kee-EHN",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "This",
+      "back": "Este",
+      "pronunciation": "EHS-teh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "That",
+      "back": "Eso",
+      "pronunciation": "EH-soh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Here",
+      "back": "Aquí",
+      "pronunciation": "ah-KEE",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "There",
+      "back": "Allí",
+      "pronunciation": "ah-YEE",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Now",
+      "back": "Ahora",
+      "pronunciation": "ah-OH-rah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Today",
+      "back": "Hoy",
+      "pronunciation": "oy",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Tomorrow",
+      "back": "Mañana",
+      "pronunciation": "mah-NYAH-nah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Yesterday",
+      "back": "Ayer",
+      "pronunciation": "ah-YEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Always",
+      "back": "Siempre",
+      "pronunciation": "see-EHM-preh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Never",
+      "back": "Nunca",
+      "pronunciation": "NOON-kah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Maybe",
+      "back": "Tal vez",
+      "pronunciation": "tahl vehs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Very",
+      "back": "Muy",
+      "pronunciation": "mwee",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Little",
+      "back": "Poco",
+      "pronunciation": "POH-koh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Much/Many",
+      "back": "Mucho",
+      "pronunciation": "MOO-choh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "More",
+      "back": "Más",
+      "pronunciation": "mahs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Less",
+      "back": "Menos",
+      "pronunciation": "MEH-nohs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "All",
+      "back": "Todo",
+      "pronunciation": "TOH-doh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Nothing",
+      "back": "Nada",
+      "pronunciation": "NAH-dah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Something",
+      "back": "Algo",
+      "pronunciation": "AHL-goh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Someone",
+      "back": "Alguien",
+      "pronunciation": "AHL-gee-ehn",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Nobody",
+      "back": "Nadie",
+      "pronunciation": "NAH-dee-eh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "And",
+      "back": "Y",
+      "pronunciation": "ee",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Or",
+      "back": "O",
+      "pronunciation": "oh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "But",
+      "back": "Pero",
+      "pronunciation": "PEH-roh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "With",
+      "back": "Con",
+      "pronunciation": "kohn",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Without",
+      "back": "Sin",
+      "pronunciation": "seen",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "For",
+      "back": "Para",
+      "pronunciation": "PAH-rah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "From",
+      "back": "De",
+      "pronunciation": "deh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "To",
+      "back": "A",
+      "pronunciation": "ah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "In",
+      "back": "En",
+      "pronunciation": "ehn",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "On",
+      "back": "Sobre",
+      "pronunciation": "SOH-breh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Under",
+      "back": "Debajo",
+      "pronunciation": "deh-BAH-hoh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Above",
+      "back": "Arriba",
+      "pronunciation": "ah-RREE-bah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Below",
+      "back": "Abajo",
+      "pronunciation": "ah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Before",
+      "back": "Antes",
+      "pronunciation": "AHN-tehs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "After",
+      "back": "Después",
+      "pronunciation": "dehs-PWEHS",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Right",
+      "back": "Derecha",
+      "pronunciation": "deh-REH-chah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Left",
+      "back": "Izquierda",
+      "pronunciation": "ees-kee-EHR-dah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Up",
+      "back": "Arriba",
+      "pronunciation": "ah-RREE-bah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Down",
+      "back": "Abajo",
+      "pronunciation": "ah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Near",
+      "back": "Cerca",
+      "pronunciation": "SEHR-kah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Far",
+      "back": "Lejos",
+      "pronunciation": "LEH-hohs",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "First",
+      "back": "Primero",
+      "pronunciation": "pree-MEH-roh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Last",
+      "back": "Último",
+      "pronunciation": "OOL-tee-moh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Next",
+      "back": "Próximo",
+      "pronunciation": "PROHK-see-moh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Same",
+      "back": "Mismo",
+      "pronunciation": "MEES-moh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Different",
+      "back": "Diferente",
+      "pronunciation": "dee-feh-REHN-teh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Easy",
+      "back": "Fácil",
+      "pronunciation": "FAH-seel",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Difficult",
+      "back": "Difícil",
+      "pronunciation": "dee-FEE-seel",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Important",
+      "back": "Importante",
+      "pronunciation": "eem-por-TAHN-teh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Necessary",
+      "back": "Necesario",
+      "pronunciation": "neh-seh-SAH-ree-oh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Possible",
+      "back": "Posible",
+      "pronunciation": "poh-SEE-bleh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Impossible",
+      "back": "Imposible",
+      "pronunciation": "eem-poh-SEE-bleh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "True",
+      "back": "Verdad",
+      "pronunciation": "vehr-DAHD",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "False",
+      "back": "Falso",
+      "pronunciation": "FAHL-soh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Right (correct)",
+      "back": "Correcto",
+      "pronunciation": "koh-RREHK-toh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Wrong",
+      "back": "Incorrecto",
+      "pronunciation": "een-koh-RREHK-toh",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Better",
+      "back": "Mejor",
+      "pronunciation": "meh-HOHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Worse",
+      "back": "Peor",
+      "pronunciation": "peh-OHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Best",
+      "back": "El mejor",
+      "pronunciation": "ehl meh-HOHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Worst",
+      "back": "El peor",
+      "pronunciation": "ehl peh-OHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Can",
+      "back": "Poder",
+      "pronunciation": "poh-DEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Cannot",
+      "back": "No poder",
+      "pronunciation": "noh poh-DEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Must",
+      "back": "Deber",
+      "pronunciation": "deh-BEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Should",
+      "back": "Debería",
+      "pronunciation": "deh-beh-REE-ah",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Want",
+      "back": "Querer",
+      "pronunciation": "keh-REHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Need",
+      "back": "Necesitar",
+      "pronunciation": "neh-seh-see-TAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Like",
+      "back": "Gustar",
+      "pronunciation": "goos-TAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Love",
+      "back": "Amar",
+      "pronunciation": "ah-MAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Hate",
+      "back": "Odiar",
+      "pronunciation": "oh-dee-AHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Know",
+      "back": "Saber",
+      "pronunciation": "sah-BEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Understand",
+      "back": "Entender",
+      "pronunciation": "ehn-tehn-DEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Think",
+      "back": "Pensar",
+      "pronunciation": "pehn-SAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Believe",
+      "back": "Creer",
+      "pronunciation": "kreh-EHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Remember",
+      "back": "Recordar",
+      "pronunciation": "reh-kor-DAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Forget",
+      "back": "Olvidar",
+      "pronunciation": "ohl-vee-DAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Learn",
+      "back": "Aprender",
+      "pronunciation": "ah-prehn-DEHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Teach",
+      "back": "Enseñar",
+      "pronunciation": "ehn-seh-NYAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Help",
+      "back": "Ayudar",
+      "pronunciation": "ah-yoo-DAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Start",
+      "back": "Empezar",
+      "pronunciation": "ehm-peh-SAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Stop",
+      "back": "Parar",
+      "pronunciation": "pah-RAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Finish",
+      "back": "Terminar",
+      "pronunciation": "tehr-mee-NAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Continue",
+      "back": "Continuar",
+      "pronunciation": "kohn-tee-noo-AHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Try",
+      "back": "Intentar",
+      "pronunciation": "een-tehn-TAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Work",
+      "back": "Trabajar",
+      "pronunciation": "trah-bah-HAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Play",
+      "back": "Jugar",
+      "pronunciation": "hoo-GAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    },
+    {
+      "front": "Rest",
+      "back": "Descansar",
+      "pronunciation": "dehs-kahn-SAHR",
+      "type": "vocabulary",
+      "category": "basics"
+    }
+  ]
+}

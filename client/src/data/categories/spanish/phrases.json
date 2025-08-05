@@ -1,0 +1,771 @@
+{
+  "id": "phrases",
+  "name": "Phrases",
+  "description": "Common expressions",
+  "icon": "💬",
+  "cards": [
+    {
+      "front": "Good morning",
+      "back": "Buenos días",
+      "pronunciation": "BWAY-nohs DEE-ahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good afternoon",
+      "back": "Buenas tardes",
+      "pronunciation": "BWAY-nahs TAHR-dehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good night",
+      "back": "Buenas noches",
+      "pronunciation": "BWAY-nahs NOH-chehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Hello",
+      "back": "Hola",
+      "pronunciation": "OH-lah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Goodbye",
+      "back": "Adiós",
+      "pronunciation": "ah-dee-OHS",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "See you soon",
+      "back": "Hasta pronto",
+      "pronunciation": "AHS-tah PROHN-toh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "See you later",
+      "back": "Nos vemos",
+      "pronunciation": "nohs VEH-mohs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "See you tomorrow",
+      "back": "Hasta mañana",
+      "pronunciation": "AHS-tah mah-NYAH-nah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How are you?",
+      "back": "¿Cómo estás?",
+      "pronunciation": "KOH-moh ehs-TAHS",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How's it going?",
+      "back": "¿Cómo te va?",
+      "pronunciation": "KOH-moh teh vah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's up?",
+      "back": "¿Qué tal?",
+      "pronunciation": "keh tahl",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's new?",
+      "back": "¿Qué hay de nuevo?",
+      "pronunciation": "keh ahy deh NWAY-voh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Fine, thanks",
+      "back": "Bien, gracias",
+      "pronunciation": "bee-ehn GRAH-see-ahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Very well",
+      "back": "Muy bien",
+      "pronunciation": "moy bee-ehn",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "So-so",
+      "back": "Más o menos",
+      "pronunciation": "mahs oh MEH-nohs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Please",
+      "back": "Por favor",
+      "pronunciation": "pohr fah-VOHR",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Thank you",
+      "back": "Gracias",
+      "pronunciation": "GRAH-see-ahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Thank you very much",
+      "back": "Muchas gracias",
+      "pronunciation": "MOO-chahs GRAH-see-ahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "You're welcome",
+      "back": "De nada",
+      "pronunciation": "deh NAH-dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Excuse me",
+      "back": "Disculpe",
+      "pronunciation": "dees-KOOL-peh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm sorry",
+      "back": "Lo siento",
+      "pronunciation": "loh see-EHN-toh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "My apologies",
+      "back": "Mis disculpas",
+      "pronunciation": "mees dees-KOOL-pahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "No problem",
+      "back": "No hay problema",
+      "pronunciation": "noh ahy proh-BLEH-mah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's okay",
+      "back": "Está bien",
+      "pronunciation": "ehs-TAH bee-ehn",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's your name?",
+      "back": "¿Cómo te llamas?",
+      "pronunciation": "KOH-moh teh YAH-mahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "My name is...",
+      "back": "Me llamo...",
+      "pronunciation": "meh YAH-moh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Nice to meet you",
+      "back": "Mucho gusto",
+      "pronunciation": "MOO-choh GOOS-toh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where are you from?",
+      "back": "¿De dónde eres?",
+      "pronunciation": "deh DOHN-deh EH-rehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm from...",
+      "back": "Soy de...",
+      "pronunciation": "soy deh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How old are you?",
+      "back": "¿Cuántos años tienes?",
+      "pronunciation": "KWAN-tohs AH-nyohs tee-EH-nehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I am... years old",
+      "back": "Tengo... años",
+      "pronunciation": "TEHN-goh AH-nyohs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Do you speak English?",
+      "back": "¿Hablas inglés?",
+      "pronunciation": "AH-blahs een-GLEHS",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I speak Spanish",
+      "back": "Hablo español",
+      "pronunciation": "AH-bloh ehs-pah-NYOHL",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't understand",
+      "back": "No entiendo",
+      "pronunciation": "noh ehn-tee-EHN-doh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't speak Spanish well",
+      "back": "No hablo bien español",
+      "pronunciation": "noh AH-bloh bee-ehn ehs-pah-NYOHL",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can you repeat that?",
+      "back": "¿Puedes repetir eso?",
+      "pronunciation": "PWAY-dehs reh-peh-TEER EH-soh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Speak more slowly",
+      "back": "Habla más despacio",
+      "pronunciation": "AH-blah mahs dehs-PAH-see-oh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What does that mean?",
+      "back": "¿Qué significa eso?",
+      "pronunciation": "keh sig-nee-FEE-kah EH-soh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How do you say...?",
+      "back": "¿Cómo se dice...?",
+      "pronunciation": "KOH-moh seh DEE-seh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I need help",
+      "back": "Necesito ayuda",
+      "pronunciation": "neh-seh-SEE-toh ah-YOO-dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can you help me?",
+      "back": "¿Me puedes ayudar?",
+      "pronunciation": "meh PWAY-dehs ah-yoo-DAHR",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where is...?",
+      "back": "¿Dónde está...?",
+      "pronunciation": "DOHN-deh ehs-TAH",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How much does it cost?",
+      "back": "¿Cuánto cuesta?",
+      "pronunciation": "KWAN-toh KWEH-stah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What time is it?",
+      "back": "¿Qué hora es?",
+      "pronunciation": "keh OH-rah ehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm hungry",
+      "back": "Tengo hambre",
+      "pronunciation": "TEHN-goh AHM-breh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm thirsty",
+      "back": "Tengo sed",
+      "pronunciation": "TEHN-goh sehd",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm tired",
+      "back": "Estoy cansado/a",
+      "pronunciation": "ehs-TOY kahn-SAH-doh/dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm happy",
+      "back": "Estoy feliz",
+      "pronunciation": "ehs-TOY feh-LEES",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm sad",
+      "back": "Estoy triste",
+      "pronunciation": "ehs-TOY TREES-teh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm excited",
+      "back": "Estoy emocionado/a",
+      "pronunciation": "ehs-TOY eh-moh-see-oh-NAH-doh/dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm bored",
+      "back": "Estoy aburrido/a",
+      "pronunciation": "ehs-TOY ah-boo-RREE-doh/dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I like it",
+      "back": "Me gusta",
+      "pronunciation": "meh GOOS-tah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't like it",
+      "back": "No me gusta",
+      "pronunciation": "noh meh GOOS-tah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I love it",
+      "back": "Me encanta",
+      "pronunciation": "meh ehn-KAHN-tah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That's great!",
+      "back": "¡Qué bueno!",
+      "pronunciation": "keh BWAY-noh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Cool! (Mexican)",
+      "back": "¡Qué padre!",
+      "pronunciation": "keh PAH-dreh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Awesome! (Mexican)",
+      "back": "¡Está padrísimo!",
+      "pronunciation": "ehs-TAH pah-DREE-see-moh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "That's terrible",
+      "back": "Qué terrible",
+      "pronunciation": "keh teh-RREE-bleh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I agree",
+      "back": "Estoy de acuerdo",
+      "pronunciation": "ehs-TOY deh ah-KWEHR-doh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I disagree",
+      "back": "No estoy de acuerdo",
+      "pronunciation": "noh ehs-TOY deh ah-KWEHR-doh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "You're right",
+      "back": "Tienes razón",
+      "pronunciation": "tee-EH-nehs rah-SOHN",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "You're wrong",
+      "back": "Estás equivocado/a",
+      "pronunciation": "ehs-TAHS eh-kee-voh-KAH-doh/dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Maybe",
+      "back": "Tal vez",
+      "pronunciation": "tahl vehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Of course",
+      "back": "Por supuesto",
+      "pronunciation": "pohr soo-PWEH-stoh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Never mind",
+      "back": "No importa",
+      "pronunciation": "noh eem-POHR-tah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It doesn't matter",
+      "back": "No importa",
+      "pronunciation": "noh eem-POHR-tah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What a shame!",
+      "back": "¡Qué lástima!",
+      "pronunciation": "keh LAHS-tee-mah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Congratulations!",
+      "back": "¡Felicidades!",
+      "pronunciation": "feh-lee-see-DAH-dehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Good luck!",
+      "back": "¡Buena suerte!",
+      "pronunciation": "BWAY-nah SWEHR-teh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Take care",
+      "back": "Cuídate",
+      "pronunciation": "KWEE-dah-teh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Have a good day",
+      "back": "Que tengas buen día",
+      "pronunciation": "keh TEHN-gahs bwehn DEE-ah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Enjoy your meal",
+      "back": "Buen provecho",
+      "pronunciation": "bwehn proh-VEH-choh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Cheers!",
+      "back": "¡Salud!",
+      "pronunciation": "sah-LOOD",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Bless you",
+      "back": "Salud",
+      "pronunciation": "sah-LOOD",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's the weather like?",
+      "back": "¿Cómo está el tiempo?",
+      "pronunciation": "KOH-moh ehs-TAH ehl tee-EHM-poh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's raining",
+      "back": "Está lloviendo",
+      "pronunciation": "ehs-TAH yoh-vee-EHN-doh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's sunny",
+      "back": "Está soleado",
+      "pronunciation": "ehs-TAH soh-leh-AH-doh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's cold",
+      "back": "Hace frío",
+      "pronunciation": "AH-seh FREE-oh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's hot",
+      "back": "Hace calor",
+      "pronunciation": "AH-seh kah-LOHR",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where's the bathroom?",
+      "back": "¿Dónde está el baño?",
+      "pronunciation": "DOHN-deh ehs-TAH ehl BAH-nyoh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm looking for...",
+      "back": "Estoy buscando...",
+      "pronunciation": "ehs-TOY boos-KAHN-doh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can I have the check?",
+      "back": "¿Me trae la cuenta?",
+      "pronunciation": "meh TRAH-eh lah KWEHN-tah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'd like to order",
+      "back": "Quisiera ordenar",
+      "pronunciation": "kee-see-EH-rah ohr-deh-NAHR",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "The food is delicious",
+      "back": "La comida está deliciosa",
+      "pronunciation": "lah koh-MEE-dah ehs-TAH deh-lee-see-OH-sah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm allergic to...",
+      "back": "Soy alérgico/a a...",
+      "pronunciation": "soy ah-LEHR-hee-koh/kah ah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Where can I buy...?",
+      "back": "¿Dónde puedo comprar...?",
+      "pronunciation": "DOHN-deh PWEH-doh kohm-PRAHR",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How much is this?",
+      "back": "¿Cuánto cuesta esto?",
+      "pronunciation": "KWAN-toh KWEH-stah EHS-toh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "It's too expensive",
+      "back": "Es muy caro",
+      "pronunciation": "ehs moy KAH-roh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Can you give me a discount?",
+      "back": "¿Me puede hacer un descuento?",
+      "pronunciation": "meh PWEH-deh ah-SEHR oon dehs-KWEHN-toh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I need a taxi",
+      "back": "Necesito un taxi",
+      "pronunciation": "neh-seh-SEE-toh oon TAHK-see",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "How do I get to...?",
+      "back": "¿Cómo llego a...?",
+      "pronunciation": "KOH-moh YEH-goh ah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Turn left",
+      "back": "Gira a la izquierda",
+      "pronunciation": "HEE-rah ah lah ees-kee-EHR-dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Turn right",
+      "back": "Gira a la derecha",
+      "pronunciation": "HEE-rah ah lah deh-REH-chah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Go straight",
+      "back": "Sigue derecho",
+      "pronunciation": "SEE-geh deh-REH-choh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I'm lost",
+      "back": "Estoy perdido/a",
+      "pronunciation": "ehs-TOY pehr-DEE-doh/dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Call the police",
+      "back": "Llama a la policía",
+      "pronunciation": "YAH-mah ah lah poh-lee-SEE-ah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I need a doctor",
+      "back": "Necesito un doctor",
+      "pronunciation": "neh-seh-SEE-toh oon dohk-TOHR",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Help!",
+      "back": "¡Ayuda!",
+      "pronunciation": "ah-YOO-dah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What happened?",
+      "back": "¿Qué pasó?",
+      "pronunciation": "keh pah-SOH",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I don't feel well",
+      "back": "No me siento bien",
+      "pronunciation": "noh meh see-EHN-toh bee-ehn",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Leave me alone",
+      "back": "Déjame en paz",
+      "pronunciation": "DEH-hah-meh ehn pahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Mind your own business",
+      "back": "No te metas",
+      "pronunciation": "noh teh MEH-tahs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "What's wrong?",
+      "back": "¿Qué pasa?",
+      "pronunciation": "keh PAH-sah",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Are you okay?",
+      "back": "¿Estás bien?",
+      "pronunciation": "ehs-TAHS bee-ehn",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Don't worry",
+      "back": "No te preocupes",
+      "pronunciation": "noh teh preh-oh-KOO-pehs",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Relax",
+      "back": "Relájate",
+      "pronunciation": "reh-LAH-hah-teh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I miss you",
+      "back": "Te extraño",
+      "pronunciation": "teh eks-TRAH-nyoh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "I love you",
+      "back": "Te amo",
+      "pronunciation": "teh AH-moh",
+      "type": "phrase",
+      "category": "phrases"
+    },
+    {
+      "front": "Happy birthday!",
+      "back": "¡Feliz cumpleaños!",
+      "pronunciation": "feh-LEES koom-pleh-AH-nyohs",
+      "type": "phrase",
+      "category": "phrases"
+    }
+  ]
+}

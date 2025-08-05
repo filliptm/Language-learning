@@ -1,0 +1,792 @@
+{
+  "id": "household",
+  "name": "Household Items",
+  "description": "Items found in the home",
+  "icon": "🏠",
+  "cards": [
+    {
+      "front": "House",
+      "back": "Casa",
+      "pronunciation": "KAH-sah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Home",
+      "back": "Hogar",
+      "pronunciation": "oh-GAHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Room",
+      "back": "Habitación",
+      "pronunciation": "ah-bee-tah-see-OHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Kitchen",
+      "back": "Cocina",
+      "pronunciation": "koh-SEE-nah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Living room",
+      "back": "Sala",
+      "pronunciation": "SAH-lah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bedroom",
+      "back": "Dormitorio",
+      "pronunciation": "dohr-mee-TOH-ree-oh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bathroom",
+      "back": "Baño",
+      "pronunciation": "BAH-nyoh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dining room",
+      "back": "Comedor",
+      "pronunciation": "koh-meh-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Office",
+      "back": "Oficina",
+      "pronunciation": "oh-fee-SEE-nah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Garage",
+      "back": "Garaje",
+      "pronunciation": "gah-RAH-heh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Basement",
+      "back": "Sótano",
+      "pronunciation": "SOH-tah-noh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Attic",
+      "back": "Ático",
+      "pronunciation": "AH-tee-koh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Balcony",
+      "back": "Balcón",
+      "pronunciation": "bahl-KOHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Garden",
+      "back": "Jardín",
+      "pronunciation": "hahr-DEEN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Yard",
+      "back": "Patio",
+      "pronunciation": "PAH-tee-oh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Door",
+      "back": "Puerta",
+      "pronunciation": "PWEHR-tah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Window",
+      "back": "Ventana",
+      "pronunciation": "vehn-TAH-nah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Wall",
+      "back": "Pared",
+      "pronunciation": "pah-REHD",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Floor",
+      "back": "Suelo",
+      "pronunciation": "SWEH-loh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Ceiling",
+      "back": "Techo",
+      "pronunciation": "TEH-choh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Roof",
+      "back": "Tejado",
+      "pronunciation": "teh-HAH-doh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Stairs",
+      "back": "Escaleras",
+      "pronunciation": "ehs-kah-LEH-rahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Table",
+      "back": "Mesa",
+      "pronunciation": "MEH-sah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Chair",
+      "back": "Silla",
+      "pronunciation": "SEE-yah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Sofa",
+      "back": "Sofá",
+      "pronunciation": "soh-FAH",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Armchair",
+      "back": "Sillón",
+      "pronunciation": "see-YOHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bed",
+      "back": "Cama",
+      "pronunciation": "KAH-mah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Pillow",
+      "back": "Almohada",
+      "pronunciation": "ahl-moh-AH-dah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Blanket",
+      "back": "Manta",
+      "pronunciation": "MAHN-tah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Sheet",
+      "back": "Sábana",
+      "pronunciation": "SAH-bah-nah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Mattress",
+      "back": "Colchón",
+      "pronunciation": "kohl-CHOHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dresser",
+      "back": "Cómoda",
+      "pronunciation": "KOH-moh-dah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Wardrobe",
+      "back": "Armario",
+      "pronunciation": "ahr-MAH-ree-oh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Closet",
+      "back": "Clóset",
+      "pronunciation": "KLOH-seht",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Mirror",
+      "back": "Espejo",
+      "pronunciation": "ehs-PEH-hoh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Lamp",
+      "back": "Lámpara",
+      "pronunciation": "LAHM-pah-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Light",
+      "back": "Luz",
+      "pronunciation": "loos",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Television",
+      "back": "Televisión",
+      "pronunciation": "teh-leh-vee-see-OHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Computer",
+      "back": "Computadora",
+      "pronunciation": "kohm-poo-tah-DOH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Phone",
+      "back": "Teléfono",
+      "pronunciation": "teh-LEH-foh-noh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Radio",
+      "back": "Radio",
+      "pronunciation": "RAH-dee-oh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Clock",
+      "back": "Reloj",
+      "pronunciation": "reh-LOHH",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Calendar",
+      "back": "Calendario",
+      "pronunciation": "kah-lehn-DAH-ree-oh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Picture",
+      "back": "Cuadro",
+      "pronunciation": "KWAH-droh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Painting",
+      "back": "Pintura",
+      "pronunciation": "peen-TOO-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Vase",
+      "back": "Florero",
+      "pronunciation": "floh-REH-roh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Curtains",
+      "back": "Cortinas",
+      "pronunciation": "kohr-TEE-nahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Blinds",
+      "back": "Persianas",
+      "pronunciation": "pehr-see-AH-nahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Carpet",
+      "back": "Alfombra",
+      "pronunciation": "ahl-FOHM-brah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Rug",
+      "back": "Tapete",
+      "pronunciation": "tah-PEH-teh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Refrigerator",
+      "back": "Refrigerador",
+      "pronunciation": "reh-free-heh-rah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Stove",
+      "back": "Estufa",
+      "pronunciation": "ehs-TOO-fah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Oven",
+      "back": "Horno",
+      "pronunciation": "OHR-noh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Microwave",
+      "back": "Microondas",
+      "pronunciation": "mee-kroh-OHN-dahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dishwasher",
+      "back": "Lavavajillas",
+      "pronunciation": "lah-vah-vah-HEE-yahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Washing machine",
+      "back": "Lavadora",
+      "pronunciation": "lah-vah-DOH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dryer",
+      "back": "Secadora",
+      "pronunciation": "seh-kah-DOH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Iron",
+      "back": "Plancha",
+      "pronunciation": "PLAHN-chah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Vacuum cleaner",
+      "back": "Aspiradora",
+      "pronunciation": "ahs-pee-rah-DOH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Broom",
+      "back": "Escoba",
+      "pronunciation": "ehs-KOH-bah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Mop",
+      "back": "Trapeador",
+      "pronunciation": "trah-peh-ah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dustpan",
+      "back": "Recogedor",
+      "pronunciation": "reh-koh-heh-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Trash can",
+      "back": "Bote de basura",
+      "pronunciation": "BOH-teh deh bah-SOO-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Sink",
+      "back": "Fregadero",
+      "pronunciation": "freh-gah-DEH-roh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Faucet",
+      "back": "Grifo",
+      "pronunciation": "GREE-foh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Toilet",
+      "back": "Inodoro",
+      "pronunciation": "ee-noh-DOH-roh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Shower",
+      "back": "Ducha",
+      "pronunciation": "DOO-chah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bathtub",
+      "back": "Bañera",
+      "pronunciation": "bah-NYEH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Towel",
+      "back": "Toalla",
+      "pronunciation": "toh-AH-yah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Soap",
+      "back": "Jabón",
+      "pronunciation": "hah-BOHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Shampoo",
+      "back": "Champú",
+      "pronunciation": "chahm-POO",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Toothbrush",
+      "back": "Cepillo de dientes",
+      "pronunciation": "seh-PEE-yoh deh dee-EHN-tehs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Toothpaste",
+      "back": "Pasta de dientes",
+      "pronunciation": "PAHS-tah deh dee-EHN-tehs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Dish",
+      "back": "Plato",
+      "pronunciation": "PLAH-toh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bowl",
+      "back": "Tazón",
+      "pronunciation": "tah-SOHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Cup",
+      "back": "Taza",
+      "pronunciation": "TAH-sah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Glass",
+      "back": "Vaso",
+      "pronunciation": "BAH-soh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Fork",
+      "back": "Tenedor",
+      "pronunciation": "teh-neh-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Knife",
+      "back": "Cuchillo",
+      "pronunciation": "koo-CHEE-yoh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Spoon",
+      "back": "Cuchara",
+      "pronunciation": "koo-CHAH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Plate",
+      "back": "Plato",
+      "pronunciation": "PLAH-toh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Napkin",
+      "back": "Servilleta",
+      "pronunciation": "sehr-vee-YEH-tah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Pot",
+      "back": "Olla",
+      "pronunciation": "OH-yah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Pan",
+      "back": "Sartén",
+      "pronunciation": "sahr-TEHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Kettle",
+      "back": "Tetera",
+      "pronunciation": "teh-TEH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Cutting board",
+      "back": "Tabla de cortar",
+      "pronunciation": "TAH-blah deh kohr-TAHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Can opener",
+      "back": "Abrelatas",
+      "pronunciation": "ah-breh-LAH-tahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Bottle opener",
+      "back": "Destapador",
+      "pronunciation": "dehs-tah-pah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Blender",
+      "back": "Licuadora",
+      "pronunciation": "lee-kwah-DOH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Coffee maker",
+      "back": "Cafetera",
+      "pronunciation": "kah-feh-TEH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Toaster",
+      "back": "Tostadora",
+      "pronunciation": "tohs-tah-DOH-rah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Food processor",
+      "back": "Procesador de alimentos",
+      "pronunciation": "proh-seh-sah-DOHR deh ah-lee-MEHN-tohs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Scale",
+      "back": "Báscula",
+      "pronunciation": "BAHS-koo-lah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Timer",
+      "back": "Temporizador",
+      "pronunciation": "tehm-poh-ree-sah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Candle",
+      "back": "Vela",
+      "pronunciation": "VEH-lah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Matches",
+      "back": "Fósforos",
+      "pronunciation": "FOHS-foh-rohs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Lighter",
+      "back": "Encendedor",
+      "pronunciation": "ehn-sehn-deh-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Air conditioner",
+      "back": "Aire acondicionado",
+      "pronunciation": "AH-ee-reh ah-kohn-dee-see-oh-NAH-doh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Heater",
+      "back": "Calentador",
+      "pronunciation": "kah-lehn-tah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Fan",
+      "back": "Ventilador",
+      "pronunciation": "vehn-tee-lah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Remote control",
+      "back": "Control remoto",
+      "pronunciation": "kohn-TROHL reh-MOH-toh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Battery",
+      "back": "Batería",
+      "pronunciation": "bah-teh-REE-ah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Extension cord",
+      "back": "Cable de extensión",
+      "pronunciation": "KAH-bleh deh ehks-tehn-see-OHN",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Plug",
+      "back": "Enchufe",
+      "pronunciation": "ehn-CHOO-feh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Switch",
+      "back": "Interruptor",
+      "pronunciation": "een-teh-rrroop-TOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Flashlight",
+      "back": "Linterna",
+      "pronunciation": "leen-TEHR-nah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Toolbox",
+      "back": "Caja de herramientas",
+      "pronunciation": "KAH-hah deh eh-rrah-mee-EHN-tahs",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Hammer",
+      "back": "Martillo",
+      "pronunciation": "mahr-TEE-yoh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Screwdriver",
+      "back": "Destornillador",
+      "pronunciation": "dehs-tohr-nee-yah-DOHR",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Wrench",
+      "back": "Llave inglesa",
+      "pronunciation": "YAH-veh een-GLEH-sah",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Nail",
+      "back": "Clavo",
+      "pronunciation": "KLAH-voh",
+      "type": "vocabulary",
+      "category": "household"
+    },
+    {
+      "front": "Screw",
+      "back": "Tornillo",
+      "pronunciation": "tohr-NEE-yoh",
+      "type": "vocabulary",
+      "category": "household"
+    }
+  ]
+}

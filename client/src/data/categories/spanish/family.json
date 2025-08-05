@@ -1,0 +1,743 @@
+{
+  "id": "family",
+  "name": "Family",
+  "description": "Family members and relationships",
+  "icon": "👨‍👩‍👧‍👦",
+  "cards": [
+    {
+      "front": "Family",
+      "back": "Familia",
+      "pronunciation": "fah-MEE-lee-ah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Parents",
+      "back": "Padres",
+      "pronunciation": "PAH-drehs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Father",
+      "back": "Padre",
+      "pronunciation": "PAH-dreh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Mother",
+      "back": "Madre",
+      "pronunciation": "MAH-dreh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Dad",
+      "back": "Papá",
+      "pronunciation": "pah-PAH",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Mom",
+      "back": "Mamá",
+      "pronunciation": "mah-MAH",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Son",
+      "back": "Hijo",
+      "pronunciation": "EE-hoh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Daughter",
+      "back": "Hija",
+      "pronunciation": "EE-hah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Children",
+      "back": "Hijos",
+      "pronunciation": "EE-hohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Brother",
+      "back": "Hermano",
+      "pronunciation": "ehr-MAH-noh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Sister",
+      "back": "Hermana",
+      "pronunciation": "ehr-MAH-nah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Siblings",
+      "back": "Hermanos",
+      "pronunciation": "ehr-MAH-nohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandfather",
+      "back": "Abuelo",
+      "pronunciation": "ah-BWAY-loh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandmother",
+      "back": "Abuela",
+      "pronunciation": "ah-BWAY-lah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandparents",
+      "back": "Abuelos",
+      "pronunciation": "ah-BWAY-lohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Uncle",
+      "back": "Tío",
+      "pronunciation": "TEE-oh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Aunt",
+      "back": "Tía",
+      "pronunciation": "TEE-ah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Cousin (male)",
+      "back": "Primo",
+      "pronunciation": "PREE-moh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Cousin (female)",
+      "back": "Prima",
+      "pronunciation": "PREE-mah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Nephew",
+      "back": "Sobrino",
+      "pronunciation": "soh-BREE-noh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Niece",
+      "back": "Sobrina",
+      "pronunciation": "soh-BREE-nah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Husband",
+      "back": "Esposo",
+      "pronunciation": "ehs-POH-soh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Wife",
+      "back": "Esposa",
+      "pronunciation": "ehs-POH-sah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Spouse",
+      "back": "Cónyuge",
+      "pronunciation": "KOHN-yoo-heh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Boyfriend",
+      "back": "Novio",
+      "pronunciation": "NOH-vee-oh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Girlfriend",
+      "back": "Novia",
+      "pronunciation": "NOH-vee-ah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Fiancé",
+      "back": "Prometido",
+      "pronunciation": "proh-meh-TEE-doh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Fiancée",
+      "back": "Prometida",
+      "pronunciation": "proh-meh-TEE-dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Son-in-law",
+      "back": "Yerno",
+      "pronunciation": "YEHR-noh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Daughter-in-law",
+      "back": "Nuera",
+      "pronunciation": "NWAY-rah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Father-in-law",
+      "back": "Suegro",
+      "pronunciation": "SWAY-groh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Mother-in-law",
+      "back": "Suegra",
+      "pronunciation": "SWAY-grah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Brother-in-law",
+      "back": "Cuñado",
+      "pronunciation": "koo-NYAH-doh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Sister-in-law",
+      "back": "Cuñada",
+      "pronunciation": "koo-NYAH-dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepfather",
+      "back": "Padrastro",
+      "pronunciation": "pah-DRAHS-troh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepmother",
+      "back": "Madrastra",
+      "pronunciation": "mah-DRAHS-trah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepson",
+      "back": "Hijastro",
+      "pronunciation": "ee-HAHS-troh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Stepdaughter",
+      "back": "Hijastra",
+      "pronunciation": "ee-HAHS-trah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Half-brother",
+      "back": "Medio hermano",
+      "pronunciation": "MEH-dee-oh ehr-MAH-noh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Half-sister",
+      "back": "Media hermana",
+      "pronunciation": "MEH-dee-ah ehr-MAH-nah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Godfather",
+      "back": "Padrino",
+      "pronunciation": "pah-DREE-noh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Godmother",
+      "back": "Madrina",
+      "pronunciation": "mah-DREE-nah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Godson",
+      "back": "Ahijado",
+      "pronunciation": "ah-ee-HAH-doh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Goddaughter",
+      "back": "Ahijada",
+      "pronunciation": "ah-ee-HAH-dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Great-grandfather",
+      "back": "Bisabuelo",
+      "pronunciation": "bee-sah-BWAY-loh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Great-grandmother",
+      "back": "Bisabuela",
+      "pronunciation": "bee-sah-BWAY-lah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Great-grandchildren",
+      "back": "Bisnietos",
+      "pronunciation": "bees-nee-EH-tohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandson",
+      "back": "Nieto",
+      "pronunciation": "nee-EH-toh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Granddaughter",
+      "back": "Nieta",
+      "pronunciation": "nee-EH-tah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Grandchildren",
+      "back": "Nietos",
+      "pronunciation": "nee-EH-tohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Baby",
+      "back": "Bebé",
+      "pronunciation": "beh-BEH",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Child",
+      "back": "Niño/a",
+      "pronunciation": "NEE-nyoh/nyah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Teenager",
+      "back": "Adolescente",
+      "pronunciation": "ah-doh-lehs-SEHN-teh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Adult",
+      "back": "Adulto",
+      "pronunciation": "ah-DOOL-toh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Elder",
+      "back": "Anciano",
+      "pronunciation": "ahn-see-AH-noh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Twin",
+      "back": "Gemelo/a",
+      "pronunciation": "heh-MEH-loh/lah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Twins",
+      "back": "Gemelos",
+      "pronunciation": "heh-MEH-lohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Triplets",
+      "back": "Trillizos",
+      "pronunciation": "tree-YEE-sohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Only child",
+      "back": "Hijo único",
+      "pronunciation": "EE-hoh OO-nee-koh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Oldest",
+      "back": "El mayor",
+      "pronunciation": "ehl mah-YOHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Youngest",
+      "back": "El menor",
+      "pronunciation": "ehl meh-NOHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Middle child",
+      "back": "Hijo del medio",
+      "pronunciation": "EE-hoh dehl MEH-dee-oh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Married",
+      "back": "Casado/a",
+      "pronunciation": "kah-SAH-doh/dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Single",
+      "back": "Soltero/a",
+      "pronunciation": "sohl-TEH-roh/rah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Divorced",
+      "back": "Divorciado/a",
+      "pronunciation": "dee-vohr-see-AH-doh/dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Widowed",
+      "back": "Viudo/a",
+      "pronunciation": "vee-OO-doh/dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Engaged",
+      "back": "Comprometido/a",
+      "pronunciation": "kohm-proh-meh-TEE-doh/dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Separated",
+      "back": "Separado/a",
+      "pronunciation": "seh-pah-RAH-doh/dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Wedding",
+      "back": "Boda",
+      "pronunciation": "BOH-dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Marriage",
+      "back": "Matrimonio",
+      "pronunciation": "mah-tree-MOH-nee-oh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Divorce",
+      "back": "Divorcio",
+      "pronunciation": "dee-VOHR-see-oh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Birth",
+      "back": "Nacimiento",
+      "pronunciation": "nah-see-mee-EHN-toh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Death",
+      "back": "Muerte",
+      "pronunciation": "MWAHR-teh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Funeral",
+      "back": "Funeral",
+      "pronunciation": "foo-neh-RAHL",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Anniversary",
+      "back": "Aniversario",
+      "pronunciation": "ah-nee-vehr-SAH-ree-oh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Birthday",
+      "back": "Cumpleaños",
+      "pronunciation": "koom-pleh-AH-nyohs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Christening",
+      "back": "Bautizo",
+      "pronunciation": "bah-oo-TEE-soh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "First communion",
+      "back": "Primera comunión",
+      "pronunciation": "pree-MEH-rah koh-moo-nee-OHN",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Graduation",
+      "back": "Graduación",
+      "pronunciation": "grah-doo-ah-see-OHN",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Relatives",
+      "back": "Parientes",
+      "pronunciation": "pah-ree-EHN-tehs",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family tree",
+      "back": "Árbol genealógico",
+      "pronunciation": "AHR-bohl heh-neh-ah-LOH-hee-koh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Generation",
+      "back": "Generación",
+      "pronunciation": "heh-neh-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Ancestor",
+      "back": "Antepasado",
+      "pronunciation": "ahn-teh-pah-SAH-doh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Descendant",
+      "back": "Descendiente",
+      "pronunciation": "dehs-sehn-dee-EHN-teh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Heritage",
+      "back": "Herencia",
+      "pronunciation": "eh-REHN-see-ah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Tradition",
+      "back": "Tradición",
+      "pronunciation": "trah-dee-see-OHN",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family reunion",
+      "back": "Reunión familiar",
+      "pronunciation": "rray-oo-nee-OHN fah-mee-lee-AHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Home",
+      "back": "Hogar",
+      "pronunciation": "oh-GAHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Household",
+      "back": "Casa",
+      "pronunciation": "KAH-sah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Family photo",
+      "back": "Foto familiar",
+      "pronunciation": "FOH-toh fah-mee-lee-AHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Love",
+      "back": "Amor",
+      "pronunciation": "ah-MOHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Care",
+      "back": "Cuidado",
+      "pronunciation": "kwee-DAH-doh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Support",
+      "back": "Apoyo",
+      "pronunciation": "ah-POH-yoh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Trust",
+      "back": "Confianza",
+      "pronunciation": "kohn-fee-AHN-sah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Respect",
+      "back": "Respeto",
+      "pronunciation": "rrehs-PEH-toh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Unity",
+      "back": "Unidad",
+      "pronunciation": "oo-nee-DAHD",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Bond",
+      "back": "Vínculo",
+      "pronunciation": "VEEN-koo-loh",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Close family",
+      "back": "Familia cercana",
+      "pronunciation": "fah-MEE-lee-ah sehr-KAH-nah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Extended family",
+      "back": "Familia extendida",
+      "pronunciation": "fah-MEE-lee-ah eks-tehn-DEE-dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Nuclear family",
+      "back": "Familia nuclear",
+      "pronunciation": "fah-MEE-lee-ah noo-kleh-AHR",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Single parent",
+      "back": "Padre/madre soltero/a",
+      "pronunciation": "PAH-dreh/MAH-dreh sohl-TEH-roh/rah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Blended family",
+      "back": "Familia mixta",
+      "pronunciation": "fah-MEE-lee-ah MEEKS-tah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Adopted",
+      "back": "Adoptado/a",
+      "pronunciation": "ah-dohp-TAH-doh/dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Foster family",
+      "back": "Familia de acogida",
+      "pronunciation": "fah-MEE-lee-ah deh ah-koh-HEE-dah",
+      "type": "vocabulary",
+      "category": "family"
+    },
+    {
+      "front": "Guardian",
+      "back": "Tutor",
+      "pronunciation": "too-TOHR",
+      "type": "vocabulary",
+      "category": "family"
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "id": "clothing",
+  "name": "Clothing",
+  "description": "Clothes and fashion items",
+  "icon": "👕",
+  "cards": [
+    {
+      "front": "Clothing",
+      "back": "Ropa",
+      "pronunciation": "ROH-pah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Clothes",
+      "back": "Ropa",
+      "pronunciation": "ROH-pah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Shirt",
+      "back": "Camisa",
+      "pronunciation": "kah-MEE-sah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "T-shirt",
+      "back": "Camiseta",
+      "pronunciation": "kah-mee-SEH-tah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Blouse",
+      "back": "Blusa",
+      "pronunciation": "BLOO-sah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pants",
+      "back": "Pantalones",
+      "pronunciation": "pahn-tah-LOH-nehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Jeans",
+      "back": "Vaqueros",
+      "pronunciation": "vah-KEH-rohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Shorts",
+      "back": "Pantalones cortos",
+      "pronunciation": "pahn-tah-LOH-nehs KOHR-tohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Skirt",
+      "back": "Falda",
+      "pronunciation": "FAHL-dah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Dress",
+      "back": "Vestido",
+      "pronunciation": "vehs-TEE-doh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Suit",
+      "back": "Traje",
+      "pronunciation": "TRAH-heh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Jacket",
+      "back": "Chaqueta",
+      "pronunciation": "chah-KEH-tah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Coat",
+      "back": "Abrigo",
+      "pronunciation": "ah-BREE-goh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sweater",
+      "back": "Suéter",
+      "pronunciation": "SWEH-tehr",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cardigan",
+      "back": "Cárdigan",
+      "pronunciation": "KAHR-dee-gahn",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Hoodie",
+      "back": "Sudadera con capucha",
+      "pronunciation": "soo-dah-DEH-rah kohn kah-POO-chah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sweatshirt",
+      "back": "Sudadera",
+      "pronunciation": "soo-dah-DEH-rah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tank top",
+      "back": "Camiseta sin mangas",
+      "pronunciation": "kah-mee-SEH-tah seen MAHN-gahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Polo shirt",
+      "back": "Polo",
+      "pronunciation": "POH-loh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Button-down",
+      "back": "Camisa abotonada",
+      "pronunciation": "kah-MEE-sah ah-boh-toh-NAH-dah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tie",
+      "back": "Corbata",
+      "pronunciation": "kohr-BAH-tah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bow tie",
+      "back": "Pajarita",
+      "pronunciation": "pah-hah-REE-tah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Vest",
+      "back": "Chaleco",
+      "pronunciation": "chah-LEH-koh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Underwear",
+      "back": "Ropa interior",
+      "pronunciation": "ROH-pah een-teh-ree-OHR",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bra",
+      "back": "Sostén",
+      "pronunciation": "sohs-TEHN",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Panties",
+      "back": "Bragas",
+      "pronunciation": "BRAH-gahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Boxers",
+      "back": "Calzoncillos",
+      "pronunciation": "kahl-sohn-SEE-yohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Briefs",
+      "back": "Calzoncillos",
+      "pronunciation": "kahl-sohn-SEE-yohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Socks",
+      "back": "Calcetines",
+      "pronunciation": "kahl-seh-TEE-nehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Stockings",
+      "back": "Medias",
+      "pronunciation": "MEH-dee-ahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tights",
+      "back": "Pantis",
+      "pronunciation": "PAHN-tees",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Shoes",
+      "back": "Zapatos",
+      "pronunciation": "sah-PAH-tohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sneakers",
+      "back": "Zapatillas",
+      "pronunciation": "sah-pah-TEE-yahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Boots",
+      "back": "Botas",
+      "pronunciation": "BOH-tahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sandals",
+      "back": "Sandalias",
+      "pronunciation": "sahn-DAH-lee-ahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "High heels",
+      "back": "Tacones",
+      "pronunciation": "tah-KOH-nehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Flats",
+      "back": "Zapatos planos",
+      "pronunciation": "sah-PAH-tohs PLAH-nohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Loafers",
+      "back": "Mocasines",
+      "pronunciation": "moh-kah-SEE-nehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Slippers",
+      "back": "Pantuflas",
+      "pronunciation": "pahn-TOO-flahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Hat",
+      "back": "Sombrero",
+      "pronunciation": "sohm-BREH-roh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cap",
+      "back": "Gorra",
+      "pronunciation": "GOH-rrah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Beanie",
+      "back": "Gorro",
+      "pronunciation": "GOH-rroh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Scarf",
+      "back": "Bufanda",
+      "pronunciation": "boo-FAHN-dah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Gloves",
+      "back": "Guantes",
+      "pronunciation": "GWAHN-tehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Mittens",
+      "back": "Manoplas",
+      "pronunciation": "mah-NOH-plahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Belt",
+      "back": "Cinturón",
+      "pronunciation": "seen-too-ROHN",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Suspenders",
+      "back": "Tirantes",
+      "pronunciation": "tee-RAHN-tehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Watch",
+      "back": "Reloj",
+      "pronunciation": "reh-LOHH",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Jewelry",
+      "back": "Joyas",
+      "pronunciation": "HOH-yahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Necklace",
+      "back": "Collar",
+      "pronunciation": "koh-YAHR",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bracelet",
+      "back": "Pulsera",
+      "pronunciation": "pool-SEH-rah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Ring",
+      "back": "Anillo",
+      "pronunciation": "ah-NEE-yoh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Earrings",
+      "back": "Aretes",
+      "pronunciation": "ah-REH-tehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Sunglasses",
+      "back": "Gafas de sol",
+      "pronunciation": "GAH-fahs deh sohl",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Glasses",
+      "back": "Gafas",
+      "pronunciation": "GAH-fahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bag",
+      "back": "Bolsa",
+      "pronunciation": "BOHL-sah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Purse",
+      "back": "Bolso",
+      "pronunciation": "BOHL-soh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Handbag",
+      "back": "Cartera",
+      "pronunciation": "kahr-TEH-rah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Backpack",
+      "back": "Mochila",
+      "pronunciation": "moh-CHEE-lah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Wallet",
+      "back": "Billetera",
+      "pronunciation": "bee-yeh-TEH-rah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Swimsuit",
+      "back": "Traje de baño",
+      "pronunciation": "TRAH-heh deh BAH-nyoh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Bikini",
+      "back": "Bikini",
+      "pronunciation": "bee-KEE-nee",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Swimming trunks",
+      "back": "Bañador",
+      "pronunciation": "bah-nyah-DOHR",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pajamas",
+      "back": "Pijama",
+      "pronunciation": "pee-HAH-mah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Nightgown",
+      "back": "Camisón",
+      "pronunciation": "kah-mee-SOHN",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Robe",
+      "back": "Bata",
+      "pronunciation": "BAH-tah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Uniform",
+      "back": "Uniforme",
+      "pronunciation": "oo-nee-FOHR-meh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Apron",
+      "back": "Delantal",
+      "pronunciation": "deh-lahn-TAHL",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Raincoat",
+      "back": "Impermeable",
+      "pronunciation": "eem-pehr-meh-AH-bleh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Poncho",
+      "back": "Poncho",
+      "pronunciation": "POHN-choh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cape",
+      "back": "Capa",
+      "pronunciation": "KAH-pah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tuxedo",
+      "back": "Esmoquin",
+      "pronunciation": "ehs-moh-KEEN",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Evening gown",
+      "back": "Vestido de noche",
+      "pronunciation": "vehs-TEE-doh deh NOH-cheh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cocktail dress",
+      "back": "Vestido de cóctel",
+      "pronunciation": "vehs-TEE-doh deh KOHK-tehl",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Wedding dress",
+      "back": "Vestido de novia",
+      "pronunciation": "vehs-TEE-doh deh NOH-vee-ah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Casual",
+      "back": "Casual",
+      "pronunciation": "kah-SWAHL",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Formal",
+      "back": "Formal",
+      "pronunciation": "fohr-MAHL",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Elegant",
+      "back": "Elegante",
+      "pronunciation": "eh-leh-GAHN-teh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Stylish",
+      "back": "Con estilo",
+      "pronunciation": "kohn ehs-TEE-loh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Fashionable",
+      "back": "A la moda",
+      "pronunciation": "ah lah MOH-dah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Trendy",
+      "back": "De moda",
+      "pronunciation": "deh MOH-dah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Classic",
+      "back": "Clásico",
+      "pronunciation": "KLAH-see-koh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Modern",
+      "back": "Moderno",
+      "pronunciation": "moh-DEHR-noh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Vintage",
+      "back": "Vintage",
+      "pronunciation": "VEEN-tah-heh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Designer",
+      "back": "De diseñador",
+      "pronunciation": "deh dee-seh-nyah-DOHR",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Brand",
+      "back": "Marca",
+      "pronunciation": "MAHR-kah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Size",
+      "back": "Talla",
+      "pronunciation": "TAH-yah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Small",
+      "back": "Pequeño",
+      "pronunciation": "peh-KEH-nyoh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Medium",
+      "back": "Mediano",
+      "pronunciation": "meh-dee-AH-noh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Large",
+      "back": "Grande",
+      "pronunciation": "GRAHN-deh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Extra large",
+      "back": "Extra grande",
+      "pronunciation": "EHK-strah GRAHN-deh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Tight",
+      "back": "Ajustado",
+      "pronunciation": "ah-hoos-TAH-doh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Loose",
+      "back": "Suelto",
+      "pronunciation": "SWEL-toh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Fit",
+      "back": "Quedar",
+      "pronunciation": "keh-DAHR",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Comfortable",
+      "back": "Cómodo",
+      "pronunciation": "KOH-moh-doh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Uncomfortable",
+      "back": "Incómodo",
+      "pronunciation": "een-KOH-moh-doh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Color",
+      "back": "Color",
+      "pronunciation": "koh-LOHR",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Pattern",
+      "back": "Patrón",
+      "pronunciation": "pah-TROHN",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Striped",
+      "back": "A rayas",
+      "pronunciation": "ah RAH-yahs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Polka dots",
+      "back": "Lunares",
+      "pronunciation": "loo-NAH-rehs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Plaid",
+      "back": "Cuadros",
+      "pronunciation": "KWAH-drohs",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Solid",
+      "back": "Liso",
+      "pronunciation": "LEE-soh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Fabric",
+      "back": "Tela",
+      "pronunciation": "TEH-lah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Cotton",
+      "back": "Algodón",
+      "pronunciation": "ahl-goh-DOHN",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Silk",
+      "back": "Seda",
+      "pronunciation": "SEH-dah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Wool",
+      "back": "Lana",
+      "pronunciation": "LAH-nah",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Leather",
+      "back": "Cuero",
+      "pronunciation": "KWEH-roh",
+      "type": "vocabulary",
+      "category": "clothing"
+    },
+    {
+      "front": "Denim",
+      "back": "Mezclilla",
+      "pronunciation": "mehs-KLEE-yah",
+      "type": "vocabulary",
+      "category": "clothing"
+    }
+  ]
+}

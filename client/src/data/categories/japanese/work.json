@@ -1,0 +1,757 @@
+{
+  "id": "work",
+  "name": "Work",
+  "description": "Work and professional vocabulary",
+  "icon": "💼",
+  "cards": [
+    {
+      "front": "Work",
+      "back": "仕事",
+      "romaji": "shigoto",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Job",
+      "back": "職業",
+      "romaji": "shokugyou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Office",
+      "back": "オフィス",
+      "romaji": "ofisu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Meeting",
+      "back": "会議",
+      "romaji": "kaigi",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Boss",
+      "back": "上司",
+      "romaji": "joushi",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Employee",
+      "back": "従業員",
+      "romaji": "juugyouin",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Salary",
+      "back": "給料",
+      "romaji": "kyuuryou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Schedule",
+      "back": "スケジュール",
+      "romaji": "sukejuuru",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Project",
+      "back": "プロジェクト",
+      "romaji": "purojekuto",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Deadline",
+      "back": "締切",
+      "romaji": "shimekiri",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Manager",
+      "back": "マネージャー",
+      "romaji": "maneejaa",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Director",
+      "back": "取締役",
+      "romaji": "torishimariyaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "President",
+      "back": "社長",
+      "romaji": "shachou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Vice president",
+      "back": "副社長",
+      "romaji": "fukushachou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Secretary",
+      "back": "秘書",
+      "romaji": "hisho",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Assistant",
+      "back": "アシスタント",
+      "romaji": "ashisutanto",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Colleague",
+      "back": "同僚",
+      "romaji": "douryou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Coworker",
+      "back": "同僚",
+      "romaji": "douryou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Team",
+      "back": "チーム",
+      "romaji": "chiimu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Department",
+      "back": "部署",
+      "romaji": "busho",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Company",
+      "back": "会社",
+      "romaji": "kaisha",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Corporation",
+      "back": "企業",
+      "romaji": "kigyou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Business",
+      "back": "ビジネス",
+      "romaji": "bijinesu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Industry",
+      "back": "産業",
+      "romaji": "sangyou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Client",
+      "back": "クライアント",
+      "romaji": "kuraianto",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Customer",
+      "back": "顧客",
+      "romaji": "kokyaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Contract",
+      "back": "契約",
+      "romaji": "keiyaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Agreement",
+      "back": "合意",
+      "romaji": "goui",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Deal",
+      "back": "取引",
+      "romaji": "torihiki",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Negotiation",
+      "back": "交渉",
+      "romaji": "koushou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Presentation",
+      "back": "プレゼンテーション",
+      "romaji": "purezentaashon",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Report",
+      "back": "報告書",
+      "romaji": "houkokusho",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Document",
+      "back": "書類",
+      "romaji": "shorui",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "File",
+      "back": "ファイル",
+      "romaji": "fairu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Email",
+      "back": "メール",
+      "romaji": "meeru",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Phone call",
+      "back": "電話",
+      "romaji": "denwa",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Conference",
+      "back": "会議",
+      "romaji": "kaigi",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Workshop",
+      "back": "ワークショップ",
+      "romaji": "waakushoppu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Training",
+      "back": "研修",
+      "romaji": "kenshuu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Seminar",
+      "back": "セミナー",
+      "romaji": "seminaa",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Interview",
+      "back": "面接",
+      "romaji": "mensetsu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Resume",
+      "back": "履歴書",
+      "romaji": "rirekisho",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Application",
+      "back": "申請書",
+      "romaji": "shinseisho",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Promotion",
+      "back": "昇進",
+      "romaji": "shoushin",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Raise",
+      "back": "昇給",
+      "romaji": "shoukyuu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Bonus",
+      "back": "ボーナス",
+      "romaji": "boonasu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Overtime",
+      "back": "残業",
+      "romaji": "zangyou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Part-time",
+      "back": "パートタイム",
+      "romaji": "paato taimu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Full-time",
+      "back": "フルタイム",
+      "romaji": "furu taimu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Freelance",
+      "back": "フリーランス",
+      "romaji": "furiirasu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Intern",
+      "back": "インターン",
+      "romaji": "intaan",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Internship",
+      "back": "インターンシップ",
+      "romaji": "intaanshippu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Vacation",
+      "back": "休暇",
+      "romaji": "kyuuka",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Holiday",
+      "back": "祝日",
+      "romaji": "shukujitsu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Sick leave",
+      "back": "病気休暇",
+      "romaji": "byouki kyuuka",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Maternity leave",
+      "back": "産休",
+      "romaji": "sankyuu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Retirement",
+      "back": "退職",
+      "romaji": "taishoku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Pension",
+      "back": "年金",
+      "romaji": "nenkin",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Benefits",
+      "back": "福利厚生",
+      "romaji": "fukuri kousei",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Insurance",
+      "back": "保険",
+      "romaji": "hoken",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Tax",
+      "back": "税金",
+      "romaji": "zeikin",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Budget",
+      "back": "予算",
+      "romaji": "yosan",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Profit",
+      "back": "利益",
+      "romaji": "rieki",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Loss",
+      "back": "損失",
+      "romaji": "sonshitsu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Revenue",
+      "back": "収益",
+      "romaji": "shuueki",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Sales",
+      "back": "売上",
+      "romaji": "uriage",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Marketing",
+      "back": "マーケティング",
+      "romaji": "maaketingu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Advertising",
+      "back": "広告",
+      "romaji": "koukoku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Product",
+      "back": "製品",
+      "romaji": "seihin",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Service",
+      "back": "サービス",
+      "romaji": "saabisu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Quality",
+      "back": "品質",
+      "romaji": "hinshitsu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Standard",
+      "back": "基準",
+      "romaji": "kijun",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Goal",
+      "back": "目標",
+      "romaji": "mokuhyou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Target",
+      "back": "ターゲット",
+      "romaji": "taagetto",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Achievement",
+      "back": "達成",
+      "romaji": "tassei",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Success",
+      "back": "成功",
+      "romaji": "seikou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Failure",
+      "back": "失敗",
+      "romaji": "shippai",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Challenge",
+      "back": "挑戦",
+      "romaji": "chousen",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Problem",
+      "back": "問題",
+      "romaji": "mondai",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Solution",
+      "back": "解決策",
+      "romaji": "kaiketsusaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Strategy",
+      "back": "戦略",
+      "romaji": "senryaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Plan",
+      "back": "計画",
+      "romaji": "keikaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Analysis",
+      "back": "分析",
+      "romaji": "bunseki",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Research",
+      "back": "研究",
+      "romaji": "kenkyuu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Development",
+      "back": "開発",
+      "romaji": "kaihatsu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Innovation",
+      "back": "革新",
+      "romaji": "kakushin",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Technology",
+      "back": "技術",
+      "romaji": "gijutsu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Software",
+      "back": "ソフトウェア",
+      "romaji": "sofutowea",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Hardware",
+      "back": "ハードウェア",
+      "romaji": "haadowea",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Database",
+      "back": "データベース",
+      "romaji": "deetabeesu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Network",
+      "back": "ネットワーク",
+      "romaji": "nettowaaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Website",
+      "back": "ウェブサイト",
+      "romaji": "webusaito",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Application",
+      "back": "アプリケーション",
+      "romaji": "apurikeeshon",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "System",
+      "back": "システム",
+      "romaji": "shisutemu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Process",
+      "back": "プロセス",
+      "romaji": "purosesu",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Procedure",
+      "back": "手順",
+      "romaji": "tejun",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Method",
+      "back": "方法",
+      "romaji": "houhou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Technique",
+      "back": "技法",
+      "romaji": "gihou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Skill",
+      "back": "技能",
+      "romaji": "ginou",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Experience",
+      "back": "経験",
+      "romaji": "keiken",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Knowledge",
+      "back": "知識",
+      "romaji": "chishiki",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Expertise",
+      "back": "専門知識",
+      "romaji": "senmon chishiki",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Qualification",
+      "back": "資格",
+      "romaji": "shikaku",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Certificate",
+      "back": "証明書",
+      "romaji": "shoumeisho",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "License",
+      "back": "免許",
+      "romaji": "menkyo",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Degree",
+      "back": "学位",
+      "romaji": "gakui",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Education",
+      "back": "教育",
+      "romaji": "kyouiku",
+      "type": "vocabulary",
+      "category": "work"
+    }
+  ]
+}

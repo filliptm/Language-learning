@@ -1,0 +1,757 @@
+{
+  "id": "animals",
+  "name": "Animals",
+  "description": "Animals and wildlife",
+  "icon": "🐾",
+  "cards": [
+    {
+      "front": "Dog",
+      "back": "Perro",
+      "pronunciation": "PEH-rroh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cat",
+      "back": "Gato",
+      "pronunciation": "GAH-toh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bird",
+      "back": "Pájaro",
+      "pronunciation": "PAH-hah-roh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Fish",
+      "back": "Pez",
+      "pronunciation": "pehs",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Horse",
+      "back": "Caballo",
+      "pronunciation": "kah-BAH-yoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cow",
+      "back": "Vaca",
+      "pronunciation": "BAH-kah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Pig",
+      "back": "Cerdo",
+      "pronunciation": "SEHR-doh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Chicken",
+      "back": "Pollo",
+      "pronunciation": "POH-yoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Duck",
+      "back": "Pato",
+      "pronunciation": "PAH-toh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Goose",
+      "back": "Ganso",
+      "pronunciation": "GAHN-soh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Turkey",
+      "back": "Pavo",
+      "pronunciation": "PAH-voh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sheep",
+      "back": "Oveja",
+      "pronunciation": "oh-VEH-hah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Goat",
+      "back": "Cabra",
+      "pronunciation": "KAH-brah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Rabbit",
+      "back": "Conejo",
+      "pronunciation": "koh-NEH-hoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mouse",
+      "back": "Ratón",
+      "pronunciation": "rah-TOHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Rat",
+      "back": "Rata",
+      "pronunciation": "RAH-tah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Lion",
+      "back": "León",
+      "pronunciation": "leh-OHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Tiger",
+      "back": "Tigre",
+      "pronunciation": "TEE-greh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Elephant",
+      "back": "Elefante",
+      "pronunciation": "eh-leh-FAHN-teh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Giraffe",
+      "back": "Jirafa",
+      "pronunciation": "hee-RAH-fah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Zebra",
+      "back": "Cebra",
+      "pronunciation": "SEH-brah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Monkey",
+      "back": "Mono",
+      "pronunciation": "MOH-noh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Gorilla",
+      "back": "Gorila",
+      "pronunciation": "goh-REE-lah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Chimpanzee",
+      "back": "Chimpancé",
+      "pronunciation": "cheem-pahn-SEH",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bear",
+      "back": "Oso",
+      "pronunciation": "OH-soh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Wolf",
+      "back": "Lobo",
+      "pronunciation": "LOH-boh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Fox",
+      "back": "Zorro",
+      "pronunciation": "SOH-rroh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Deer",
+      "back": "Ciervo",
+      "pronunciation": "see-EHR-voh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Moose",
+      "back": "Alce",
+      "pronunciation": "AHL-seh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Squirrel",
+      "back": "Ardilla",
+      "pronunciation": "ahr-DEE-yah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Raccoon",
+      "back": "Mapache",
+      "pronunciation": "mah-PAH-cheh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Skunk",
+      "back": "Zorrillo",
+      "pronunciation": "soh-RREE-yoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bat",
+      "back": "Murciélago",
+      "pronunciation": "moor-see-EH-lah-goh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Owl",
+      "back": "Búho",
+      "pronunciation": "BOO-oh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Eagle",
+      "back": "Águila",
+      "pronunciation": "AH-gee-lah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hawk",
+      "back": "Halcón",
+      "pronunciation": "ahl-KOHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Parrot",
+      "back": "Loro",
+      "pronunciation": "LOH-roh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Canary",
+      "back": "Canario",
+      "pronunciation": "kah-NAH-ree-oh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Pigeon",
+      "back": "Paloma",
+      "pronunciation": "pah-LOH-mah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Crow",
+      "back": "Cuervo",
+      "pronunciation": "KWEHR-voh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Robin",
+      "back": "Petirrojo",
+      "pronunciation": "peh-tee-RROH-hoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sparrow",
+      "back": "Gorrión",
+      "pronunciation": "goh-rree-OHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Woodpecker",
+      "back": "Pájaro carpintero",
+      "pronunciation": "PAH-hah-roh kahr-peen-TEH-roh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hummingbird",
+      "back": "Colibrí",
+      "pronunciation": "koh-lee-BREE",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Peacock",
+      "back": "Pavo real",
+      "pronunciation": "PAH-voh reh-AHL",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Flamingo",
+      "back": "Flamenco",
+      "pronunciation": "flah-MEHN-koh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Penguin",
+      "back": "Pingüino",
+      "pronunciation": "peen-GWEE-noh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Ostrich",
+      "back": "Avestruz",
+      "pronunciation": "ah-vehs-TROOS",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Swan",
+      "back": "Cisne",
+      "pronunciation": "SEES-neh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Stork",
+      "back": "Cigüeña",
+      "pronunciation": "see-GWEH-nyah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Crane",
+      "back": "Grulla",
+      "pronunciation": "GROO-yah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Whale",
+      "back": "Ballena",
+      "pronunciation": "bah-YEH-nah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Dolphin",
+      "back": "Delfín",
+      "pronunciation": "dehl-FEEN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Shark",
+      "back": "Tiburón",
+      "pronunciation": "tee-boo-ROHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Octopus",
+      "back": "Pulpo",
+      "pronunciation": "POOL-poh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Squid",
+      "back": "Calamar",
+      "pronunciation": "kah-lah-MAHR",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Jellyfish",
+      "back": "Medusa",
+      "pronunciation": "meh-DOO-sah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Starfish",
+      "back": "Estrella de mar",
+      "pronunciation": "ehs-TREH-yah deh mahr",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Seahorse",
+      "back": "Caballito de mar",
+      "pronunciation": "kah-bah-YEE-toh deh mahr",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Crab",
+      "back": "Cangrejo",
+      "pronunciation": "kahn-GREH-hoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Lobster",
+      "back": "Langosta",
+      "pronunciation": "lahn-GOHS-tah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Shrimp",
+      "back": "Camarón",
+      "pronunciation": "kah-mah-ROHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Oyster",
+      "back": "Ostra",
+      "pronunciation": "OHS-trah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Clam",
+      "back": "Almeja",
+      "pronunciation": "ahl-MEH-hah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mussel",
+      "back": "Mejillón",
+      "pronunciation": "meh-hee-YOHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Salmon",
+      "back": "Salmón",
+      "pronunciation": "sahl-MOHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Tuna",
+      "back": "Atún",
+      "pronunciation": "ah-TOON",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Trout",
+      "back": "Trucha",
+      "pronunciation": "TROO-chah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bass",
+      "back": "Lubina",
+      "pronunciation": "loo-BEE-nah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cod",
+      "back": "Bacalao",
+      "pronunciation": "bah-kah-LAH-oh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Sardine",
+      "back": "Sardina",
+      "pronunciation": "sahr-DEE-nah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Goldfish",
+      "back": "Pez dorado",
+      "pronunciation": "pehs doh-RAH-doh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Turtle",
+      "back": "Tortuga",
+      "pronunciation": "tohr-TOO-gah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Lizard",
+      "back": "Lagarto",
+      "pronunciation": "lah-GAHR-toh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Iguana",
+      "back": "Iguana",
+      "pronunciation": "ee-GWAH-nah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Gecko",
+      "back": "Gecko",
+      "pronunciation": "GEH-koh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Chameleon",
+      "back": "Camaleón",
+      "pronunciation": "kah-mah-leh-OHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Snake",
+      "back": "Serpiente",
+      "pronunciation": "sehr-pee-EHN-teh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cobra",
+      "back": "Cobra",
+      "pronunciation": "KOH-brah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Python",
+      "back": "Pitón",
+      "pronunciation": "pee-TOHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Viper",
+      "back": "Víbora",
+      "pronunciation": "VEE-boh-rah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Crocodile",
+      "back": "Cocodrilo",
+      "pronunciation": "koh-koh-DREE-loh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Alligator",
+      "back": "Caimán",
+      "pronunciation": "kah-ee-MAHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Frog",
+      "back": "Rana",
+      "pronunciation": "RAH-nah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Toad",
+      "back": "Sapo",
+      "pronunciation": "SAH-poh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Salamander",
+      "back": "Salamandra",
+      "pronunciation": "sah-lah-MAHN-drah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Butterfly",
+      "back": "Mariposa",
+      "pronunciation": "mah-ree-POH-sah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Moth",
+      "back": "Polilla",
+      "pronunciation": "poh-LEE-yah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Bee",
+      "back": "Abeja",
+      "pronunciation": "ah-BEH-hah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Wasp",
+      "back": "Avispa",
+      "pronunciation": "ah-VEES-pah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Hornet",
+      "back": "Avispón",
+      "pronunciation": "ah-vees-POHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Ant",
+      "back": "Hormiga",
+      "pronunciation": "ohr-MEE-gah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Termite",
+      "back": "Termita",
+      "pronunciation": "tehr-MEE-tah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Grasshopper",
+      "back": "Saltamontes",
+      "pronunciation": "sahl-tah-MOHN-tehs",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Cricket",
+      "back": "Grillo",
+      "pronunciation": "GREE-yoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Ladybug",
+      "back": "Mariquita",
+      "pronunciation": "mah-ree-KEE-tah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Beetle",
+      "back": "Escarabajo",
+      "pronunciation": "ehs-kah-rah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Dragonfly",
+      "back": "Libélula",
+      "pronunciation": "lee-BEH-loo-lah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Mosquito",
+      "back": "Mosquito",
+      "pronunciation": "mohs-KEE-toh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Fly",
+      "back": "Mosca",
+      "pronunciation": "MOHS-kah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Spider",
+      "back": "Araña",
+      "pronunciation": "ah-RAH-nyah",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Scorpion",
+      "back": "Escorpión",
+      "pronunciation": "ehs-kohr-pee-OHN",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Centipede",
+      "back": "Ciempiés",
+      "pronunciation": "see-ehm-pee-EHS",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Millipede",
+      "back": "Milpiés",
+      "pronunciation": "meel-pee-EHS",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Worm",
+      "back": "Gusano",
+      "pronunciation": "goo-SAH-noh",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Snail",
+      "back": "Caracol",
+      "pronunciation": "kah-rah-KOHL",
+      "type": "vocabulary",
+      "category": "animals"
+    },
+    {
+      "front": "Slug",
+      "back": "Babosa",
+      "pronunciation": "bah-BOH-sah",
+      "type": "vocabulary",
+      "category": "animals"
+    }
+  ]
+}

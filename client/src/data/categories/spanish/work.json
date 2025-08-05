@@ -1,0 +1,764 @@
+{
+  "id": "work",
+  "name": "Work",
+  "description": "Work and professional vocabulary",
+  "icon": "💼",
+  "cards": [
+    {
+      "front": "Job",
+      "back": "Trabajo",
+      "pronunciation": "trah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Work",
+      "back": "Trabajo",
+      "pronunciation": "trah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Career",
+      "back": "Carrera",
+      "pronunciation": "kah-RREH-rah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Profession",
+      "back": "Profesión",
+      "pronunciation": "proh-feh-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Occupation",
+      "back": "Ocupación",
+      "pronunciation": "oh-koo-pah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Employee",
+      "back": "Empleado",
+      "pronunciation": "ehm-pleh-AH-doh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Employer",
+      "back": "Empleador",
+      "pronunciation": "ehm-pleh-ah-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Boss",
+      "back": "Jefe",
+      "pronunciation": "HEH-feh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Manager",
+      "back": "Gerente",
+      "pronunciation": "heh-REHN-teh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Supervisor",
+      "back": "Supervisor",
+      "pronunciation": "soo-pehr-vee-SOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Director",
+      "back": "Director",
+      "pronunciation": "dee-rehk-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "CEO",
+      "back": "Director ejecutivo",
+      "pronunciation": "dee-rehk-TOHR eh-heh-koo-TEE-voh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Secretary",
+      "back": "Secretario",
+      "pronunciation": "seh-kreh-TAH-ree-oh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Assistant",
+      "back": "Asistente",
+      "pronunciation": "ah-sees-TEHN-teh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Colleague",
+      "back": "Colega",
+      "pronunciation": "koh-LEH-gah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Coworker",
+      "back": "Compañero de trabajo",
+      "pronunciation": "kohm-pah-NYEH-roh deh trah-BAH-hoh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Team",
+      "back": "Equipo",
+      "pronunciation": "eh-KEE-poh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Department",
+      "back": "Departamento",
+      "pronunciation": "deh-pahr-tah-MEHN-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Company",
+      "back": "Empresa",
+      "pronunciation": "ehm-PREH-sah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Corporation",
+      "back": "Corporación",
+      "pronunciation": "kohr-poh-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Business",
+      "back": "Negocio",
+      "pronunciation": "neh-GOH-see-oh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Office",
+      "back": "Oficina",
+      "pronunciation": "oh-fee-SEE-nah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Factory",
+      "back": "Fábrica",
+      "pronunciation": "FAH-bree-kah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Workshop",
+      "back": "Taller",
+      "pronunciation": "tah-YEHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Store",
+      "back": "Tienda",
+      "pronunciation": "tee-EHN-dah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Restaurant",
+      "back": "Restaurante",
+      "pronunciation": "rehs-tah-RAHN-teh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Hospital",
+      "back": "Hospital",
+      "pronunciation": "ohs-pee-TAHL",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "School",
+      "back": "Escuela",
+      "pronunciation": "ehs-KWEH-lah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Bank",
+      "back": "Banco",
+      "pronunciation": "BAHN-koh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Doctor",
+      "back": "Doctor",
+      "pronunciation": "dohk-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Nurse",
+      "back": "Enfermera",
+      "pronunciation": "ehn-fehr-MEH-rah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Teacher",
+      "back": "Maestro",
+      "pronunciation": "mah-EHS-troh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Professor",
+      "back": "Profesor",
+      "pronunciation": "proh-feh-SOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Lawyer",
+      "back": "Abogado",
+      "pronunciation": "ah-boh-GAH-doh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Engineer",
+      "back": "Ingeniero",
+      "pronunciation": "een-heh-nee-EH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Architect",
+      "back": "Arquitecto",
+      "pronunciation": "ahr-kee-TEHK-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Accountant",
+      "back": "Contador",
+      "pronunciation": "kohn-tah-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Banker",
+      "back": "Banquero",
+      "pronunciation": "bahn-KEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Salesperson",
+      "back": "Vendedor",
+      "pronunciation": "vehn-deh-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Cashier",
+      "back": "Cajero",
+      "pronunciation": "kah-HEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Waiter",
+      "back": "Mesero",
+      "pronunciation": "meh-SEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Chef",
+      "back": "Chef",
+      "pronunciation": "shehf",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Cook",
+      "back": "Cocinero",
+      "pronunciation": "koh-see-NEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Mechanic",
+      "back": "Mecánico",
+      "pronunciation": "meh-KAH-nee-koh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Electrician",
+      "back": "Electricista",
+      "pronunciation": "eh-lehk-tree-SEES-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Plumber",
+      "back": "Plomero",
+      "pronunciation": "ploh-MEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Carpenter",
+      "back": "Carpintero",
+      "pronunciation": "kahr-peen-TEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Police officer",
+      "back": "Policía",
+      "pronunciation": "poh-lee-SEE-ah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Firefighter",
+      "back": "Bombero",
+      "pronunciation": "bohm-BEH-roh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Pilot",
+      "back": "Piloto",
+      "pronunciation": "pee-LOH-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Driver",
+      "back": "Conductor",
+      "pronunciation": "kohn-dook-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Farmer",
+      "back": "Agricultor",
+      "pronunciation": "ah-gree-kool-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Artist",
+      "back": "Artista",
+      "pronunciation": "ahr-TEES-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Musician",
+      "back": "Músico",
+      "pronunciation": "MOO-see-koh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Writer",
+      "back": "Escritor",
+      "pronunciation": "ehs-kree-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Journalist",
+      "back": "Periodista",
+      "pronunciation": "peh-ree-oh-DEES-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Photographer",
+      "back": "Fotógrafo",
+      "pronunciation": "foh-TOH-grah-foh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Designer",
+      "back": "Diseñador",
+      "pronunciation": "dee-seh-nyah-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Programmer",
+      "back": "Programador",
+      "pronunciation": "proh-grah-mah-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Scientist",
+      "back": "Científico",
+      "pronunciation": "see-ehn-TEE-fee-koh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Researcher",
+      "back": "Investigador",
+      "pronunciation": "een-vehs-tee-gah-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Translator",
+      "back": "Traductor",
+      "pronunciation": "trah-dook-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Interpreter",
+      "back": "Intérprete",
+      "pronunciation": "een-TEHR-preh-teh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Consultant",
+      "back": "Consultor",
+      "pronunciation": "kohn-sool-TOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Analyst",
+      "back": "Analista",
+      "pronunciation": "ah-nah-LEES-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Technician",
+      "back": "Técnico",
+      "pronunciation": "TEHK-nee-koh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Cleaner",
+      "back": "Limpiador",
+      "pronunciation": "leem-pee-ah-DOHR",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Janitor",
+      "back": "Conserje",
+      "pronunciation": "kohn-SEHR-heh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Security guard",
+      "back": "Guardia de seguridad",
+      "pronunciation": "GWAHR-dee-ah deh seh-goo-ree-DAHD",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Receptionist",
+      "back": "Recepcionista",
+      "pronunciation": "reh-sehp-see-oh-NEES-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Meeting",
+      "back": "Reunión",
+      "pronunciation": "reh-oo-nee-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Conference",
+      "back": "Conferencia",
+      "pronunciation": "kohn-feh-REHN-see-ah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Presentation",
+      "back": "Presentación",
+      "pronunciation": "preh-sehn-tah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Project",
+      "back": "Proyecto",
+      "pronunciation": "proh-YEHK-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Task",
+      "back": "Tarea",
+      "pronunciation": "tah-REH-ah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Assignment",
+      "back": "Asignación",
+      "pronunciation": "ah-see-gnah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Deadline",
+      "back": "Fecha límite",
+      "pronunciation": "FEH-chah LEE-mee-teh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Schedule",
+      "back": "Horario",
+      "pronunciation": "oh-RAH-ree-oh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Appointment",
+      "back": "Cita",
+      "pronunciation": "SEE-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Interview",
+      "back": "Entrevista",
+      "pronunciation": "ehn-treh-VEES-tah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Resume",
+      "back": "Currículum",
+      "pronunciation": "koo-RREE-koo-loom",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Application",
+      "back": "Solicitud",
+      "pronunciation": "soh-lee-see-TOOD",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Contract",
+      "back": "Contrato",
+      "pronunciation": "kohn-TRAH-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Salary",
+      "back": "Salario",
+      "pronunciation": "sah-LAH-ree-oh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Wage",
+      "back": "Sueldo",
+      "pronunciation": "SWEL-doh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Income",
+      "back": "Ingreso",
+      "pronunciation": "een-GREH-soh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Bonus",
+      "back": "Bono",
+      "pronunciation": "BOH-noh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Raise",
+      "back": "Aumento",
+      "pronunciation": "ah-oo-MEHN-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Promotion",
+      "back": "Promoción",
+      "pronunciation": "proh-moh-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Training",
+      "back": "Capacitación",
+      "pronunciation": "kah-pah-see-tah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Experience",
+      "back": "Experiencia",
+      "pronunciation": "ehks-peh-ree-EHN-see-ah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Skills",
+      "back": "Habilidades",
+      "pronunciation": "ah-bee-lee-DAH-dehs",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Qualification",
+      "back": "Calificación",
+      "pronunciation": "kah-lee-fee-kah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Education",
+      "back": "Educación",
+      "pronunciation": "eh-doo-kah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Degree",
+      "back": "Título",
+      "pronunciation": "TEE-too-loh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Certificate",
+      "back": "Certificado",
+      "pronunciation": "sehr-tee-fee-KAH-doh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Vacation",
+      "back": "Vacaciones",
+      "pronunciation": "vah-kah-see-OH-nehs",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Holiday",
+      "back": "Día festivo",
+      "pronunciation": "DEE-ah fehs-TEE-voh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Sick leave",
+      "back": "Permiso por enfermedad",
+      "pronunciation": "pehr-MEE-soh pohr ehn-fehr-meh-DAHD",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Overtime",
+      "back": "Horas extra",
+      "pronunciation": "OH-rahs EHK-strah",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Part-time",
+      "back": "Medio tiempo",
+      "pronunciation": "MEH-dee-oh tee-EHM-poh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Full-time",
+      "back": "Tiempo completo",
+      "pronunciation": "tee-EHM-poh kohm-PLEH-toh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Shift",
+      "back": "Turno",
+      "pronunciation": "TOOR-noh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Break",
+      "back": "Descanso",
+      "pronunciation": "dehs-KAHN-soh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Lunch break",
+      "back": "Hora del almuerzo",
+      "pronunciation": "OH-rah dehl ahl-MWEHR-soh",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Retirement",
+      "back": "Jubilación",
+      "pronunciation": "hoo-bee-lah-see-OHN",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Benefits",
+      "back": "Beneficios",
+      "pronunciation": "beh-neh-FEE-see-ohs",
+      "type": "vocabulary",
+      "category": "work"
+    },
+    {
+      "front": "Insurance",
+      "back": "Seguro",
+      "pronunciation": "seh-GOO-roh",
+      "type": "vocabulary",
+      "category": "work"
+    }
+  ]
+}

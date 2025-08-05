@@ -1,0 +1,778 @@
+{
+  "id": "time",
+  "name": "Time",
+  "description": "Time, dates, and temporal expressions",
+  "icon": "⏰",
+  "cards": [
+    {
+      "front": "Time",
+      "back": "Tiempo",
+      "pronunciation": "tee-EHM-poh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Clock",
+      "back": "Reloj",
+      "pronunciation": "reh-LOHH",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Hour",
+      "back": "Hora",
+      "pronunciation": "OH-rah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Minute",
+      "back": "Minuto",
+      "pronunciation": "mee-NOO-toh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Second",
+      "back": "Segundo",
+      "pronunciation": "seh-GOON-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Day",
+      "back": "Día",
+      "pronunciation": "DEE-ah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Week",
+      "back": "Semana",
+      "pronunciation": "seh-MAH-nah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Month",
+      "back": "Mes",
+      "pronunciation": "mehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Year",
+      "back": "Año",
+      "pronunciation": "AH-nyoh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Century",
+      "back": "Siglo",
+      "pronunciation": "SEE-gloh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Today",
+      "back": "Hoy",
+      "pronunciation": "oy",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Yesterday",
+      "back": "Ayer",
+      "pronunciation": "ah-YEHR",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Tomorrow",
+      "back": "Mañana",
+      "pronunciation": "mah-NYAH-nah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Now",
+      "back": "Ahora",
+      "pronunciation": "ah-OH-rah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Later",
+      "back": "Después",
+      "pronunciation": "dehs-PWEH",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Before",
+      "back": "Antes",
+      "pronunciation": "AHN-tehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "After",
+      "back": "Después",
+      "pronunciation": "dehs-PWEHS",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Soon",
+      "back": "Pronto",
+      "pronunciation": "PROHN-toh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Late",
+      "back": "Tarde",
+      "pronunciation": "TAHR-deh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Early",
+      "back": "Temprano",
+      "pronunciation": "tehm-PRAH-noh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Always",
+      "back": "Siempre",
+      "pronunciation": "see-EHM-preh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Never",
+      "back": "Nunca",
+      "pronunciation": "NOON-kah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sometimes",
+      "back": "A veces",
+      "pronunciation": "ah VEH-sehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Often",
+      "back": "A menudo",
+      "pronunciation": "ah meh-NOO-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Rarely",
+      "back": "Rara vez",
+      "pronunciation": "RAH-rah vehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Morning",
+      "back": "Mañana",
+      "pronunciation": "mah-NYAH-nah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Afternoon",
+      "back": "Tarde",
+      "pronunciation": "TAHR-deh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Evening",
+      "back": "Noche",
+      "pronunciation": "NOH-cheh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Night",
+      "back": "Noche",
+      "pronunciation": "NOH-cheh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Dawn",
+      "back": "Amanecer",
+      "pronunciation": "ah-mah-neh-SEHR",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sunrise",
+      "back": "Salida del sol",
+      "pronunciation": "sah-LEE-dah dehl sohl",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sunset",
+      "back": "Puesta del sol",
+      "pronunciation": "PWEH-stah dehl sohl",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Midnight",
+      "back": "Medianoche",
+      "pronunciation": "meh-dee-ah-NOH-cheh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Noon",
+      "back": "Mediodía",
+      "pronunciation": "meh-dee-oh-DEE-ah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Monday",
+      "back": "Lunes",
+      "pronunciation": "LOO-nehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Tuesday",
+      "back": "Martes",
+      "pronunciation": "MAHR-tehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Wednesday",
+      "back": "Miércoles",
+      "pronunciation": "mee-EHR-koh-lehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Thursday",
+      "back": "Jueves",
+      "pronunciation": "HWEH-vehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Friday",
+      "back": "Viernes",
+      "pronunciation": "vee-EHR-nehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Saturday",
+      "back": "Sábado",
+      "pronunciation": "SAH-bah-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sunday",
+      "back": "Domingo",
+      "pronunciation": "doh-MEEN-goh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Weekend",
+      "back": "Fin de semana",
+      "pronunciation": "feen deh seh-MAH-nah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Weekday",
+      "back": "Día de semana",
+      "pronunciation": "DEE-ah deh seh-MAH-nah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "January",
+      "back": "Enero",
+      "pronunciation": "eh-NEH-roh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "February",
+      "back": "Febrero",
+      "pronunciation": "feh-BREH-roh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "March",
+      "back": "Marzo",
+      "pronunciation": "MAHR-soh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "April",
+      "back": "Abril",
+      "pronunciation": "ah-BREEL",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "May",
+      "back": "Mayo",
+      "pronunciation": "MAH-yoh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "June",
+      "back": "Junio",
+      "pronunciation": "HOO-nee-oh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "July",
+      "back": "Julio",
+      "pronunciation": "HOO-lee-oh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "August",
+      "back": "Agosto",
+      "pronunciation": "ah-GOHS-toh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "September",
+      "back": "Septiembre",
+      "pronunciation": "sehp-tee-EHM-breh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "October",
+      "back": "Octubre",
+      "pronunciation": "ohk-TOO-breh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "November",
+      "back": "Noviembre",
+      "pronunciation": "noh-vee-EHM-breh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "December",
+      "back": "Diciembre",
+      "pronunciation": "dee-see-EHM-breh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Spring",
+      "back": "Primavera",
+      "pronunciation": "pree-mah-VEH-rah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Summer",
+      "back": "Verano",
+      "pronunciation": "veh-RAH-noh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Fall/Autumn",
+      "back": "Otoño",
+      "pronunciation": "oh-TOH-nyoh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Winter",
+      "back": "Invierno",
+      "pronunciation": "een-vee-EHR-noh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Date",
+      "back": "Fecha",
+      "pronunciation": "FEH-chah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Calendar",
+      "back": "Calendario",
+      "pronunciation": "kah-lehn-DAH-ree-oh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Schedule",
+      "back": "Horario",
+      "pronunciation": "oh-RAH-ree-oh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Appointment",
+      "back": "Cita",
+      "pronunciation": "SEE-tah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Meeting",
+      "back": "Reunión",
+      "pronunciation": "reh-oo-nee-OHN",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Deadline",
+      "back": "Fecha límite",
+      "pronunciation": "FEH-chah LEE-mee-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Duration",
+      "back": "Duración",
+      "pronunciation": "doo-rah-see-OHN",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Period",
+      "back": "Período",
+      "pronunciation": "peh-REE-oh-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Moment",
+      "back": "Momento",
+      "pronunciation": "moh-MEHN-toh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Instant",
+      "back": "Instante",
+      "pronunciation": "een-STAHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Past",
+      "back": "Pasado",
+      "pronunciation": "pah-SAH-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Present",
+      "back": "Presente",
+      "pronunciation": "preh-SEHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Future",
+      "back": "Futuro",
+      "pronunciation": "foo-TOO-roh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Age",
+      "back": "Edad",
+      "pronunciation": "eh-DAHD",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Birthday",
+      "back": "Cumpleaños",
+      "pronunciation": "koom-pleh-AH-nyohs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Anniversary",
+      "back": "Aniversario",
+      "pronunciation": "ah-nee-vehr-SAH-ree-oh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Holiday",
+      "back": "Día festivo",
+      "pronunciation": "DEE-ah fehs-TEE-voh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Vacation",
+      "back": "Vacaciones",
+      "pronunciation": "vah-kah-see-OH-nehs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Break",
+      "back": "Descanso",
+      "pronunciation": "dehs-KAHN-soh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Rush",
+      "back": "Prisa",
+      "pronunciation": "PREE-sah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Hurry",
+      "back": "Apurarse",
+      "pronunciation": "ah-poo-RAHR-seh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Wait",
+      "back": "Esperar",
+      "pronunciation": "ehs-peh-RAHR",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Delay",
+      "back": "Retraso",
+      "pronunciation": "reh-TRAH-soh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "On time",
+      "back": "A tiempo",
+      "pronunciation": "ah tee-EHM-poh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "In advance",
+      "back": "Por adelantado",
+      "pronunciation": "pohr ah-deh-lahn-TAH-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Punctual",
+      "back": "Puntual",
+      "pronunciation": "poon-too-AHL",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Temporary",
+      "back": "Temporal",
+      "pronunciation": "tehm-poh-RAHL",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Permanent",
+      "back": "Permanente",
+      "pronunciation": "pehr-mah-NEHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Quick",
+      "back": "Rápido",
+      "pronunciation": "RAH-pee-doh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Slow",
+      "back": "Lento",
+      "pronunciation": "LEHN-toh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Fast",
+      "back": "Veloz",
+      "pronunciation": "veh-LOHS",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Gradual",
+      "back": "Gradual",
+      "pronunciation": "grah-doo-AHL",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sudden",
+      "back": "Repentino",
+      "pronunciation": "reh-pehn-TEE-noh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Immediately",
+      "back": "Inmediatamente",
+      "pronunciation": "een-meh-dee-ah-tah-MEHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Eventually",
+      "back": "Eventualmente",
+      "pronunciation": "eh-vehn-too-ahl-MEHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Meanwhile",
+      "back": "Mientras tanto",
+      "pronunciation": "mee-EHN-trahs TAHN-toh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "During",
+      "back": "Durante",
+      "pronunciation": "doo-RAHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "While",
+      "back": "Mientras",
+      "pronunciation": "mee-EHN-trahs",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Until",
+      "back": "Hasta",
+      "pronunciation": "AHS-tah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Since",
+      "back": "Desde",
+      "pronunciation": "DEHS-deh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "From",
+      "back": "De",
+      "pronunciation": "deh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "To",
+      "back": "A",
+      "pronunciation": "ah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Between",
+      "back": "Entre",
+      "pronunciation": "EHN-treh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Timeline",
+      "back": "Cronología",
+      "pronunciation": "kroh-noh-loh-HEE-ah",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Chronological",
+      "back": "Cronológico",
+      "pronunciation": "kroh-noh-LOH-hee-koh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Sequential",
+      "back": "Secuencial",
+      "pronunciation": "seh-kwehn-see-AHL",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Simultaneous",
+      "back": "Simultáneo",
+      "pronunciation": "see-mool-TAH-neh-oh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Recent",
+      "back": "Reciente",
+      "pronunciation": "reh-see-EHN-teh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Ancient",
+      "back": "Antiguo",
+      "pronunciation": "ahn-TEE-gwoh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Modern",
+      "back": "Moderno",
+      "pronunciation": "moh-DEHR-noh",
+      "type": "vocabulary",
+      "category": "time"
+    },
+    {
+      "front": "Contemporary",
+      "back": "Contemporáneo",
+      "pronunciation": "kohn-tehm-poh-RAH-neh-oh",
+      "type": "vocabulary",
+      "category": "time"
+    }
+  ]
+}

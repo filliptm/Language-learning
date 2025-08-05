@@ -1,0 +1,778 @@
+{
+  "id": "shopping",
+  "name": "Shopping",
+  "description": "Shopping and commerce vocabulary",
+  "icon": "🛒",
+  "cards": [
+    {
+      "front": "Shopping",
+      "back": "Compras",
+      "pronunciation": "KOHM-prahs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To shop",
+      "back": "Comprar",
+      "pronunciation": "kohm-PRAHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To buy",
+      "back": "Comprar",
+      "pronunciation": "kohm-PRAHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To sell",
+      "back": "Vender",
+      "pronunciation": "vehn-DEHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To pay",
+      "back": "Pagar",
+      "pronunciation": "pah-GAHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Price",
+      "back": "Precio",
+      "pronunciation": "PREH-see-oh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cost",
+      "back": "Costo",
+      "pronunciation": "KOHS-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Money",
+      "back": "Dinero",
+      "pronunciation": "dee-NEH-roh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cash",
+      "back": "Efectivo",
+      "pronunciation": "eh-fehk-TEE-voh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Credit card",
+      "back": "Tarjeta de crédito",
+      "pronunciation": "tahr-HEH-tah deh KREH-dee-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Debit card",
+      "back": "Tarjeta de débito",
+      "pronunciation": "tahr-HEH-tah deh DEH-bee-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Receipt",
+      "back": "Recibo",
+      "pronunciation": "reh-SEE-boh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Change",
+      "back": "Cambio",
+      "pronunciation": "KAHM-bee-oh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Discount",
+      "back": "Descuento",
+      "pronunciation": "dehs-KWEHN-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Sale",
+      "back": "Oferta",
+      "pronunciation": "oh-FEHR-tah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Special offer",
+      "back": "Oferta especial",
+      "pronunciation": "oh-FEHR-tah ehs-peh-see-AHL",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bargain",
+      "back": "Ganga",
+      "pronunciation": "GAHN-gah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Deal",
+      "back": "Trato",
+      "pronunciation": "TRAH-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Free",
+      "back": "Gratis",
+      "pronunciation": "GRAH-tees",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Expensive",
+      "back": "Caro",
+      "pronunciation": "KAH-roh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cheap",
+      "back": "Barato",
+      "pronunciation": "bah-RAH-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Affordable",
+      "back": "Asequible",
+      "pronunciation": "ah-seh-KEE-bleh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Customer",
+      "back": "Cliente",
+      "pronunciation": "klee-EHN-teh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Seller",
+      "back": "Vendedor",
+      "pronunciation": "vehn-deh-DOHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cashier",
+      "back": "Cajero",
+      "pronunciation": "kah-HEH-roh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Store clerk",
+      "back": "Dependiente",
+      "pronunciation": "deh-pehn-dee-EHN-teh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Manager",
+      "back": "Gerente",
+      "pronunciation": "heh-REHN-teh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Store",
+      "back": "Tienda",
+      "pronunciation": "tee-EHN-dah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shop",
+      "back": "Tienda",
+      "pronunciation": "tee-EHN-dah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Mall",
+      "back": "Centro comercial",
+      "pronunciation": "SEHN-troh koh-mehr-see-AHL",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Market",
+      "back": "Mercado",
+      "pronunciation": "mehr-KAH-doh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Supermarket",
+      "back": "Supermercado",
+      "pronunciation": "soo-pehr-mehr-KAH-doh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Department store",
+      "back": "Almacén",
+      "pronunciation": "ahl-mah-SEHN",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Boutique",
+      "back": "Boutique",
+      "pronunciation": "boo-TEEK",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Outlet",
+      "back": "Outlet",
+      "pronunciation": "AH-oot-leht",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Online shopping",
+      "back": "Compras en línea",
+      "pronunciation": "KOHM-prahs ehn LEE-neh-ah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Website",
+      "back": "Sitio web",
+      "pronunciation": "SEE-tee-oh wehb",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cart",
+      "back": "Carrito",
+      "pronunciation": "kah-RREE-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Basket",
+      "back": "Canasta",
+      "pronunciation": "kah-NAHS-tah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bag",
+      "back": "Bolsa",
+      "pronunciation": "BOHL-sah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shopping bag",
+      "back": "Bolsa de compras",
+      "pronunciation": "BOHL-sah deh KOHM-prahs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Plastic bag",
+      "back": "Bolsa de plástico",
+      "pronunciation": "BOHL-sah deh PLAHS-tee-koh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Paper bag",
+      "back": "Bolsa de papel",
+      "pronunciation": "BOHL-sah deh pah-PEHL",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Size",
+      "back": "Talla",
+      "pronunciation": "TAH-yah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Color",
+      "back": "Color",
+      "pronunciation": "koh-LOHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Brand",
+      "back": "Marca",
+      "pronunciation": "MAHR-kah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Quality",
+      "back": "Calidad",
+      "pronunciation": "kah-lee-DAHD",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Good quality",
+      "back": "Buena calidad",
+      "pronunciation": "BWEH-nah kah-lee-DAHD",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Poor quality",
+      "back": "Mala calidad",
+      "pronunciation": "MAH-lah kah-lee-DAHD",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "New",
+      "back": "Nuevo",
+      "pronunciation": "NWEH-voh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Used",
+      "back": "Usado",
+      "pronunciation": "oo-SAH-doh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Second-hand",
+      "back": "De segunda mano",
+      "pronunciation": "deh seh-GOON-dah MAH-noh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To try on",
+      "back": "Probarse",
+      "pronunciation": "proh-BAHR-seh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To fit",
+      "back": "Quedar",
+      "pronunciation": "keh-DAHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Fitting room",
+      "back": "Probador",
+      "pronunciation": "proh-bah-DOHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To exchange",
+      "back": "Cambiar",
+      "pronunciation": "kahm-bee-AHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To return",
+      "back": "Devolver",
+      "pronunciation": "deh-vohl-VEHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Refund",
+      "back": "Reembolso",
+      "pronunciation": "reh-ehm-BOHL-soh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Warranty",
+      "back": "Garantía",
+      "pronunciation": "gah-rahn-TEE-ah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Product",
+      "back": "Producto",
+      "pronunciation": "proh-DOOK-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Item",
+      "back": "Artículo",
+      "pronunciation": "ahr-TEE-koo-loh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Goods",
+      "back": "Mercancías",
+      "pronunciation": "mehr-kahn-SEE-ahs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Merchandise",
+      "back": "Mercadería",
+      "pronunciation": "mehr-kah-deh-REE-ah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Stock",
+      "back": "Stock",
+      "pronunciation": "stohk",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "In stock",
+      "back": "En stock",
+      "pronunciation": "ehn stohk",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Out of stock",
+      "back": "Agotado",
+      "pronunciation": "ah-goh-TAH-doh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Available",
+      "back": "Disponible",
+      "pronunciation": "dees-poh-NEE-bleh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Unavailable",
+      "back": "No disponible",
+      "pronunciation": "noh dees-poh-NEE-bleh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Delivery",
+      "back": "Entrega",
+      "pronunciation": "ehn-TREH-gah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shipping",
+      "back": "Envío",
+      "pronunciation": "ehn-VEE-oh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Free shipping",
+      "back": "Envío gratis",
+      "pronunciation": "ehn-VEE-oh GRAH-tees",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Express delivery",
+      "back": "Entrega express",
+      "pronunciation": "ehn-TREH-gah ehks-PREHS",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Order",
+      "back": "Pedido",
+      "pronunciation": "peh-DEE-doh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To order",
+      "back": "Pedir",
+      "pronunciation": "peh-DEER",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Purchase",
+      "back": "Compra",
+      "pronunciation": "KOHM-prah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Transaction",
+      "back": "Transacción",
+      "pronunciation": "trahn-sahk-see-OHN",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Invoice",
+      "back": "Factura",
+      "pronunciation": "fahk-TOO-rah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bill",
+      "back": "Cuenta",
+      "pronunciation": "KWEHN-tah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Total",
+      "back": "Total",
+      "pronunciation": "toh-TAHL",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Subtotal",
+      "back": "Subtotal",
+      "pronunciation": "soob-toh-TAHL",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Tax",
+      "back": "Impuesto",
+      "pronunciation": "eem-PWES-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Sales tax",
+      "back": "Impuesto de ventas",
+      "pronunciation": "eem-PWES-toh deh VEHN-tahs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Tip",
+      "back": "Propina",
+      "pronunciation": "proh-PEE-nah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Checkout",
+      "back": "Caja",
+      "pronunciation": "KAH-hah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Cash register",
+      "back": "Caja registradora",
+      "pronunciation": "KAH-hah reh-hees-trah-DOH-rah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Queue",
+      "back": "Cola",
+      "pronunciation": "KOH-lah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Line",
+      "back": "Fila",
+      "pronunciation": "FEE-lah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "To wait",
+      "back": "Esperar",
+      "pronunciation": "ehs-peh-RAHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Opening hours",
+      "back": "Horario de apertura",
+      "pronunciation": "oh-RAH-ree-oh deh ah-pehr-TOO-rah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Closing time",
+      "back": "Hora de cierre",
+      "pronunciation": "OH-rah deh see-EH-rreh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Open",
+      "back": "Abierto",
+      "pronunciation": "ah-bee-EHR-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Closed",
+      "back": "Cerrado",
+      "pronunciation": "seh-RRAH-doh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Grocery shopping",
+      "back": "Compra de comestibles",
+      "pronunciation": "KOHM-prah deh koh-mehs-TEE-blehs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Window shopping",
+      "back": "Mirar escaparates",
+      "pronunciation": "mee-RAHR ehs-kah-pah-RAH-tehs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Shopping list",
+      "back": "Lista de compras",
+      "pronunciation": "LEES-tah deh KOHM-prahs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Budget",
+      "back": "Presupuesto",
+      "pronunciation": "preh-soo-PWES-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Spend",
+      "back": "Gastar",
+      "pronunciation": "gahs-TAHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Save money",
+      "back": "Ahorrar dinero",
+      "pronunciation": "ah-oh-RRAHR dee-NEH-roh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Bargain hunting",
+      "back": "Buscar gangas",
+      "pronunciation": "boos-KAHR GAHN-gahs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Impulse buying",
+      "back": "Compra impulsiva",
+      "pronunciation": "KOHM-prah eem-pool-SEE-vah",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Comparison shopping",
+      "back": "Comparar precios",
+      "pronunciation": "kohm-pah-RAHR PREH-see-ohs",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Consumer",
+      "back": "Consumidor",
+      "pronunciation": "kohn-soo-mee-DOHR",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Loyalty card",
+      "back": "Tarjeta de fidelidad",
+      "pronunciation": "tahr-HEH-tah deh fee-deh-lee-DAHD",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Gift card",
+      "back": "Tarjeta de regalo",
+      "pronunciation": "tahr-HEH-tah deh reh-GAH-loh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Coupon",
+      "back": "Cupón",
+      "pronunciation": "koo-POHN",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Promotion",
+      "back": "Promoción",
+      "pronunciation": "proh-moh-see-OHN",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Advertisement",
+      "back": "Anuncio",
+      "pronunciation": "ah-NOON-see-oh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Catalog",
+      "back": "Catálogo",
+      "pronunciation": "kah-TAH-loh-goh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Brochure",
+      "back": "Folleto",
+      "pronunciation": "foh-YEH-toh",
+      "type": "vocabulary",
+      "category": "shopping"
+    },
+    {
+      "front": "Sample",
+      "back": "Muestra",
+      "pronunciation": "MWES-trah",
+      "type": "vocabulary",
+      "category": "shopping"
+    }
+  ]
+}
