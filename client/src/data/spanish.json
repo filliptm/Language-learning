@@ -856,8 +856,8 @@
       ]
     },
     {
-      "name": "family",
-      "title": "Family",
+      "id": "family",
+      "name": "Family",
       "description": "Family members and relationships",
       "icon": "👨‍👩‍👧‍👦",
       "cards": [
@@ -969,8 +969,8 @@
       ]
     },
     {
-      "name": "food",
-      "title": "Food & Drinks",
+      "id": "food",
+      "name": "Food & Drinks",
       "description": "Food, beverages, and dining",
       "icon": "🍽️",
       "cards": [
@@ -1086,8 +1086,8 @@
       ]
     },
     {
-      "name": "body",
-      "title": "Body Parts",
+      "id": "body",
+      "name": "Body Parts",
       "description": "Parts of the human body",
       "icon": "👤",
       "cards": [
@@ -1203,8 +1203,8 @@
       ]
     },
     {
-      "name": "time",
-      "title": "Time",
+      "id": "time",
+      "name": "Time",
       "description": "Time, dates, and temporal expressions",
       "icon": "⏰",
       "cards": [
@@ -1321,8 +1321,8 @@
       ]
     },
     {
-      "name": "weather",
-      "title": "Weather",
+      "id": "weather",
+      "name": "Weather",
       "description": "Weather conditions and climate",
       "icon": "🌤️",
       "cards": [
@@ -1435,8 +1435,8 @@
       ]
     },
     {
-      "name": "emotions",
-      "title": "Emotions",
+      "id": "emotions",
+      "name": "Emotions",
       "description": "Feelings and emotional states",
       "icon": "😊",
       "cards": [
@@ -1548,8 +1548,8 @@
       ]
     },
     {
-      "name": "transportation",
-      "title": "Transportation",
+      "id": "transportation",
+      "name": "Transportation",
       "description": "Vehicles and travel methods",
       "icon": "🚗",
       "cards": [
@@ -1664,8 +1664,8 @@
       ]
     },
     {
-      "name": "clothing",
-      "title": "Clothing",
+      "id": "clothing",
+      "name": "Clothing",
       "description": "Clothes and fashion items",
       "icon": "👕",
       "cards": [
@@ -1780,7 +1780,10 @@
       ]
     },
     {
+      "id": "animals",
       "name": "Animals",
+      "description": "Animals and wildlife",
+      "icon": "🐾",
       "cards": [
         { "front": "Dog", "back": "Perro", "pronunciation": "PEH-rroh", "type": "vocabulary", "category": "animals" },
         { "front": "Cat", "back": "Gato", "pronunciation": "GAH-toh", "type": "vocabulary", "category": "animals" },
@@ -1892,7 +1895,10 @@
       ]
     },
     {
+      "id": "household",
       "name": "Household Items",
+      "description": "Items found in the home",
+      "icon": "🏠",
       "cards": [
         { "front": "House", "back": "Casa", "pronunciation": "KAH-sah", "type": "vocabulary", "category": "household" },
         { "front": "Home", "back": "Hogar", "pronunciation": "oh-GAHR", "type": "vocabulary", "category": "household" },
@@ -2009,7 +2015,10 @@
       ]
     },
     {
+      "id": "work",
       "name": "Work",
+      "description": "Work and professional vocabulary",
+      "icon": "💼",
       "cards": [
         { "front": "Job", "back": "Trabajo", "pronunciation": "trah-BAH-hoh", "type": "vocabulary", "category": "work" },
         { "front": "Work", "back": "Trabajo", "pronunciation": "trah-BAH-hoh", "type": "vocabulary", "category": "work" },
@@ -2122,7 +2131,10 @@
       ]
     },
     {
+      "id": "places",
       "name": "Places",
+      "description": "Locations and places",
+      "icon": "📍",
       "cards": [
         { "front": "Place", "back": "Lugar", "pronunciation": "loo-GAHR", "type": "vocabulary", "category": "places" },
         { "front": "City", "back": "Ciudad", "pronunciation": "see-oo-DAHD", "type": "vocabulary", "category": "places" },
@@ -2238,7 +2250,10 @@
       ]
     },
     {
+      "id": "shopping",
       "name": "Shopping",
+      "description": "Shopping and commerce vocabulary",
+      "icon": "🛒",
       "cards": [
         { "front": "Shopping", "back": "Compras", "pronunciation": "KOHM-prahs", "type": "vocabulary", "category": "shopping" },
         { "front": "To shop", "back": "Comprar", "pronunciation": "kohm-PRAHR", "type": "vocabulary", "category": "shopping" },
